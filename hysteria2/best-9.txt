@@ -1,12 +1,8 @@
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2052/?insecure=1&sni=bl2.mangshe.xyz#%F0%9F%94%B04%40oneclickvpnkeys
-hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1001?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
-hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1002?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
-hysteria2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882?hiddify=1&obfs=salamander&obfs-password=xYGLQEJbZmUz&sni=ramzinex.com&insecure=1#Ipv6%20Hysteria2
-hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#%E2%9A%933%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2056?security=tls&insecure=1&sni=cc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2052/?insecure=1&sni=cc1.mangshe.xyz#%F0%9F%94%B040%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc2.mangshe.xyz:2056?security=tls&insecure=1&sni=cc2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@clash-ip1.934618.xyz:18271?allowInsecure=0&insecure=0&security=tls&sni=clash-ip1.934618.xyz#
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@clash-ip1.934618.xyz:18271/?sni=clash-ip1.934618.xyz#
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:443?sni=connect-ger2.gadmap.online#
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:443/?sni=connect-ger2.gadmap.online#
 hysteria2://ee1f7400-b7cb-4776-9e85-497965dfde00@dailyshop.pharmaweb.info:8080?peer=buildcenter.pharmaweb.info&insecure=0&sni=buildcenter.pharmaweb.info&alpn=h3#temp500-singbox_hysteria2
@@ -38,7 +34,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sn
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&sni=138.197.44.181#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20138.197.44.181%20%E2%97%88%20udp:46160%20%E2%97%88%20DigitalOcean%20/%20DigitalOcean%20%E2%97%88%2084a50
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F9%40oneclickvpnkeys
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E5%A2%A8%E8%A5%BF%E5%93%A5_070201005
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=0&sni=fta.fontanvpn.com#
 hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?alpn=h2%2Ch3&fp=chrome&sni=ger1.riziro.ir&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%92%8Ehysteria2-%40hollowcon
 hysteria2://5z15av99psrlhdqp@32.195.51.20:39150?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h3,http/1.1,h2&fm={#
 hysteria2://masir_sefid@18.157.51.145:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#
@@ -103,3 +99,7 @@ hysteria2://odnvqb4ihg396e5z@104.252.19.102:37025?Telegram=@GozargahAzad,@Gozarg
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:54040?security=tls&obfs=salamander&alpn=h3&obfs-password=@JynMarket&insecure=0&sni=104.252.19.102#
 hysteria2://f3182d97-8472-4433-8d75-7598d6978364@kaikaixinxin-ca.legeth.xyz:443?security=tls&insecure=0&mport=61001-61999&sni=kaikaixinxin-ca.legeth.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇨🇦%20CA%20down
 hysteria2://Telegram%3A%40KevinZakarian@kevin.iserver.store:8443?security=tls&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1#🆔v2rayngrit%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
+hysteria2://KevinZakaria#
+hysteria2://KevinZakaria…#
+hysteria2://6ee88597-c540-4aaf-8114-aa2c0b20c27f@kr.rosisi.xyz:4443?sni=kr.rosisi.xyz#
+hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@kr.zhenshihui.one:48489/#%40V2rayMiner
