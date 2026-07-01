@@ -103,3 +103,4 @@ hy2://miaoge110.@170.64.183.54:33939?insecure=1&sni=www.bing.com#🇦🇺AU%20|%
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@170.64.217.182:10001?sni=AU.1010520.shop#🔒
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@172.104.42.126:443?mport=40001-50000&insecure=1&sni=ynb.441122.xyz#🔒
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.105.240.182:10001?sni=JP.1010520.shop#🔒
+hysteria2://few4139098219@172.172.36.217:7863?security=tls&insecure=1&sni=bing.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
