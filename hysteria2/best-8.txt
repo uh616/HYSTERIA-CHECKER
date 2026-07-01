@@ -46,7 +46,7 @@ hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&sni=google.com&obfs=sal
 hy2://de02ad7f-f076-4e8d-abe8-9f2b21a557b5@79.72.49.232:50000?insecure=1&sni=www.microsoft.com#🔒
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?security=tls&amp;insecure=1&amp;sni=www.apple.com#@V2ray_Alpha--IR-2
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@8.219.53.46:5552?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85%20%231
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85
 hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443/?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@80.92.205.219:53041?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=jobvision.ir#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@81.208.175.184:2052?insecure=1&sni=jd1.mangshe.xyz#🔒
@@ -103,3 +103,4 @@ hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1001?security=tl
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1002?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882?hiddify=1&obfs=salamander&obfs-password=xYGLQEJbZmUz&sni=ramzinex.com&insecure=1#Ipv6%20Hysteria2
 hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#%E2%9A%933%40oneclickvpnkeys
+hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2056?security=tls&insecure=1&sni=cc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
