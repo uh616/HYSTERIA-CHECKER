@@ -1,3 +1,4 @@
+hysteria2://6ee88597-c540-4aaf-8114-aa2c0b20c27f@kr.rosisi.xyz:4443?sni=kr.rosisi.xyz#
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@kr.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2056?security=tls&insecure=1&sni=ld1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇬🇧%20GB%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2052/?insecure=1&sni=ld1.mangshe.xyz#%F0%9F%94%B02%40oneclickvpnkeys
@@ -87,9 +88,8 @@ hysteria2://6ee88597-c540-4aaf-8114-aa2c0b20c27f@us01.rosisi.xyz:4443?sni=us01.r
 hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://C5FC4ED3-25A0-4ACC-9862-0B63EB7EAD54@us9.dexlos.com:21756?insecure=0&fp=&sni=us9.dexlos.com&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3#
-hysteria2://r7386498464bm@vids.jibijij.top:27039?sni=bts.com&insecure=0&obfs=salamander#
+hysteria2://r7386498464bm:XZ3Uz5lENqmY3ydxm0NzsTe1l7wtldIi@vids.jibijij.top:27039?sni=bts.com&obfs=salamander&obfs-password=OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2&pinSHA256=D4:21:07:A8:C0:73:FB:35:55:78:4A:82:CD:26:20:A5:1B:81:1F:92:56:EB:39:B1:B9:65:4A:39:B5:95:06:58#%F0%9F%87%A9%F0%9F%87%AA95763%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=vn2.yuntong.click#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%E4%B8%AD%E5%9C%8B%E8%87%BA%E7%81%A3%E4%B8%A8yoyapai.com
 hysteria2://C6TpRY6HyT@vps-orange-jpn.maze-maker.com:37749?insecure=0&sni=vps-orange-jpn.maze-maker.com#
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
@@ -100,7 +100,7 @@ hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte9.nimarko.org:8451?allowIns
 hysteria2://gpek52gl59sw832k@wt.easyiran.org:59182?alpn=h2%2Chttp%2F1.1%2Ch3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22tb46go2ezfjc11f9%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=tb46go2ezfjc11f9&security=tls&sni=wt.easyiran.org#
 hysteria2://MySecurePassword123@wuhantravel.duckdns.org:8443?alpn=h3&sni=wuhantravel.duckdns.org#
 hysteria2://MySecurePassword123@wuhantravel.duckdns.org:8443/?sni=wuhantravel.duckdns.org#
-hysteria2://dongtaiwang.com@www.838491.xyz:13377?insecure=0&sni=www.838491.xyz&obfs=&obfs-password=#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C3.9MB/s
+hysteria2://dongtaiwang.com@www.838491.xyz:13377?sni=www.838491.xyz#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C3.3MB%2Fs%7CGPT%E2%81%BA%7CYT-FR%7CNF%7CD%2B
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp1.mangshe.xyz:2052?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%94%B037@oneclickvpnkeys
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp1.mangshe.xyz:2052/?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%94%B037%40oneclickvpnkeys
