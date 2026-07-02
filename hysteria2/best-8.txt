@@ -1,3 +1,4 @@
+hysteria2://Masir_Sefid@65.109.216.181:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qs.masir-sefid.shop#
 hy2://freeasfree.f215b295e3c0bf6a@65.109.219.247:7443?obfs=salamander&obfs-password=f215b295e3c0bf6a&insecure=1&sni=zara.com#🔒
 hy2://rs3h2c9n8X@65.21.158.249:2053?insecure=1#🔒
 hy2://rs3h2c9n8X@65.21.158.249:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
@@ -102,4 +103,3 @@ hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2056?security=t
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2052/?insecure=1&sni=bl2.mangshe.xyz#%F0%9F%94%B04%40oneclickvpnkeys
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1001?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1002?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
-hysteria2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882?hiddify=1&obfs=salamander&obfs-password=xYGLQEJbZmUz&sni=ramzinex.com&insecure=1#Ipv6%20Hysteria2
