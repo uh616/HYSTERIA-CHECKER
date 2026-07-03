@@ -37,9 +37,9 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@140.238.137.165:30102?insecure=1&sni=
 hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@140.238.229.214:24149?insecure=1#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@140.238.253.128:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@140.245.27.220:443?insecure=1&sni=cn.cremedelamer.com#🔒
-hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#
+hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20202579
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@140.245.27.220:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
-hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com#
+hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20537673
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.47.111:443?insecure=1&sni=www.bing.com#🔒
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@140.245.51.129:10001?sni=SG.1010520.shop#🔒
 hy2://96cad374-7573-4463-8804-4665c2c3d932@140.245.55.241:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
@@ -110,3 +110,4 @@ hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@150.129.10.140:443?sni=u729792u
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.136.65.4:2052?insecure=1&sni=asb1.mangshe.xyz#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@150.230.192.191:30001?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj1.mangshe.xyz#🔒
+hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.205.14:30075?insecure=1&sni=www.bing.com#🔒
