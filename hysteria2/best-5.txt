@@ -50,7 +50,7 @@ hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamande
 hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#🔒
 hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3041?sni=uk.bydk.xyz#🔒
 hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3043?sni=uk.bydk.xyz#🔒
-hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@23.166.40.27:443?sni=u691611u2e827823s79.sspcccdn.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%E7%BE%8E%E5%9B%BD_070400111
+hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@23.166.40.27:443?security=tls&sni=u691611u2e827823s79.sspcccdn.xyz#
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@23.247.137.67:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@23.247.137.67:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B07%40oneclickvpnkeys
 hy2://de6eafd5-a11f-4e9c-b763-2d114fb97257@23.26.34.209:8080?insecure=1&sni=www.bing.com#🔒
@@ -104,8 +104,8 @@ hy2://fokaS4id3bretay-7rit@[2a05:f480:1400:2ddc:5400:4ff:fec6:11a]:443/?insecure
 hy2://18240b2dfdd76484@[2a05:f480:2000:1384:5400:5ff:fe19:8b0a]:443/?obfs=salamander&obfs-password=d2648ec2&insecure=1#CPI4-ipv6
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a06:8184:2:1a::9d0f:5017]:32421?insecure=1&sni=www.bing.com#🔒
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@[2a0b:4140:925f::2]:81?insecure=1#🔒
-hysteria2://b1be3c3c-5cb7-4b5b-8dbc-a407eb0d63b7@[2a0b:4142:a86::2]:4142?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#%E2%9B%B318%40NetFlowTools
-hysteria2://b1be3c3c-5cb7-4b5b-8dbc-a407eb0d63b7@[2a0b:4142:a86::2]:28443/?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#⛳18@NetFlowTools
+hysteria2://cc8b3b88-4ce7-4420-9793-c230f1191246@[2a0b:4142:a86::2]:4142?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#%F0%9F%8D%9346%40oneclickvpnkeys
+hysteria2://cc8b3b88-4ce7-4420-9793-c230f1191246@[2a0b:4142:a86::2]:28443/?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#%F0%9F%8D%9346@oneclickvpnkeys
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2a0b:8bc0:2:856::1]:443?sni=u729792us2060.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hy2://28c05d48e2f470d07a4c392c9bd43849@[2a0d:5940:44:301::]:443?sni=jostar-data.nl#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a0e:6a80:3:38c:0:1:2ef0:ff2a]:25002?insecure=1&sni=www.bing.com#🔒
