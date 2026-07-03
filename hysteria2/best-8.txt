@@ -1,7 +1,3 @@
-hy2://KevinZakarian@66.23.198.27:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
-hy2://KevinZakarian@66.23.198.27:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
-hy2://KevinZakarian@66.23.198.28:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
-hy2://KevinZakarian@66.23.198.28:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
 hy2://KevinZakarian@66.23.198.29:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
 hy2://KevinZakarian@66.23.198.29:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=kevin.serverv.net#🔒
 hy2://KevinZakarian@66.23.198.30:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
@@ -17,6 +13,7 @@ hy2://KevinZakarian@66.23.198.34:443?obfs=salamander&obfs-password=KevinZakarian
 hy2://KevinZakarian@66.23.198.34:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
 hy2://KevinZakarian@66.23.198.35:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
 hy2://KevinZakarian@66.23.198.35:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.247:8449?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%8D%9345%40oneclickvpnkeys
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.247:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#
 hy2://9f73c619627d6a5d@66.245.192.15:443?obfs=salamander&obfs-password=bd7f765e&insecure=1&sni=www.apple.com#🔒
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#⚡️
@@ -105,3 +102,6 @@ hysteria2://ee1f7400-b7cb-4776-9e85-497965dfde00@dailyshop.pharmaweb.info:8080?p
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#DE
 hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#DE
 hy2://sharecentrepro@de.sharecentrepro.link:4433?downmbps=1000&sni=de.sharecentrepro.link#%F0%9F%94%92%F0%9F%87%A9%F0%9F%87%AA%20DE%2051.68.169.215%20%E2%97%88%20udp:4433%20%E2%97%88%20OVH%20/%20Regxa%20%E2%97%88%2090b98
+hy2://%73%68%61%72%65%63%65%6E%74%72%65%70%72%6F@de.sharecentrepro.link:4433/#Free_V2rng
+hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟5@oneclickvpnkeys
+hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@debiantubelinux.space:443?obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW&sni=debiantubelinux.space#SMART
