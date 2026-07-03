@@ -36,7 +36,7 @@ hysteria2://hk6ah4vgb0qp2koh@panel.riziro.ir:4526?alpn=h3&fp=chrome&sni=ger1.riz
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#%F0%9F%87%B1%F0%9F%87%BBhysteria
 hysteria2://28c05d48e2f470d07a4c392c9bd43849@quran.mci.ai:443?security=tls&insecure=0&sni=quran.mci.ai#
 hysteria2://5xsgx28bxlhd7oc4@rx.easyiran.org:38787?alpn=h2%2Chttp/1.1%2Ch3&fp=chrome&sni=rx.easyiran.org&obfs=salamander&obfs-password=4u5lx2ldqk5oeo7y#
-hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@s491.ccgfw.online:443?sni=u691611us491.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E7%BE%8E%E5%9B%BD_070310367
+hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@s491.ccgfw.online:443?sni=u691611us491.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%E7%BE%8E%E5%9B%BD_070315107
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s544.ccgfw.online:443?sni=u729792us544.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s662.ccgfw.top:443?sni=u729792us662.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s665.ccgfw.top:443?sni=u729792us665.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
