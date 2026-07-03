@@ -1,3 +1,5 @@
+hy2://KevinZakarian@[2606:a8c0:101:22::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
+hy2://KevinZakarian@[2606:a8c0:101:22::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
 hy2://KevinZakarian@[2606:a8c0:101:39::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
 hy2://KevinZakarian@[2606:a8c0:101:39::a]:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
 hy2://KevinZakarian@[2606:a8c0:101:6d::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
@@ -24,7 +26,7 @@ hy2://fokaS4id3bretay-7rit@[2a05:f480:1400:2ddc:5400:4ff:fec6:11a]:443/?insecure
 hy2://18240b2dfdd76484@[2a05:f480:2000:1384:5400:5ff:fe19:8b0a]:443/?obfs=salamander&obfs-password=d2648ec2&insecure=1#CPI4-ipv6
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a06:8184:2:1a::9d0f:5017]:32421?insecure=1&sni=www.bing.com#🔒
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@[2a0b:4140:925f::2]:81?insecure=1#🔒
-hysteria2://b1be3c3c-5cb7-4b5b-8dbc-a407eb0d63b7@[2a0b:4142:a86::2]:4142?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#
+hysteria2://b1be3c3c-5cb7-4b5b-8dbc-a407eb0d63b7@[2a0b:4142:a86::2]:4142?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#%E2%9B%B318%40NetFlowTools
 hysteria2://b1be3c3c-5cb7-4b5b-8dbc-a407eb0d63b7@[2a0b:4142:a86::2]:28443/?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#⛳18@NetFlowTools
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2a0b:8bc0:2:856::1]:443?sni=u729792us2060.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hy2://28c05d48e2f470d07a4c392c9bd43849@[2a0d:5940:44:301::]:443?sni=jostar-data.nl#🔒
@@ -102,6 +104,3 @@ hy2://1f17cdf0578a2860@45.76.0.86:443?obfs=salamander&obfs-password=4b817757&ins
 hy2://1f17cdf0578a2860@45.76.0.86:443/?obfs=salamander&obfs-password=4b817757&insecure=1#CPI3
 hy2://f40b1e441addaec3@45.76.44.57:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@45.8.147.250:53038?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=mobile.ir#🔒
-hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@46.17.40.117:443?insecure=1&sni=music.apple.com#🔒
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@46.17.40.42:30102?insecure=1&sni=du.wish.ml#🔒
-hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#🆔dingyue_center%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
