@@ -1,5 +1,3 @@
-hy2://148097c2-cd69-4015-992f-5939c08b9ab8@150.66.12.23:443?mport=22000-22999#🔒
-hy2://09f8d33b-62ae-4cb4-89eb-00e9570f30a6@151.249.104.35:34623?insecure=1&sni=zula.ir#Rayan%20-%20GAFN%20-%20Hys2%20-%20P1
 hy2://5c33a4b2-7768-4e6c-87a8-a1515d1de609@152.53.0.187:40443/?sni=speedtest.realityforus.com#%F0%9F%87%A6%F0%9F%87%B9Vienna%2B%40Surfboardv2ray
 hy2://9d765687-536c-4626-a2e2-6a403219e381@152.53.54.139:30000?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://51ed158e-b95b-451b-a48b-60e356de287d@152.53.54.139:30001?insecure=1&sni=35afq4514.surfcat.store#🔒
@@ -112,3 +110,4 @@ hysteria2://%40Masir_Sefid@18.157.222.169:443?insecure=0&sni=free.masir-sefid.sh
 hysteria2://%40Masir_Sefid@18.157.222.169:444?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://%40Masir_Sefid@18.157.222.169:1040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://%40Masir_Sefid@18.157.222.169:4040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
+hysteria2://%40Masir_Sefid@18.157.222.169:8880?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
