@@ -1,3 +1,6 @@
+hy2://@ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489@193.38.54.48:443/?sni=let-him-cook.ircp.online&obfs=salamander&obfs-password=@ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489#HYSTERiA
+hysteria2://2czgzikbgor99ad2@markazi.kidshop.dpdns.org:33120?alpn=h2%2Chttp/1.1%2Ch3&fp=chrome&sni=&obfs=salamander&obfs-password=3y1p0k44cwzaa3zd#
+hysteria2://elczfe1nt42amtjf@markazi.kidshop.dpdns.org:42641?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22kpj8ac1gwtzdfclh%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&obfs=salamander&obfs-password=kpj8ac1gwtzdfclh&security=tls&sni=markazi.kidshop.dpdns.org#
 hysteria2://yifh0qs77eizisrw@media.metsima.com:52002?security=tls&obfs=salamander&obfs-password=24c62hlvn16z8tps&insecure=0&sni=media.metsima.com#
 hysteria2://yifh0qs77eizisrw@media.metsima.com:52016?security=tls&obfs=salamander&obfs-password=ad5vwibpdl6dif10&insecure=0&sni=media.metsima.com#
 hysteria2://yifh0qs77eizisrw@media.metsima.com:52019?security=tls&obfs=salamander&obfs-password=4nf2yzit4h6l0gx8&insecure=0&sni=media.metsima.com#
