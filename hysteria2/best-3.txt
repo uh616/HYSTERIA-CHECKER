@@ -1,6 +1,3 @@
-hy2://148097c2-cd69-4015-992f-5939c08b9ab8@150.66.12.23:443?mport=22000-22999#🔒
-hy2://09f8d33b-62ae-4cb4-89eb-00e9570f30a6@151.249.104.35:34623?insecure=1&sni=zula.ir#Rayan%20-%20GAFN%20-%20Hys2%20-%20P1
-hy2://5c33a4b2-7768-4e6c-87a8-a1515d1de609@152.53.0.187:40443/?sni=speedtest.realityforus.com#%F0%9F%87%A6%F0%9F%87%B9Vienna%2B%40Surfboardv2ray
 hy2://9d765687-536c-4626-a2e2-6a403219e381@152.53.54.139:30000?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://51ed158e-b95b-451b-a48b-60e356de287d@152.53.54.139:30001?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://91aa5eb5-e257-4885-a591-8ba742c4fcd2@152.53.54.139:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
@@ -85,6 +82,7 @@ hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.105.240.182:10001?sni=JP.1010520.
 hysteria2://few4139098219@172.172.36.217:7863?security=tls&insecure=1&sni=bing.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://1486bfa6-1c4c-456d-b055-c9760f911385@172.233.81.57:443/?mport=20000-50000&insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=YTVjNWFjYzExOTIzNzQyOQ%3D%3D#jp
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.236.149.43:10001?sni=SG3.1010520.shop#🔒
+hysteria2://a8a5b34d-fe46-487d-bd6a-d9f3101525fd@172.96.141.4:50581?insecure=1&sni=api.push.apple.com#%F0%9F%87%BA%F0%9F%87%B8US_4%7C3.3MB%2Fs%7CGPT%E2%81%BA%7CYT-US%7CGM%7C42%25
 hy2://d5537dd05904b6a6@173.199.70.234:443?insecure=1&obfs=salamander&obfs-password=d2b91736#🔒
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@176.124.202.137:80?insecure=1#🔒
 hy2://0d8a7085-8fb3-4999-80d9-d1e72ca7c1ed@176.32.32.68:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#🔒
@@ -106,9 +104,12 @@ hy2://KevinZakarian@179.61.132.92:8443?obfs=salamander&obfs-password=KevinZakari
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
 hy2://MScgdxgGEW@179.61.251.214:44800?obfs=salamander&obfs-password=On0(hf$54%25gFDet$%25K5gf3&insecure=1#🔒
 hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.236.225:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🪼47@NetFlowTools
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.236.225:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC47%40oneclickvpnkeys
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.236.225:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC47@oneclickvpnkeys
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
 hysteria2://%40Masir_Sefid@18.157.222.169:443?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://%40Masir_Sefid@18.157.222.169:444?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
 hysteria2://%40Masir_Sefid@18.157.222.169:1040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
+hysteria2://%40Masir_Sefid@18.157.222.169:4040?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
+hysteria2://%40Masir_Sefid@18.157.222.169:8880?insecure=0&sni=free.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#
