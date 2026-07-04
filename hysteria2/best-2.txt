@@ -42,7 +42,7 @@ hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.47.111:443?insecure=1&sni=www
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@140.245.51.129:10001?sni=SG.1010520.shop#🔒
 hy2://96cad374-7573-4463-8804-4665c2c3d932@140.245.55.241:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.57.42:443?insecure=1&sni=www.bing.com#🔒
-hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@140.245.74.46:55020?insecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C4.4MB%2Fs%7CGPT%E2%81%BA%7CYT-KR%7CGM%7C2%25
+hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@140.245.74.46:55020?insecure=1#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.3MB%2Fs%7CGPT%E2%81%BA%7CYT-KR%7CNF%7CGM%7C2%25
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@140.82.16.240:8080?sni=jp4.trojanws.xyz#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.84.168.166:443?insecure=1&sni=www.bing.com#🔒
 hy2://4984806b-f0f9-4749-bdd5-ea38bd690270@141.11.125.225:17766?insecure=1#🔒
