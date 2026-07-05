@@ -4,8 +4,12 @@ hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.245:8449?insecure=1&
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.245:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.246:8449?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.246:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.251:8449?insecure=1#45.196.182.251%3A8449
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.247:8449?sni=sni.fi-m247-02.com#%F0%9F%87%AB%F0%9F%87%AEFI_36%7C1.1MB%2Fs%7CGPT%E2%81%BA%7CYT-RU
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.248:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.251:8449?insecure=1&sni=https://t.me/WangCai2🇨🇳#2%F0%9F%AA%BC%40oneclickvpnkeys
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.251:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.252:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.253:8449?sni=sni.fi-m247-02.com#%F0%9F%87%AB%F0%9F%87%AEFI_14%7C1.1MB%2Fs%7CGPT%E2%81%BA%7CYT-RU
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.254:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
 hysteria2://af223a34-e37f-41c8-8467-26474a3ac9d8@45.202.248.138:55000?insecure=1&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2002
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443?obfs=salamander&obfs-password=2pU!&insecure=1&sni=Google.com#🔒
@@ -37,7 +41,7 @@ hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.74.42.113:6588?obfs=salamander&obf
 hy2://sysadmin.sysadmin@47.76.80.29:2023?insecure=1#🔒
 hy2://sysadmin.sysadmin@47.81.8.60:7788?insecure=1&sni=tg.sdxlgj001.top#🔒
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.89.248.125:5113?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🔒
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.6MB%2Fs%7CGPT%E2%81%BA%7CYT-NL%7CNF%7C11%25
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com&obfs=&obfs-password=#%F0%9F%87%B3%F0%9F%87%B1NL_3%7C3.3MB/s
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=www.microsoft.com#
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA4
@@ -68,7 +72,7 @@ hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@54.249.79.143:307
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.249.79.143:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B52%40Antifilterjadid
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.250.34.221:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@54.250.34.221:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_221%20%40wangcai_8
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC46%40oneclickvpnkeys
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.44:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA5
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA6
@@ -118,4 +122,3 @@ hy2://sysadmin.sysadmin@66.103.214.157:1443?insecure=1&sni=tz.xiahaitao.cn#🔒
 hy2://4e9ee29b39a28277@66.135.11.68:443?obfs=salamander&obfs-password=13f7ba5f&insecure=1&sni=66.135.11.68#🔒
 hy2://4e9ee29b39a28277@66.135.11.68:443/?obfs=salamander&obfs-password=13f7ba5f&insecure=1#CPI
 hysteria2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=ELiV2RAY.eliv2.top%0A#🆔toyota_proxy%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
-hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#⚡️@vipv2rey
