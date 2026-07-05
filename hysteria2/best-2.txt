@@ -1,4 +1,3 @@
-hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052?insecure=1&sni=us1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052/?insecure=1&sni=us1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%BA%F0%9F%87%B2
 hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443?mport=20001-25000&sni=1.nodes.yljc.online#🔒
 hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443/?mport=20001-25000&sni=1.nodes.yljc.online#%E2%84%B9%EF%B8%8F2%40oneclickvpnkeys
@@ -93,7 +92,7 @@ hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22Ws
 hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@147.45.233.149:443/you/%40%45%4C%69%56%32%52%41%59--%40%45%4C%69%56%32%52%41%59--%40%45%4C%69%56%32%52%41%59--%40%45%4C%69%56%32%52%41%59--%40%45%4C%69%56%32%52%41%59?sni=debiantubelinux.space&obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW#🇳🇱+@Free_V2rng
 hy2://cef1e7a47565b431@147.45.76.99:443?insecure=1&obfs=salamander&obfs-password=2c5ef5135559d4f5&sni=eliv2ray.elena.expert#%F0%9F%92%A5%F0%9F%87%B8%F0%9F%87%AA%20SE%20147.45.76.99%20%E2%97%88%20udp:443%20%E2%97%88%20Aeza%20International%20%E2%97%88%20a1db2
 hy2://cef1e7a47565b431@147.45.76.99:443/?insecure=1&sni=%45%4C%69%56%32%72%61%79.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪-@Free_V2rng
-hysteria2://13d29042-ab82-4195-9cd4-2bafc518e201@147.90.235.195:52625?insecure=1&sni=apps.apple.com#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.6MB%2Fs%7CGPT%E2%81%BA%7CYT-CN%7CNF%7CD%2B%7C35%25
+hysteria2://13d29042-ab82-4195-9cd4-2bafc518e201@147.90.235.195:52625?insecure=1&sni=apps.apple.com#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.7MB%2Fs%7CGPT%E2%81%BA%7CYT-CN%7CNF%7CD%2B%7C35%25
 hy2://sysadmin.sysadmin@148.135.36.71:56666?insecure=1#🔒
 hy2://sysadmin.sysadmin@148.135.43.213:56666?insecure=1#🔒
 hy2://sysadmin.sysadmin@148.135.43.253:446?insecure=1&sni=ss.aslirico3212.nyc.mn#🔒
@@ -116,3 +115,6 @@ hy2://51ed158e-b95b-451b-a48b-60e356de287d@152.53.54.139:30001?insecure=1&sni=35
 hy2://91aa5eb5-e257-4885-a591-8ba742c4fcd2@152.53.54.139:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://sysadmin.sysadmin@152.67.234.151:444?insecure=1&sni=mg2.wtn.wang#🔒
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@152.69.195.193:52773?insecure=1&sni=h06.trojan.tel#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Osaka%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
+hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@152.69.195.193:52773/?insecure=1&sni=h06.trojan.tel#%E2%9A%9310%40oneclickvpnkeys
+hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@152.69.208.30:23729?insecure=1#🔒
+hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@152.69.210.130:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
