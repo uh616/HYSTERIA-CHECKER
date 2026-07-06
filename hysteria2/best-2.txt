@@ -124,3 +124,4 @@ hy2://1bd496a4@154.16.27.143:5433?insecure=1&sni=www.bing.com#🔒
 hy2://1bd496a4@154.16.27.143:5433/?insecure=1&sni=ELiV2RAY.ELENA.expert#us-mci-eliv2ray
 hy2://sysadmin.sysadmin@154.201.76.131:444?insecure=1&sni=ss.wodeyumingliao.top#🔒
 hy2://sysadmin.sysadmin@154.23.175.126:6813?insecure=1#🔒
+hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk1.pithecia.com#🔒
