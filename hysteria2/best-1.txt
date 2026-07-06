@@ -28,6 +28,7 @@ hy2://dongtaiwang.com@104.192.224.140:40391/?insecure=1&sni=www.bing.com#%F0%9F%
 hy2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#🔒
 hy2://dongtaiwang.com@104.192.224.141:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x4%40oneclickvpnkeys
 hysteria2://3oj4zp0tzjlwj7jv@104.233.209.232:33321?insecure=0&sni=104.233.209.232&obfs=salamander&obfs-password=iclkvfpcr5clinjs#
+hysteria2://140dfd67-61be-45e8-b234-0a5529d47ebc@104.234.233.100:55000?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:37025?security=tls&obfs=salamander&obfs-password=%40JynMarket&insecure=0&sni=104.252.19.102#
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:51554?security=tls&obfs=salamander&obfs-password=%40JynMarket&insecure=0&sni=104.252.19.102#
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:54040?security=tls&obfs=salamander&obfs-password=%40JynMarket&insecure=0&sni=104.252.19.102#
