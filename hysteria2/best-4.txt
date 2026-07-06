@@ -1,3 +1,4 @@
+hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=www.bing.com#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@178.173.248.172:2052?insecure=1&sni=hk3.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@178.173.248.172:2052/?insecure=1&sni=hk3.xiaoliyu.us#hk%40oneclickvpnkeys
 hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443?insecure=1&sni=google.com#🔒
@@ -35,7 +36,7 @@ hy2://w1WaL8WbZf@185.254.96.99:29814?obfs=salamander&obfs-password=iVPN.Pro-Sahe
 hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26#%40V2rayMiner
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052?insecure=1&sni=jp1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052/?insecure=1&sni=jp1.xiaoliyu.us#jp1%40oneclickvpnkeys
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20639157
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20189804
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?sni=fta.fontanvpn.com#%3E%3E%40oneclickvpnkeys%3A%3AFI
 hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.foriran.trade&obfs=salamander&obfs-password=Y7aunTuPJZBCfiDIm#🔒
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒
@@ -94,7 +95,7 @@ hy2://c72ee44c@[2001:41d0:a:2a7a:a:b:df4e:2408]:35051?insecure=1&sni=2001:41d0:a
 hy2://scWFJKJ5Y6Ly@[2001:41d0:c:fdb::e9]:443?insecure=1&sni=yahoo.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1640:177d:dc00:ff:fe22:b443]:34975?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:29820?insecure=1&sni=www.bing.com#🔒
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https://t.me/WangCai2#_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%203
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
 hy2://sysadmin.sysadmin@204.216.108.5:2024?insecure=1&sni=204-216-108-5.nip.io#🔒
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?insecure=1&sni=apps.apple.com#🔒
 hy2://sysadmin.sysadmin@206.237.0.170:443?insecure=1#🔒
