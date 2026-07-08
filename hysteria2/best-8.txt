@@ -1,14 +1,13 @@
-hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_206%20%40wangcai_8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F48%40v2ray_configs_pools
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.149.34.181:443?insecure=1#%F0%9F%92%A153%40oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.149.34.181:443/?insecure=1#%F0%9F%87%BA%F0%9F%87%B8104909%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.149.34.181:443/?insecure=1#%F0%9F%92%A153@oneclickvpnkeysvless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.49:7443?encryption=none&fp=qq&path=%2Fws&security=tls&sni=nl-cnn-1.hysteria.ltd&type=ws#%F0%9F%92%A157@oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.169.233.33:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%92%A151%40oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.169.233.33:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AC104907%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.169.233.33:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%92%A151@oneclickvpnkeys
 hy2://96cad374-7573-4463-8804-4665c2c3d932@54.178.107.109:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@54.238.69.229:3074?insecure=1#🔒
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443?insecure=1&sni=&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B8US_2%7C2.4MB/s
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443/?insecure=1#%F0%9F%87%BA%F0%9F%87%B8104912%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET📱
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443/?insecure=1#%F0%9F%92%A156@oneclickvpnkeys
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@54.249.79.143:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.249.79.143:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B52%40Antifilterjadid
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.250.34.221:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -47,7 +46,6 @@ hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20F
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7h2%40oneclickvpnkeys
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998100
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.27.216:60111/?insecure=1&sni=bing.com#14@v2ray_configs_pools
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@62.72.163.215:80?insecure=1#🔒
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=1&sni=www.bing.com#🔒
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@64.181.236.144:443?insecure=1&sni=www.bing.com#🔒
@@ -94,7 +92,7 @@ hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.230:8449/?insecure=1
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.231:8449?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20152481
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.231:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.232:8449?sni=sni.fi-m247-02.com#%F0%9F%92%A159%40oneclickvpnkeys
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.232:8449/?sni=sni.fi-m247-02.com#%F0%9F%87%AB%F0%9F%87%AE104913%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.232:8449/?sni=sni.fi-m247-02.com#%F0%9F%92%A159@oneclickvpnkeys
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.233:8449?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20625679
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.233:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.235:8449?sni=sni.fi-m247-02.com#%F0%9F%87%AB%F0%9F%87%AE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8A%AC%E5%85%B0%2008
