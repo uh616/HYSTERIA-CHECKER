@@ -1,3 +1,5 @@
+hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2056?security=tls&insecure=1&sni=fhc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#%F0%9F%94%B020%40oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sni=flkf1.mangshe.xyz#%F0%9F%94%B03%40oneclickvpnkeys
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&sni=138.197.44.181#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20138.197.44.181%20%E2%97%88%20udp:46160%20%E2%97%88%20DigitalOcean%20/%20DigitalOcean%20%E2%97%88%2084a50
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F9%40oneclickvpnkeys
@@ -12,7 +14,7 @@ hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E7%BE%8E%E5%9B%BD_0708104392
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E7%BE%8E%E5%9B%BD_0708154389
 hy2://d2e21fabfe6ddb83@hys1.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://d2e21fabfe6ddb83@hys11.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://9f73c619627d6a5d@hys2.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#irancpihys2
@@ -95,11 +97,10 @@ hysteria2://e07e6bb4-1a55-4e5f-92c5-25585c9715b6@us.vvcloud.us.kg:443?security=t
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMiner
 hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=vn2.yuntong.click#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2019
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#%F0%9F%87%AE%F0%9F%87%B3IN_1%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT-IN%7CNF%7CGM
+hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?sni=vn2.yuntong.click&insecure=0&obfs=salamander#US
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%E4%B8%AD%E5%9C%8B%E8%87%BA%E7%81%A3%E4%B8%A8yoyapai.com
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%95%B9%EF%B8%8F54%40v2ray_configs_pools
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🕹️54@v2ray_configs_pools
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
 hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/@warphiddify?sni=speedtest.realityforus.com#de-mtn-@warphiddify
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp1.mangshe.xyz:2052?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%94%B037@oneclickvpnkeys
