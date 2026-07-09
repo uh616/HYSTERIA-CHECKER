@@ -1,3 +1,7 @@
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@dejs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@frjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@hkjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@in.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@jp.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@nljs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@sg.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -634,6 +638,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@178.156.148.4:2053/?type=tcp&security=tls&sni=
 trojan://8r%3C%5B9%27l6hAO%238ZQi@178.156.148.4:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28371%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@178.173.249.254:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29%20%28178%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.106.95.125:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20%2850%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@185.148.105.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28374%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@185.169.107.52:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%2839%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.130.207.30:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29%20%2830%29
