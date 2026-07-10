@@ -1,3 +1,6 @@
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443/?type=tcp&security=tls&sni=us01.trojanyyds.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us02.trojanyyds.xyz:443/?type=tcp&security=tls&sni=us02.trojanyyds.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://257d8622-6701-4c98-a432-67a9696f58ae@shazira.app:443/?type=ws&path=%2FNovan-ID9&security=tls&sni=shazira.app&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28559%29
 trojan://258281a2-0ece-4eba-90f3-155306faa292@104.21.39.134:443/?type=tcp&security=tls&sni=daxun-hkt2.windowsupdatea.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28565%29
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@45.147.200.44:443/?type=tcp&security=tls&sni=%24%24paydiu.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29%20%2832%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@ap.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -213,7 +216,6 @@ trojan://507ca9a0-2d8e-4b65-8763-82dfbdbd599f@hkjs.lydurlclub.top:443/?type=tcp&
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443/?type=tcp&security=tls&sni=CcCVfGTyU.89060004.Xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28634%29
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.16.133.220:443/?type=tcp&security=tls&sni=golinkwuxian.top&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://512d9674-db12-44ca-a1b5-654244549b65@172.66.132.196:443/?type=tcp&security=tls&sni=XxCdvfgty.444652.xyZ#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28480%29
-trojan://521314@wangcai.yunzhongzhuan.com:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=tjplay.lxdxo.kdns.fr&path=Telegram+@WangCai2&sni=tjplay.lxdxo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
 trojan://521314@wangcai.yunzhongzhuan.com:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=tjplay.lxdxo.kdns.fr&path=Telegram🇨🇳+@WangCai2&sni=tjplay.lxdxo.kdns.fr&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28781%29
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -626,4 +628,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@166.62.115.253:443/?type=tcp&security=tls&sni=
 trojan://8r%3C%5B9%27l6hAO%238ZQi@167.179.76.8:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29%20%2837%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@167.68.11.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28244%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@167.71.169.92:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28359%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@170.114.45.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28195%29
