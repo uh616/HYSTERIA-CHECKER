@@ -1,11 +1,3 @@
-hy2://dongtaiwang.com@74.63.233.74:33445?insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
-hy2://81ea378b37931b23@77.221.158.52:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=www.google.com#🔒
-hy2://sTeki1$re5!8swohopro@78.141.215.68:443?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#🔒
-hy2://sTeki1$re5!8swohopro@78.141.215.68:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#@Zede_filteri
-hy2://fokaS4id3bretay-7rit@78.141.216.41:443?insecure=1&obfs=salamander&obfs-password=fokaS4id3bretay-7rit&sni=eliv2ray.elena.expert#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2078.141.216.41%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%20299af
-hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=fokaS4id3bretay-7rit#%40Zede_filteri%20%F0%9F%87%B3%F0%9F%87%B1%20
-hy2://de02ad7f-f076-4e8d-abe8-9f2b21a557b5@79.72.49.232:50000?insecure=1&sni=www.microsoft.com#🔒
-hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?security=tls&amp;insecure=1&amp;sni=www.apple.com#@V2ray_Alpha--IR-2
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@8.219.53.46:5552?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#Channel%3A%20%40Daily_Configs
 hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443/?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
@@ -21,13 +13,14 @@ hy2://03e4fe32@84.235.246.199:31452?insecure=1&sni=www.bing.com#🔒
 hy2://03e4fe32@84.235.248.145:31452?insecure=1&sni=www.bing.com#🔒
 hy2://4328e5a3-b325-4154-9e7d-508e16962e40@84.252.75.14:8443?insecure=1&sni=hy10.abyssvpn.com#🔒
 hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&insecure=1#🔒
+hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?allowInsecure=1&insecure=1&security=tls&sni=www.bing.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 hy2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🔒
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052?insecure=1&sni=fr1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%B5%F0%9F%87%AD
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@89.168.53.138:2052?insecure=1&sni=bl2.mangshe.xyz#🔒
 hy2://4fc94336-d925-45e5-a212-6453f7975a16@89.213.182.8:10522?insecure=1&sni=www.bing.com#🔒
-hysteria2://QjdEEystFJ@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://Dd8FfJSif0@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#EPODONIOS
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@91.149.203.106:2056?insecure=1&sni=uk1.xiaoliyu.us#🔒
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@91.149.203.119:443?insecure=1&sni=api.push.apple.com#🔒
 hy2://p6FfuI684f@91.184.242.252:443?insecure=1&sni=www.whatsapp.com&obfs=salamander&obfs-password=ZHr2aBtNWmYGZ8NnBfjxU7A#🔒
@@ -91,3 +84,8 @@ hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%40meliproxyy
 hy2://d2e21fabfe6ddb83@hys1.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://d2e21fabfe6ddb83@hys11.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
+hy2://9f73c619627d6a5d@hys2.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#irancpihys2
+hy2://y0qochAspE+u-HLfrip-@hys23.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2
+hy2://y0qochAspE+u-HLfrip-@hys231.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2-1
+hy2://4a52c165e81fa8fc@hys3.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=a16d0be0#irancpihys3
+hy2://f6e4b19a3110d19d@hys4.cpionline.us:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=eliv2ray.eliv2.top#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2066.135.28.59%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vivint%20Wireless,%20Inc.%20%E2%97%88%20a0d3c
