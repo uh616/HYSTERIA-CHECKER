@@ -1,3 +1,4 @@
+hy2://ab228da0-a064-4381-8f81-d185b9c50d8a@193.123.229.26:443?insecure=1&sni=ftp.chillwaze.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.76.141:30102?insecure=1&sni=joinBede.ELiV2ray.net#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@193.123.76.84:35000?insecure=1&sni=www.apple.com#🔒
 hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#🔒
@@ -91,5 +92,3 @@ hy2://sysadmin.sysadmin@23.95.20.134:446?insecure=1#🔒
 hy2://18a720415df07a92@[2400:8a20:113:36::]:64321?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2401:b60:ffff:0:1:0:953c:8b7c]:20025?insecure=1&sni=www.bing.com#🔒
 hy2://96cad374-7573-4463-8804-4665c2c3d932@[2406:da14:536:647f:348d:e2a4:49b7:12ac]:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
-hy2://96cad374-7573-4463-8804-4665c2c3d932@[2406:da14:a84:307f:3f52:9439:2eb2:5ee3]:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
-hysteria2://57c0ba73-b381-4fa6-aad0-f87c72a4d2d1@[2407:3640:2185:9595:0:1:c2d0:9336]:59001?security=tls&insecure=1#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
