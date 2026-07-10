@@ -2,7 +2,7 @@ hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@1.162.146.24:51057?insecure=1&sni=tw.
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@1.162.146.24:51373?insecure=1&sni=hkt.trojan.tel#🔒
 hy2://9a714ec6-40b8-4ab6-9e95-05846c812661@1.170.221.9:24231?insecure=1&sni=ddns.200566.xyz#🔒
 hy2://453D99CE-725A-4595-8E41-0661AB2C8FBB@1.36.166.125:1250?insecure=1#🔒
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20861738
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20717914
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%3E%3E%40oneclickvpnkeys%3A%3ATW
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052?insecure=1&sni=hk2.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052/?insecure=1&sni=hk2.xiaoliyu.us#hk2%40oneclickvpnkeys
