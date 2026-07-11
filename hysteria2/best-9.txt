@@ -83,5 +83,5 @@ hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?_t=6462b95f&seq=you_are_beautiful4603&security=tls&obfs-password=c1b4086fea89914496c7e10967a419216566&obfs=salamander&seq=you_are_beautiful7216&descriptions=713&sni=hy2-new.aspidnet.xyz&freeinternet=kizyak_vpn1782335286121&nonce=fLqAwvwP&burmalda=81fc861e#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E7%BE%8E%E5%9B%BD_0711104491
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?_t=6462b95f&seq=you_are_beautiful4603&security=tls&obfs-password=c1b4086fea89914496c7e10967a419216566&obfs=salamander&seq=you_are_beautiful7216&descriptions=713&sni=hy2-new.aspidnet.xyz&freeinternet=kizyak_vpn1782335286121&nonce=fLqAwvwP&burmalda=81fc861e#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E7%BE%8E%E5%9B%BD_0711154485
 hy2://d2e21fabfe6ddb83@hys1.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
