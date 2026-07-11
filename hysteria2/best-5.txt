@@ -1,3 +1,4 @@
+hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?insecure=1&sni=www.bing.com#🔒
 hy2://ffed9ff9-ec0f-4c97-854b-369e2931a777@192.124.176.87:9781?obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D&insecure=1#🔒
 hy2://sysadmin.sysadmin@192.210.235.104:10053?insecure=1#🔒
@@ -84,4 +85,3 @@ hy2://e48e92a9-7168-427b-9e16-4eb7d98229c1@212.192.15.239:1327?obfs=salamander&o
 hy2://64009609-40ca-4955-82b7-45ff8daeeb2c@213.183.48.11:40443/?sni=speedtest.realityforus.com#%F0%9F%87%B7%F0%9F%87%BAMoscow%2B%40Surfboardv2ray
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.101.179:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.103.51:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.108.144:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
