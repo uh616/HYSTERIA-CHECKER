@@ -1,9 +1,3 @@
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@172.67.146.22:443/?type=tcp&security=tls&sni=glc-tw1.windowsupdatea.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28800%29
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1hkt.windowsupdatea.com:443/?type=tcp&security=tls&sni=glc-hkt1.windowsupdatea.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%283%29
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443/?type=tcp&security=tls&sni=glc-tw1.windowsupdatea.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%284%29
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download2hkt.windowsupdatea.com:443/?type=tcp&security=tls&sni=glc-hkt2.windowsupdatea.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28399%29
-trojan://2a9abeb7-6f97-4d33-9069-f6e009d88455@5.104.108.120:443/?type=tcp&security=tls&sni=20-24-33-134.nhost.00cdn.com#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
-trojan://2add6241-8fe8-3922-8347-da25e8ced601@ca1.aaaa.gay:4586/?type=tcp&security=tls&sni=ca1.aaaa.gay#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://2add6241-8fe8-3922-8347-da25e8ced601@flb.aaaa.gay:44445/?type=tcp&security=tls&sni=flb.aaaa.gay#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://2bf3db70-359e-11ef-93fe-1239d0255272@fr1.test3.net:443/?type=tcp&security=tls&sni=namasha.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443/?type=tcp&security=tls&sni=jobscareertoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28759%29
@@ -620,3 +614,11 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.110:2053/?type=tcp&security=tls&sni
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.36:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%AAAE%28AzadNet.t.me%29%20%2817%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.98:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%AAAE%28AzadNet.t.me%29%20%2811%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.98:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%AAAE%28AzadNet.t.me%29%20%289%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.226.188.55:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%2859%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.239.9.91:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29%20%2838%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.241.241.32:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%B4RO%28AzadNet.t.me%29%20%285%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@192.0.63.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28265%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@192.145.31.58:2083/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A7%F0%9F%87%ACBG%28AzadNet.t.me%29%20%283%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@192.210.217.68:2087/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28221%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@192.241.210.208:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28344%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@193.109.84.103:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AEFI%28AzadNet.t.me%29%20%2811%29
