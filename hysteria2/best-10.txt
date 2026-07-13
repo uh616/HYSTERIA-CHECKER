@@ -1,3 +1,5 @@
+hy2://f6e4b19a3110d19d@hys4.cpionline.us:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%85%B0LL%20OPERATORS%20%20%20%F0%9F%94%B5%E2%9A%AA%F0%9F%94%B4%20%20%20%40V2RAYNPLUS%F0%9F%87%BA%F0%9F%87%B2
+hy2://f6e4b19a3110d19d@hys4.freelines.net:443?insecure=1&obfs=salamander&obfs-password=8c3ce17b&sni=google.com#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2066.135.28.59%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vivint%20Wireless,%20Inc.%20%E2%97%88%200de51
 hy2://f6e4b19a3110d19d@hys4.freelines.net:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%E2%9A%9C%EF%B8%8F5%40oneclickvpnkeys
 hy2://cih$phu-rlMofru7i4r9@hys6.freelines.net:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=cih%24phu-rlMofru7i4r9#irancpi_hys6
 hy2://9ijufI4LW_ehlst!Pho-@hys7.freelines.net:443?insecure=1&obfs=salamander&obfs-password=9ijufI4LW_ehlst%21Pho-&sni=google.com#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2095.179.150.22%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%2087bd9
@@ -54,7 +56,7 @@ hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bin
 hy2://1ea621651a6c247a@sh.netmh9.xyz:443?insecure=1&obfs=salamander&obfs-password=d6da8047&sni=sh.netmh9.xyz#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20warpPlus%20%E2%97%88%20udp:443%20%E2%97%88%201faed
 hy2://1ea621651a6c247a@sh.netmh9.xyz:443/?obfs=salamander&obfs-password=d6da8047&insecure=1#3days
 hy2://rs3h2c9n8X@65.21.158.249:2096?obfs=salamander&obfs-password=Vk@l@b@shV&insecure=1#🔒
-hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%F0%9F%87%A9%F0%9F%87%AA109092%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
+hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#Tel%3A%20%40Daily_Configs
 hysteria2://eltgrek81o6w5cd4@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#EPODONIOS
 hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52012?security=tls&fm={
 hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%F0%9F%87%AB%F0%9F%87%AE109138%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
