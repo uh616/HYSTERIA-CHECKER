@@ -1,4 +1,3 @@
-hy2://y0qochAspE+u-HLfrip-@hys231.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2-1
 hy2://4a52c165e81fa8fc@hys3.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=a16d0be0#irancpihys3
 hy2://f6e4b19a3110d19d@hys4.cpionline.us:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=eliv2ray.eliv2.top#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2066.135.28.59%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vivint%20Wireless,%20Inc.%20%E2%97%88%20a0d3c
 hy2://f6e4b19a3110d19d@hys4.cpionline.us:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%85%B0LL%20OPERATORS%20%20%20%F0%9F%94%B5%E2%9A%AA%F0%9F%94%B4%20%20%20%40V2RAYNPLUS%F0%9F%87%BA%F0%9F%87%B2
@@ -39,7 +38,6 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2052/?insecure=1&sni=
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm2.mangshe.xyz:2056?security=tls&insecure=1&sni=mm2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm2.mangshe.xyz:2052/?insecure=1&sni=mm2.mangshe.xyz#%F0%9F%94%B030%40oneclickvpnkeys
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?security=tls&obfs=salamander&obfs-password=cukfjxud1ebjuuzs&insecure=0&sni=assets.gateway-stream.com%23telegram%20@mtmvpn12vless://ca816894-0b86-57ed-9512-46cba3dc2656@ansooyefilter-channel-production.up.railway.app:443?path=/ws/ca816894-0b86-57ed-9512-46cba3dc2656&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ansooyefilter-channel-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter-channel-production.up.railway.app%23telegram%20@mtmvpn13vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.108.111:22224?security=none&encryption=none&headerType=none&type=tcp%23telegram%20@mtmvpn14vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@69.46.46.94:443?path=/ws/e878eed7-c3f7-cd5c-bb10-468bad9b936c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ffd1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ffd1.up.railway.app%23telegram%20@mtmvpn15#🌐سرور
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C1.7MB%2Fs%7CGPT%E2%81%BA%7CYT-FI%7C0%25
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh=TG
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG
@@ -65,7 +63,6 @@ hy2://rs3h2c9n8X@65.21.158.249:2096?obfs=salamander&obfs-password=Vk@l@b@shV&ins
 hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%F0%9F%87%A9%F0%9F%87%AA109092%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
 hysteria2://eltgrek81o6w5cd4@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#EPODONIOS
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@soskeynets.auragg.org:443?sni=argg2.auragg.org#%F0%9F%87%AD%F0%9F%87%B0108787%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@soskeynets.auragg.org:443/?sni=argg2.auragg.org#108787
 hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%F0%9F%87%AB%F0%9F%87%AE109138%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
 hysteria2://eltgrek81o6w5cd4@soskeynets.nn-foto.ru:1935?insecure=0&sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#%F0%9F%87%B3%F0%9F%87%B1108880%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sr1.mangshe.xyz:2056?security=tls&insecure=1&sni=sr1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
@@ -86,6 +83,7 @@ hysteria2://e07e6bb4-1a55-4e5f-92c5-25585c9715b6@us.vvcloud.us.kg:443?security=t
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMiner
 hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
+hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&sni=vpn-kr-002.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C3.3MB%2Fs%7CGPT%E2%81%BA%7CYT-KR%7CD%2B%7CGM%7C3%25
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
 hy2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/@warphiddify?sni=speedtest.realityforus.com#de-mtn-@warphiddify
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp1.mangshe.xyz:2052?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%94%B037@oneclickvpnkeys
