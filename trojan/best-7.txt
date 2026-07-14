@@ -1,4 +1,3 @@
-trojan://3%5DsjM!r%7CL%3BQl@www.speedtest.net:2096/?type=tcp&security=tls&sni=zS41t69imjIf5vZSXvLG4gvItC80mMX5.pAGEs.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28465%29
 trojan://33ac36d0-3ccc-4b76-80c5-498c50041f36@172.67.173.73:443/?type=tcp&security=tls&sni=jpmax03.170203.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28602%29
 trojan://3453459e-52bf-4d58-b663-6802a17452b9@sg05.170203.xyz:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28799%29
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#EPODONIOS
