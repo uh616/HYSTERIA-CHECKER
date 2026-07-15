@@ -1,3 +1,5 @@
+trojan://------BanV2ray-----
+trojan://------BanV2ray-------#
 trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:26655?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/EW9czXfLnMMqIp0&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=a68956#
 trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:2711?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FzDBshpA8sZgGge5&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=a68956#
 trojan://------BanV2ray-------@8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir:5272?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2FhGIZOTj80yD8GPJ&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=f4b34559dd56#
@@ -632,4 +634,3 @@ trojan://8r%253C%255B9%2527l6hAO%25238ZQi@98.96.231.180:443/?type=tcp&security=t
 trojan://8r%3C%5B9%27l6hAO%238ZQi@103.133.1.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28240%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@103.54.18.22:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AE%F0%9F%87%B3IN%28AzadNet.t.me%29%20%285%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.129.166.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28334%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.129.166.25:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28233%29
