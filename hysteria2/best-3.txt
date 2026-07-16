@@ -1,4 +1,3 @@
-hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052?insecure=1&sni=es1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@143.47.43.210:2052/?insecure=1&sni=es1.xiaoliyu.us#es%40oneclickvpnkeys
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws.xyz#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.21.59.53:2052?insecure=1&sni=ld1.mangshe.xyz#🔒
@@ -69,7 +68,7 @@ hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://sysadmin.sysadmin@154.7.183.57:443?insecure=1#🔒
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20234860
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20844221
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://a741df90@156.229.163.98:22222?insecure=1&sni=www.bing.com#🔒
 hy2://HK-CN2.2454lksdgfhdkgndh@156.251.248.197:443?sni=hk.world--speed.com#🔒
