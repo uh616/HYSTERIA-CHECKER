@@ -7,7 +7,7 @@ hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
 hysteria2://4aeedead-1354-45a4-935d-8bba5e7f82b5@159.223.12.0:443?hop-interval=30&sni=addons.mozilla.org&mport=20000-50000&pinSHA256=E9%3A33%3A97%3AA7%3ABF%3AA5%3AAF%3A2A%3A2D%3AB2%3AAF%3A02%3A08%3A2B%3A0A%3A42%3A19%3AC2%3A54%3AA3%3A5B%3A9B%3A50%3A20%3AF8%3AD3%3A41%3AEF%3AF6%3A1C%3A55%3A82#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2001
-hysteria2://7466549e-812f-4b33-b09b-c3e132e6e51b@159.65.79.184:443?insecure=1&sni=addons.mozilla.org#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.3MB%2Fs%7CGPT%E2%81%BA%7CYT-CN%7CNF%7CGM
+hysteria2://7466549e-812f-4b33-b09b-c3e132e6e51b@159.65.79.184:443?insecure=1&sni=addons.mozilla.org#%F0%9F%87%BA%F0%9F%87%B8US_4%7C3.1MB/s
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@164.92.254.56:10001?sni=de.1010520.shop#🔒
@@ -78,7 +78,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.190.219.163:443?insecure=1&sni=https%3A%
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.190.219.163:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F1%40oneclickvpnkeys
-hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?insecure=1&sni=key-hm-at.1cooldns.com#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT-RU%7CNF%7C25%25
+hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?insecure=1&sni=key-hm-at.1cooldns.com#%F0%9F%87%A6%F0%9F%87%B9AT_1%7C2.1MB/s
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@185.14.47.28:30024?insecure=1&sni=www.bing.com#🔒
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@185.204.0.117:443?mport=50000-50500&insecure=1&sni=hk1.pithecia.com#🔒
