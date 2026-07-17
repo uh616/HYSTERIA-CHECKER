@@ -15,7 +15,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2056?security=tls&insecure=1&sni=jd1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇦%20SA%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
-hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@jongjmi.odnako.site:8449?sni=jongjmi.odnako.site#%F0%9F%AA%AD68%40oneclickvpnkeys
+hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@jongjmi.odnako.site:8449?insecure=1&sni=jongjmi.odnako.site#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2008
 hysteria2://792V1zl5cJHSV3wjyGPXiFbx1YA4BrIr@jongjmi.odnako.site:8449/?sni=jongjmi.odnako.site#%F0%9F%AA%AD68@oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
