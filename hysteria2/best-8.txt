@@ -1,4 +1,5 @@
-hysteria2://2n8QPNzHhWI0bDnv@57.181.33.93:64900?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.5MB%2Fs%7CGPT%E2%81%BA%7CYT-JP%7CNF%7CD%2B%7CGM%7C3%25
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@57.180.35.76:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_76%20%40wangcai_8
+hysteria2://2n8QPNzHhWI0bDnv@57.181.33.93:64900?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C2.4MB%2Fs%7CGPT%E2%81%BA%7CYT-JP%7CNF%7CD%2B%7CGM%7C3%25
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.125:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@60.249.3.125:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_125%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.227:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -29,7 +30,7 @@ hy2://e169856c-7c19-4908-9bdf-448dc846163a@64.181.236.144:443?insecure=1&sni=www
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@64.225.72.134:10001?sni=NL.1010520.shop#🔒
 hy2://4328e5a3-b325-4154-9e7d-508e16962e40@64.32.22.163:8443?insecure=1&sni=hy16.abyssvpn.com#🔒
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@64.71.152.247:443?mport=22000-22999#🔒
-hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85🫶
+hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 hy2://freeasfree.f215b295e3c0bf6a@65.109.219.247:7443?obfs=salamander&obfs-password=f215b295e3c0bf6a&insecure=1&sni=zara.com#🔒
 hy2://rs3h2c9n8X@65.21.158.249:2053?insecure=1#🔒
 hy2://rs3h2c9n8X@65.21.158.249:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
@@ -82,6 +83,5 @@ hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@8.219.53.46:5552?obfs=salamander&obfs
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%E2%9C%85%20t.me/bigAVPN%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A2%D8%B2%D8%A7%D8%AF%20%F0%9F%91%91
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@80.92.205.219:53041?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=jobvision.ir#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@81.208.175.184:2052?insecure=1&sni=jd1.mangshe.xyz#🔒
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@81.27.102.215:8443?insecure=1&sni=grape-power-pl.ddnsguru.com#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C2.1MB%2Fs%7CGPT%E2%81%BA%7CNF%7C50%25
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@81.27.102.215:8443?insecure=1&sni=grape-power-pl.ddnsguru.com#%F0%9F%87%AB%F0%9F%87%AEFI_1%7C1.6MB%2Fs%7CGPT%E2%81%BA%7CNF%7C50%25
 hy2://f206702e@82.152.142.65:3341?insecure=1&sni=vkvd127.mycdn.me#🔒
-hy2://f206702e@82.152.142.66:3341?insecure=1&sni=www.bing.com#🔒
