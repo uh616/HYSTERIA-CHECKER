@@ -65,8 +65,8 @@ hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#EPODONIOS
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2056?security=tls&insecure=1&sni=fhc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#%F0%9F%94%B020%40oneclickvpnkeys
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@fl01.auragg.org:443?insecure=1&sni=fl01.auragg.org#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.8MB/s
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443?insecure=0&sni=fl02.auragg.org#114892%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20-%20t.me%2FS
+hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@fl01.auragg.org:443?insecure=1&sni=fl01.auragg.org#NL_1%7C2.8MB%2Fs
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443?sni=fl02.auragg.org#3%F0%9F%A5%89%40oneclickvpnkeys
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443/?sni=fl02.auragg.org#3%F0%9F%A5%89@oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sni=flkf1.mangshe.xyz#%F0%9F%94%B03%40oneclickvpnkeys
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&sni=138.197.44.181#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20138.197.44.181%20%E2%97%88%20udp:46160%20%E2%97%88%20DigitalOcean%20/%20DigitalOcean%20%E2%97%88%2084a50
