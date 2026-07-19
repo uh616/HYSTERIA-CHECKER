@@ -10,7 +10,7 @@ hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052?insecure=1&sni=fr1
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%B5%F0%9F%87%AD
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@89.168.53.138:2052?insecure=1&sni=bl2.mangshe.xyz#🔒
 hy2://4fc94336-d925-45e5-a212-6453f7975a16@89.213.182.8:10522?insecure=1&sni=www.bing.com#🔒
-hysteria2://ALg6h4f8Mo@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AAT-ME-V2RayyNGvpn%F0%9F%8E%96%EF%B8%8F
+hysteria2://ALg6h4f8Mo@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%40AzarAndoozVPNbot%20%231
 hysteria2://NZC2w2V2NQ@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#kurdconfig
 hysteria2://M4q4riAk3C@91.107.152.188:31999/?insecure=1&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&sni=www.amd.com#%F0%9F%A5%897@oneclickvpnkeys
 hysteria2://KJX4HQHodA@91.107.174.32:25810?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn#%F0%9F%8E%96%EF%B8%8FTelegram%3DV2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
