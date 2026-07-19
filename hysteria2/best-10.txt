@@ -42,7 +42,7 @@ hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG
-hysteria2://e3a5bb40be52de65@q.baoge.me:2328?insecure=1&security=tls&sni=q.baoge.me#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://e3a5bb40be52de65@q.baoge.me:2328?insecure=1&security=tls&sni=apps.apple.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sb1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟10@oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sbl.mangshe.xyz:2056?security=tls&insecure=1&sni=sbl.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇧🇷%20BR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sbl.mangshe.xyz:2052/?insecure=1&sni=sbl.mangshe.xyz#%F0%9F%94%B039%40oneclickvpnkeys
