@@ -1,3 +1,4 @@
+hy2://f206702e@82.152.142.68:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.69:3341?insecure=1&sni=www.bing.com#🔒
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒
 hy2://03e4fe32@84.235.246.199:31452?insecure=1&sni=www.bing.com#🔒
@@ -64,6 +65,7 @@ hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#EPODONIOS
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2056?security=tls&insecure=1&sni=fhc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#%F0%9F%94%B020%40oneclickvpnkeys
+hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@fl01.auragg.org:443?insecure=1&sni=fl01.auragg.org#%F0%9F%87%B3%F0%9F%87%B1NL_3%7C1.8MB%2Fs%7CGPT%E2%81%BA%7CYT-NL%7CNF%7CD%2B%7C0%25
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443?sni=fl02.auragg.org#%F0%9F%87%AB%F0%9F%87%AE114892%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443/?sni=fl02.auragg.org#3🥉@oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sni=flkf1.mangshe.xyz#%F0%9F%94%B03%40oneclickvpnkeys
@@ -79,9 +81,7 @@ hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E7%BE%8E%E5%9B%BD_0719045257
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E7%BE%8E%E5%9B%BD_0719105261
 hy2://d2e21fabfe6ddb83@hys1.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://d2e21fabfe6ddb83@hys11.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://9f73c619627d6a5d@hys2.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#irancpihys2
-hy2://y0qochAspE+u-HLfrip-@hys23.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2
-hy2://y0qochAspE+u-HLfrip-@hys231.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2-1
