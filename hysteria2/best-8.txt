@@ -75,7 +75,7 @@ hy2://sTeki1$re5!8swohopro@78.141.215.68:443?insecure=1&sni=google.com&obfs=sala
 hy2://sTeki1$re5!8swohopro@78.141.215.68:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#@Zede_filteri
 hy2://fokaS4id3bretay-7rit@78.141.216.41:443?insecure=1&obfs=salamander&obfs-password=fokaS4id3bretay-7rit&sni=eliv2ray.elena.expert#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2078.141.216.41%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%20299af
 hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=fokaS4id3bretay-7rit#%40Zede_filteri%20%F0%9F%87%B3%F0%9F%87%B1%20
-hysteria2://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@78.159.240.215:5555?insecure=1&sni=31.56.188.66.tyr-agentstvo.tech#%F0%9F%87%AE%F0%9F%87%B7IR_1%7C1.5MB%2Fs%7CGPT%E2%81%BA%7CYT-RU%7C0%25
+hysteria2://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@78.159.240.215:5555?insecure=1&sni=31.56.188.66.tyr-agentstvo.tech#%F0%9F%87%AE%F0%9F%87%B7IR_1%7C1.6MB%2Fs%7CGPT%E2%81%BA%7CYT-RU%7C0%25
 hy2://de02ad7f-f076-4e8d-abe8-9f2b21a557b5@79.72.49.232:50000?insecure=1&sni=www.microsoft.com#🔒
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?security=tls&amp;insecure=1&amp;sni=www.apple.com#@V2ray_Alpha--IR-2
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@8.219.53.46:5552?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
