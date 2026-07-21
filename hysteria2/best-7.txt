@@ -40,7 +40,6 @@ hy2://a2abd08c-bce1-436c-9008-4ba0ef210f6d@46.29.161.159:1200?obfs=salamander&ob
 hy2://83d4edf5-8612-4b0f-8a82-33a211b3b179@46.29.161.224:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@46.29.161.228:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.128.145.209:443?insecure=1&sni=vpn-sg-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.0MB/s
 hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379?insecure=1&sni=hsg.fobbc.xyz#🔒
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20702522
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
@@ -49,7 +48,7 @@ hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.74.42.113:6588?obfs=salamander&obf
 hy2://sysadmin.sysadmin@47.76.80.29:2023?insecure=1#🔒
 hy2://sysadmin.sysadmin@47.81.8.60:7788?insecure=1&sni=tg.sdxlgj001.top#🔒
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.89.248.125:5113?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🔒
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&security=tls&sni=www.microsoft.com#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.5MB%2Fs%7CGPT%E2%81%BA%7CYT-NL%7CNF%7C10%25
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA4
 hy2://4733f66a-4326-4046-b7b0-fc3f55c15283@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#🔒
@@ -85,3 +84,4 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@54.250.34.221:3
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20236777
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.44:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA5
+hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA6
