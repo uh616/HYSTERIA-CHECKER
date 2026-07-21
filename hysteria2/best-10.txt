@@ -61,9 +61,8 @@ hy2://1ea621651a6c247a@sh.netmh9.xyz:443/?obfs=salamander&obfs-password=d6da8047
 hy2://rs3h2c9n8X@65.21.158.249:2096?obfs=salamander&obfs-password=Vk@l@b@shV&insecure=1#🔒
 hysteria2://o3774es6cfv74kaf@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%F0%9F%AA%A945%40oneclickvpnkeys
 hysteria2://o3774es6cfv74kaf@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#%F0%9F%AA%A945@oneclickvpnkeys
-hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52008?insecure=0&allowInsecure=0&obfs=salamander&obfs-password=93lc6r07zfx4crct#EPODONIOS
-hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52018?security=tls&obfs=salamander&obfs-password=53cgqwhojoxri5lr&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
-hysteria2://o3774es6cfv74kaf@soskeynets.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%F0%9F%87%A9%F0%9F%87%AA117460%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
+hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52008?insecure=0&obfs=salamander&obfs-password=93lc6r07zfx4crct#%F0%9F%87%AB%F0%9F%87%AE117667%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
+hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52018?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=53cgqwhojoxri5lr#%F0%9F%87%AB%F0%9F%87%AE117677%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
 hysteria2://o3774es6cfv74kaf@soskeynets.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#EPODONIOS
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sr1.mangshe.xyz:2056?security=tls&insecure=1&sni=sr1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hysteria2://Telegram--
