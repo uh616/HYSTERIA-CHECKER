@@ -57,13 +57,12 @@ hy2://1ea621651a6c247a@sh.netmh9.xyz:443/?obfs=salamander&obfs-password=d6da8047
 hy2://rs3h2c9n8X@65.21.158.249:2096?obfs=salamander&obfs-password=Vk@l@b@shV&insecure=1#🔒
 hysteria2://o3774es6cfv74kaf@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%F0%9F%AA%A945%40oneclickvpnkeys
 hysteria2://o3774es6cfv74kaf@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#%F0%9F%AA%A945@oneclickvpnkeys
-hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52008?insecure=0&obfs=salamander&obfs-password=93lc6r07zfx4crct#%F0%9F%87%AB%F0%9F%87%AE117667%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
-hysteria2://elknam6l7izf3z71@soskeynets.gateway-stream.com:52018?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=53cgqwhojoxri5lr#%F0%9F%87%AB%F0%9F%87%AE117677%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sr1.mangshe.xyz:2056?security=tls&insecure=1&sni=sr1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hysteria2://Telegram--
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1001?security=tls&insecure=0&sni=th.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1002?security=tls&insecure=0&sni=th.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@tw.9966690.xyz:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NT6iNA==#A%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2001%20TG%3A%20%40nodpai
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#EPODONIOS
 hy2://ad90f973-ac78-4161-8601-28c44b37b34b@us-01.worldfirst.eu.org:44300/?insecure=1&sni=us-01.worldfirst.eu.org#us%40oneclickvpnkeys
