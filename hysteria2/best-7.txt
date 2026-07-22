@@ -21,6 +21,7 @@ hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.144.2.154:52773?insecure=1&sni=ssr
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@45.144.2.154:52773/?insecure=1&sni=ssrsub.h04.trojan.tel#%E2%9A%935%40oneclickvpnkeys
 hy2://dongtaiwang.com@45.145.72.212:23520?insecure=1&sni=bing.com#🔒
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.145.74.180:52773?insecure=1&sni=ssrsub.h06.trojan.tel#🔒
+hysteria2://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@45.154.206.72:8443/?sni=russiapower.accesscam.org#%E2%99%A8%EF%B8%8F89@oneclickvpnkeys
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.159:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.171:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA3
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.197:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA4
@@ -62,7 +63,7 @@ hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#🔒
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️
 hy2://dongtaiwang.com@51.159.103.141:33390?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@51.159.103.141:33390/?insecure=1&sni=bing.com#%E2%9A%932%40oneclickvpnkeys
-hysteria2://76TeSy4hi8@51.159.137.79:55809?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A8%F0%9F%87%B5%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%B5
+hysteria2://76TeSy4hi8@51.159.137.79:55809?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.5MB/s
 hy2://dongtaiwang.com@51.159.213.39:22483?insecure=1&sni=62.210.103.0#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@51.159.213.39:22483/?insecure=1&sni=62.210.103.0#%E2%9A%936%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.159.77.153:33390?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
@@ -84,4 +85,3 @@ hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@54.249.79.143:307
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.249.79.143:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B52%40Antifilterjadid
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.250.34.221:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@54.250.34.221:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_221%20%40wangcai_8
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20833222
