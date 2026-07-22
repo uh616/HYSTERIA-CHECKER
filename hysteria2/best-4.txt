@@ -1,3 +1,4 @@
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@158.178.226.255:2052?insecure=1&sni=xjp1.mangshe.xyz#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@158.178.238.208:2052?insecure=1&sni=sg1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@158.178.238.208:2052/?insecure=1&sni=sg1.xiaoliyu.us#sg%40oneclickvpnkeys
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@158.179.18.251:35000?insecure=1&sni=api.push.apple.com#🔒
@@ -10,7 +11,7 @@ hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
 hysteria2://76dff95d-a720-4909-8ca6-3d848e786a9c@159.65.178.189:443?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8US_2%7C1.4MB%2Fs%7CGPT%E2%81%BA%7CYT-US%7CNF%7CGM
-hysteria2://5NLxoNSwj0@162.19.181.176:40837?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://5NLxoNSwj0@162.19.181.176:40837?insecure=1&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&sni=www.oracle.com#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.8MB%2Fs%7CGPT%E2%81%BA%7CNF
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@164.92.254.56:10001?sni=de.1010520.shop#🔒
@@ -84,4 +85,3 @@ hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salam
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052?insecure=1&sni=jp1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052/?insecure=1&sni=jp1.xiaoliyu.us#jp1%40oneclickvpnkeys
 hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.foriran.trade&obfs=salamander&obfs-password=Y7aunTuPJZBCfiDIm#🔒
-hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒
