@@ -1,4 +1,3 @@
-hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.179.214.33:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇪🇸%20ES%20down
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@158.180.69.174:52773?insecure=1&sni=h02.trojan.tel#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@158.180.69.229:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773?insecure=1&sni=h01.trojan.tel#%F0%9F%87%B0%F0%9F%87%B7%20Korea,%20Republic%20of%20-%20Chuncheon%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
@@ -6,7 +5,7 @@ hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773/?insecure=1&sni=h
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
-hysteria2://76dff95d-a720-4909-8ca6-3d848e786a9c@159.65.178.189:443?sni=www.bing.com&insecure=1#US
+hysteria2://b42d90fa667942aebc734d60@161.33.231.22:30000?insecure=1&sni=vpn7.rnmcnm.com#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C2.6MB%2Fs%7CGPT%E2%81%BA%7CYT-AU%7CNF%7CGM%7C2%25
 hysteria2://5NLxoNSwj0@162.19.181.176:40837?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
