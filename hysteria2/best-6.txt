@@ -85,4 +85,3 @@ hy2://9974b6a7-9c0e-423b-a77b-87ac90465d81@38.242.215.250:11924?obfs=salamander&
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?insecure=1&sni=du.wish.ml#🔒
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@40.233.91.166:443?insecure=1&sni=www.bing.com#🔒
 hy2://96cad374-7573-4463-8804-4665c2c3d932@43.198.99.54:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
-hy2://84854B66-8478-4B87-8C0D-CD1699426C41@43.199.156.119:9270?sni=hk5.ddns-link-b5.uk#🔒
