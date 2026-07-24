@@ -87,3 +87,4 @@ hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@129.153.76.186:443?security=tls
 hy2://sysadmin.sysadmin@129.153.85.205:443?insecure=1&sni=xiaoji.maptoca.monster#🔒
 hy2://2d347be7-909b-4410-af92-95a1abf7e531@129.154.233.123:35000?insecure=1&sni=api.push.apple.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@129.154.234.42:30102?insecure=1&sni=in5.wish.ml#🔒
+hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
