@@ -26,6 +26,8 @@ hy2://%40ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489@193.38.54.48:443?sni=let-hi
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@194.104.146.113:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
 hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
+hysteria2://grape_288923@194.247.182.201:8080?allowInsecure=0&insecure=0&security=tls&sni=grape-coffee-fi.gleeze.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+hysteria2://grape_288923@194.247.182.201:8443?allowInsecure=0&insecure=0&security=tls&sni=grape-coffee-fi.gleeze.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
 hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
@@ -84,5 +86,3 @@ hy2://64009609-40ca-4955-82b7-45ff8daeeb2c@213.183.48.11:40443/?sni=speedtest.re
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.101.179:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.103.51:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.108.144:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.117.246:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.118.226:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
