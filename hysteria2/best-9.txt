@@ -1,3 +1,4 @@
+hy2://03e4fe32@84.235.246.199:31452?insecure=1&sni=www.bing.com#🔒
 hy2://03e4fe32@84.235.248.145:31452?insecure=1&sni=www.bing.com#🔒
 hy2://4328e5a3-b325-4154-9e7d-508e16962e40@84.252.75.14:8443?insecure=1&sni=hy10.abyssvpn.com#🔒
 hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&insecure=1#🔒
@@ -80,7 +81,6 @@ hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
-hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?insecure=1&sni=hy2.561891.xyz#%F0%9F%87%BA%F0%9F%87%B8US_3%7C2.5MB%2Fs%7CGPT%E2%81%BA%7CYT-US%7CNF%7CD%2B%7CGM%7C0%25
 hy2://d2e21fabfe6ddb83@hys1.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://d2e21fabfe6ddb83@hys11.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://9f73c619627d6a5d@hys2.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#irancpihys2
