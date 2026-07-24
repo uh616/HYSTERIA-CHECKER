@@ -62,7 +62,7 @@ hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=sala
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
 hysteria2://@Masir_Sefid@18.157.222.169:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#@vpnv2raytop
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.171.204.138:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#%F0%9F%93%AA18%40oneclickvpnkeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.171.204.138:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2001
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.171.204.138:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%93%AA18@oneclickvpnkeys
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@18.179.16.135:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_135%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@18.179.58.237:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -81,8 +81,8 @@ hy2://w1WaL8WbZf@185.254.96.99:29814?obfs=salamander&obfs-password=iVPN.Pro-Sahe
 hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26#%40V2rayMiner
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052?insecure=1&sni=jp1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052/?insecure=1&sni=jp1.xiaoliyu.us#jp1%40oneclickvpnkeys
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443?sni=hopp-legend-se.roxa.org#%F0%9F%93%AA81%40oneclickvpnkeys
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443/?sni=hopp-legend-se.roxa.org#🇳🇴120185
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443?sni=hopp-legend-se.roxa.org#%F0%9F%87%B3%F0%9F%87%B4%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%8C%AA%E5%A8%81%2001
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443/?sni=hopp-legend-se.roxa.org#%F0%9F%87%B3%F0%9F%87%B4120185%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.foriran.trade&obfs=salamander&obfs-password=Y7aunTuPJZBCfiDIm#🔒
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?insecure=1&sni=www.bing.com#🔒
