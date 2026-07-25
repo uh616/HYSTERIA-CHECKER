@@ -34,7 +34,8 @@ hy2://sysadmin.sysadmin@47.76.80.29:2023?insecure=1#🔒
 hy2://sysadmin.sysadmin@47.81.8.60:7788?insecure=1&sni=tg.sdxlgj001.top#🔒
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.89.248.125:5113?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🔒
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?sni=nederland.gamestocke.ru#%F0%9F%8E%8065%40oneclickvpnkeys
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443/?sni=nederland.gamestocke.ru#%F0%9F%87%B3%F0%9F%87%B1121725%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443/?sni=nederland.gamestocke.ru#%F0%9F%8E%8065@oneclickvpnkeys
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%E8%8D%B7%E5%85%B0_0726041049
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA4
 hy2://4733f66a-4326-4046-b7b0-fc3f55c15283@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#🔒
@@ -72,7 +73,7 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.44:4380?obfs=salama
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA6
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@54.64.148.82:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.64.148.82:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B54%40Antifilterjadid
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.95.225.70:443/?insecure=1&sni=https%3A%2F%2Ft.me%2F%40oneclickvpnkeys#%F0%9F%87%AF%F0%9F%87%B5121726%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.95.225.70:443/?insecure=1&sni=https%3A%2F%2Ft.me%2F%40oneclickvpnkeys#%F0%9F%8E%8064@oneclickvpnkeys
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@57.180.35.76:3074?insecure=1#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@57.180.35.76:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_76%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@60.249.3.125:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -89,4 +90,3 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.59:3074
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.59:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B025%40oneclickvpnkeys
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.60:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.60:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B022%40oneclickvpnkeys
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.94:3074?insecure=1&sni=TG.%40WangCai2#🔒
