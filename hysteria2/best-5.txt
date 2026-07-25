@@ -26,7 +26,7 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@194.104.146.113:3
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
 hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
 hysteria2://grape_288923@194.247.182.201:8080?allowInsecure=0&insecure=0&security=tls&sni=grape-coffee-fi.gleeze.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-hy2://grape_288923@194.247.182.201:8443?security=tls&sni=grape-coffee-fi.gleeze.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+hysteria2://grape_288923@194.247.182.201:8443?allowInsecure=0&insecure=0&security=tls&sni=grape-coffee-fi.gleeze.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
 hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
@@ -37,7 +37,7 @@ hy2://c8865525-d888-4318-aa77-44ca4c95e88b@194.87.68.196:13167?obfs=salamander&o
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@194.87.69.42:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
-hysteria2://hy2_czaawdhc%253AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&insecure=0&sni=nl2.cleanersaz.help#%F0%9F%87%B3%F0%9F%87%B1121078%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://hy2_czaawdhc@2.26.92.136:443?insecure=0&sni=nl2.cleanersaz.help&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#%40Napsternetvirani%20%231
 hysteria2://hy2_czaawdhc%3AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443/?obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&sni=nl2.cleanersaz.help#%F0%9F%A7%A927@oneclickvpnkeys
 hy2://sysadmin.sysadmin@20.14.96.63:443?insecure=1#🔒
 hy2://1edc9180-6983-4c40-bc6e-82d94efef7b7@20.246.97.202:32142?insecure=1&sni=bing.com#🔒
@@ -83,7 +83,7 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.158:3
 hy2://0d42717f@212.192.13.222:1995?insecure=1&sni=www.bing.com#🔒
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@212.192.13.96:2052?insecure=1&sni=hk3.xiaoliyu.us#🔒
 hy2://e48e92a9-7168-427b-9e16-4eb7d98229c1@212.192.15.239:1327?obfs=salamander&obfs-password=Y2JhZTU3ZjE4ZTI0MzRmMQ%3D%3D&insecure=1#🔒
+hysteria2://RWn1s1QBjJ@212.74.39.202:2087?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=0e74af6cc6e1a0dfa132e34b5cc13375846cea1bf8b0f9e4793ecd3a6d631ff4&sni=www.oracle.com#EPODONIOS
 hy2://64009609-40ca-4955-82b7-45ff8daeeb2c@213.183.48.11:40443/?sni=speedtest.realityforus.com#%F0%9F%87%B7%F0%9F%87%BAMoscow%2B%40Surfboardv2ray
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.101.179:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.103.51:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
-hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.108.144:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
