@@ -33,9 +33,9 @@ hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.105.240.182:10001?sni=JP.1010520.
 hysteria2://few4139098219@172.172.36.217:7863?security=tls&insecure=1&sni=bing.com#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://1486bfa6-1c4c-456d-b055-c9760f911385@172.233.81.57:443/?mport=20000-50000&insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=YTVjNWFjYzExOTIzNzQyOQ%3D%3D#jp
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@172.236.149.43:10001?sni=SG3.1010520.shop#🔒
-hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.94.97:8443?sni=de5-hy2.veilvpn.life#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20211680
+hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.94.97:8443?sni=de5-hy2.veilvpn.life#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20128585
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.94.97:8443/?sni=de5-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.95.17:8433?sni=de1-hy2.veilvpn.life#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20467871
+hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.95.17:8433?sni=de1-hy2.veilvpn.life#%F0%9F%8E%8018%40oneclickvpnkeys
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.95.17:8433/?sni=de1-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hy2://d5537dd05904b6a6@173.199.70.234:443?insecure=1&obfs=salamander&obfs-password=d2b91736#🔒
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@176.124.202.137:80?insecure=1#🔒
@@ -60,7 +60,6 @@ hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=s
 hy2://MScgdxgGEW@179.61.251.214:44800?obfs=salamander&obfs-password=On0(hf$54%25gFDet$%25K5gf3&insecure=1#🔒
 hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.133.235.2:443?insecure=1&sni=https://t.me/WangCai2#%F0%9F%A7%A924%40oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.133.235.2:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%A7%A924@oneclickvpnkeys
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
 hysteria2://@Masir_Sefid@18.157.222.169:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#@vpnv2raytop
@@ -83,7 +82,9 @@ hy2://w1WaL8WbZf@185.254.96.99:29814?obfs=salamander&obfs-password=iVPN.Pro-Sahe
 hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26#%40V2rayMiner
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052?insecure=1&sni=jp1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052/?insecure=1&sni=jp1.xiaoliyu.us#jp1%40oneclickvpnkeys
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443?sni=hopp-legend-se.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20913763
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443?sni=hopp-legend-se.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20895448
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443/?sni=hopp-legend-se.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3ANO
 hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.foriran.trade&obfs=salamander&obfs-password=Y7aunTuPJZBCfiDIm#🔒
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒
+hy2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?insecure=1&sni=www.bing.com#🔒
+hy2://ffed9ff9-ec0f-4c97-854b-369e2931a777@192.124.176.87:9781?obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D&insecure=1#🔒
