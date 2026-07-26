@@ -1,9 +1,7 @@
-hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@144.24.79.114:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.93.108:2052?insecure=1&sni=cc1.mangshe.xyz#🔒
-hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?insecure=0&sni=devideo.h2corp.org#75%40oneclickvpnkeys
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?sni=devideo.h2corp.org#%F0%9F%8E%8075%40oneclickvpnkeys
 hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447/?sni=devideo.h2corp.org#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.224.81:443?sni=nland1.noesissite.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20442288
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.224.81:443/?sni=nland1.noesissite.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20486583
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.224.81:443?sni=nland1.noesissite.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20744616
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.224.81:443/?sni=nland1.noesissite.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20393895
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F2%40oneclickvpnkeys
 hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?insecure=1&sni=google.com#🔒
@@ -33,7 +31,7 @@ hysteria2://e5afa6a0-a4a6-44e3-a3e0-e05b0c67cd02@150.241.100.103:10443?sni=nethe
 hysteria2://e5afa6a0-a4a6-44e3-a3e0-e05b0c67cd02@150.241.100.103:10443/?sni=netherlands.b240i4.apruxdomain.site#%F0%9F%8E%8070@oneclickvpnkeys
 hysteria2://c76f08e20fb6368b@150.241.77.182:11122?security=tls&obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@150.66.12.23:443?mport=22000-22999#🔒
-hysteria2://7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr@151.247.219.191:8443?sni=hopp-queen.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20207545
+hysteria2://7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr@151.247.219.191:8443?sni=hopp-queen.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20700413
 hysteria2://7_Bz834J98n238cNbx7cjLAw_Nux28c_kIO1Hq86Vr@151.247.219.191:8443/?sni=hopp-queen.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
 hy2://09f8d33b-62ae-4cb4-89eb-00e9570f30a6@151.249.104.35:34623?insecure=1&sni=zula.ir#Rayan%20-%20GAFN%20-%20Hys2%20-%20P1
 hy2://5c33a4b2-7768-4e6c-87a8-a1515d1de609@152.53.0.187:40443/?sni=speedtest.realityforus.com#%F0%9F%87%A6%F0%9F%87%B9Vienna%2B%40Surfboardv2ray
@@ -88,5 +86,8 @@ hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773/?insecure=1&sni=h
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_2%7C2.2MB/s
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.6MB/s
 hysteria2://76dff95d-a720-4909-8ca6-3d848e786a9c@159.65.178.189:443?insecure=1&sni=www.bing.com#%F0%9F%8E%8068%40oneclickvpnkeys
+hysteria2://76dff95d-a720-4909-8ca6-3d848e786a9c@159.65.178.189:443/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hysteria2://28d38ce6-7c79-4e9d-9175-2186da5be395@159.65.79.184:20000?insecure=1&sni=addons.mozilla.org#%F0%9F%87%BA%F0%9F%87%B8US_2%7C2.2MB/s
+hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
