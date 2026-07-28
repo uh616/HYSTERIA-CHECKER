@@ -1,3 +1,7 @@
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.130.218:443?insecure=1&sni=www.bing.com#🔒
+hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@192.9.159.141:30001?insecure=1&sni=san-jose2.nodes.lanmaoyun.icu#🔒
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@192.9.164.54:443?insecure=1&sni=www.bing.com#🔒
+hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hysteria2://a34f3990b69f44bfa0d32385@192.9.175.87:30000?sni=vpn5.rnmcnm.com&amp;insecure=0&amp;allowInsecure=0&amp;obfs=salamander&amp;obfs-password=a34f3990b69f44bfa0d32385&amp;mport=30000-40000#澳大利亚
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@192.9.179.140:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@193.122.102.11:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
@@ -18,8 +22,8 @@ hy2://%40ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489@193.38.54.48:443?sni=let-hi
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@194.104.146.113:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
 hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
-hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20836604
-hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20937270
+hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20697670
+hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20807374
 hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
 hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
@@ -30,8 +34,8 @@ hy2://c8865525-d888-4318-aa77-44ca4c95e88b@194.87.68.196:13167?obfs=salamander&o
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@194.87.69.42:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
-hysteria2://hy2_czaawdhc%3AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&insecure=0&sni=nl2.cleanersaz.help#%E8%8B%B1%E5%9B%BD_072810023
-hysteria2://7vtdsItbTEcumDWJlv4zONV-UiY7rnxf@2.27.59.11:43327?sni=gate-v1.not-a-projects.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20910578
+hysteria2://hy2_czaawdhc%3AVwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&insecure=0&sni=nl2.cleanersaz.help#mtmvpn%20%3A%20telegram5
+hysteria2://7vtdsItbTEcumDWJlv4zONV-UiY7rnxf@2.27.59.11:43327?sni=gate-v1.not-a-projects.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20920810
 hy2://sysadmin.sysadmin@20.14.96.63:443?insecure=1#🔒
 hy2://1edc9180-6983-4c40-bc6e-82d94efef7b7@20.246.97.202:32142?insecure=1&sni=bing.com#🔒
 hy2://9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443?obfs=salamander&obfs-password=cd29099d&insecure=1&sni=vkvd127.mycdn.me#🔒
@@ -47,8 +51,8 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1640:177d:dc00:ff:fe22:b443
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:29820?insecure=1&sni=www.bing.com#🔒
 hy2://sysadmin.sysadmin@204.216.108.5:2024?insecure=1&sni=204-216-108-5.nip.io#🔒
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?insecure=1&sni=apps.apple.com#🔒
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20298920
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443/?sni=grape-turbo-fr.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3ANL
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20454732
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443/?sni=grape-turbo-fr.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20558979
 hy2://sysadmin.sysadmin@206.237.0.170:443?insecure=1#🔒
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#@rxv2ray
@@ -87,8 +91,3 @@ hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.118.226:44300?insecure=1&sni=s
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.124.238:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@213.35.99.16:2052?insecure=1&sni=sg3.eyujichang.xyz#🔒
 hy2://96cad374-7573-4463-8804-4665c2c3d932@217.142.191.118:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@217.142.225.38:443?insecure=1&sni=www.bing.com#🔒
-hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamander&obfs-password=vpnxw#🔒
-hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#🔒
-hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3041?sni=uk.bydk.xyz#🔒
-hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3043?sni=uk.bydk.xyz#🔒
