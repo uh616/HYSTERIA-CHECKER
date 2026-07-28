@@ -1,4 +1,3 @@
-hy2://d2e21fabfe6ddb83@hys11.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#irancpihys1
 hy2://9f73c619627d6a5d@hys2.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#irancpihys2
 hy2://y0qochAspE+u-HLfrip-@hys23.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2
 hy2://y0qochAspE+u-HLfrip-@hys231.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2-1
@@ -45,13 +44,13 @@ hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nland1.noesissite.ru:443?sni=nland1.noesissite.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20320448
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nland1.noesissite.ru:443?sni=nland1.noesissite.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20802251
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nland1.noesissite.ru:443/?sni=nland1.noesissite.ru#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#%F0%9F%87%B1%F0%9F%87%BBhysteria
 hysteria2://72bcd6fe388a12c386a1c40ff55f6c1e@proxy.sailreach.org:8443?security=tls&obfs=salamander&obfs-password=ed56da70f1614311cbfc1e87&insecure=0&sni=proxy.sailreach.org#%F0%9F%8E%B449%40ConfigV2RayNG
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org#%F0%9F%87%B7%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20RO53%7C5.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-RO%7CCL-RO%7CSP-RO
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org#%F0%9F%87%B7%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20RO5%7C5.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-RO%7CCL-RO%7CSP-RO
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443/?sni=ro.h2corp.org#%3E%3E%40oneclickvpnkeys%3A%3ARO
-hysteria2://92e82460-9a6f-4a1d-b455-d96e036eee4a@s1.monitoring-msk.online:8443?insecure=1&sni=s1.monitoring-msk.online#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.1MB/s
+hysteria2://92e82460-9a6f-4a1d-b455-d96e036eee4a@s1.monitoring-msk.online:8443?insecure=1&sni=s1.monitoring-msk.online#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF_072905002
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sb1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟10@oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sbl.mangshe.xyz:2056?security=tls&insecure=1&sni=sbl.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇧🇷%20BR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sbl.mangshe.xyz:2052/?insecure=1&sni=sbl.mangshe.xyz#%F0%9F%94%B039%40oneclickvpnkeys
@@ -84,7 +83,7 @@ hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMin
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#🇷🇺RU_1|1.2MB/s|9%
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2012
 hysteria2://dbR4wwHGOi@visg.556359.xyz:19500?insecure=1&obfs=salamander&obfs-password=ikjnsdakjnasfdjkn&sni=go.microsoft.com#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#%F0%9F%87%A8%F0%9F%87%A6CA_1%7C1.6MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#%F0%9F%87%A8%F0%9F%87%A6CA_1%7C2.2MB/s
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%E4%B8%AD%E5%9C%8B%E8%87%BA%E7%81%A3%E4%B8%A8yoyapai.com
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%BA%F0%9F%87%B8US_3%7C2.1MB/s
 hy2://f0126e9fe4014e17@77.91.77.27:39292?obfs=salamander&obfs-password=5449c086723e86d4&insecure=1&sni=TG.@WangCai2#🔒
