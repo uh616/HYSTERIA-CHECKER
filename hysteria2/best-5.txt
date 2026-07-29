@@ -20,7 +20,7 @@ hy2://%40ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489@193.38.54.48:443?sni=let-hi
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@194.104.146.113:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
 hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
-hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443?sni=fr2.h2corp.org#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6_073004007
+hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443#
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/#
 hysteria2://grape_288923@194.247.182.201:8080?insecure=1&sni=grape-coffee-fi.gleeze.com#%E7%83%8F%E5%85%8B%E8%98%AD%E4%B8%A8yoyapai.com_5
 hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
@@ -34,12 +34,12 @@ hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@194.87.69.42:7660?obfs=salamander&obf
 hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hysteria2://a8f793a5-1876-408c-9375-aa4f1e15724a@2.26.52.128:443?sni=fin1.apexvpn.space#%F0%9F%90%B053%40oneclickvpnkeys
-hysteria2://a8f793a5-1876-408c-9375-aa4f1e15724a@2.26.52.128:443/?sni=fin1.apexvpn.space#%F0%9F%90%B053@oneclickvpnkeys
+hysteria2://a8f793a5-1876-408c-9375-aa4f1e15724a@2.26.52.128:443/?sni=fin1.apexvpn.space#
 hysteria2://hy2_czaawdhc@2.26.92.136:443?insecure=0&sni=nl2.cleanersaz.help&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#%40bored_vpn
 hysteria2://o3774es6cfv74kaf@2.26.97.21:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%F0%9F%93%AF58%40oneclickvpnkeys
 hysteria2://o3774es6cfv74kaf@2.26.97.21:8443/?obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#
 hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@2.59.163.171:443?sni=2.59.163.171.nip.io#%F0%9F%90%B056%40oneclickvpnkeys
-hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@2.59.163.171:443/?sni=2.59.163.171.nip.io#%F0%9F%90%B056@oneclickvpnkeys
+hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@2.59.163.171:443/?sni=2.59.163.171.nip.io#
 hy2://sysadmin.sysadmin@20.14.96.63:443?insecure=1#🔒
 hy2://1edc9180-6983-4c40-bc6e-82d94efef7b7@20.246.97.202:32142?insecure=1&sni=bing.com#🔒
 hy2://9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443?obfs=salamander&obfs-password=cd29099d&insecure=1&sni=vkvd127.mycdn.me#🔒
