@@ -46,7 +46,7 @@ hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=www.bing.com#🔒
 hysteria2://nNS3WyiBOL@178.128.65.195:19108?insecure=1&amp;obfs=salamander&amp;obfs-password=vwrgaergG&amp;sni=aws.amazon.com#🇺🇸US_1|3.0MB/s|GPT⁺|YT-US|NF|GM
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@178.173.248.172:2052?insecure=1&sni=hk3.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@178.173.248.172:2052/?insecure=1&sni=hk3.xiaoliyu.us#hk%40oneclickvpnkeys
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443?sni=germany1.noesissite.ru#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A_073004051
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443?sni=germany1.noesissite.ru#
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443/?sni=germany1.noesissite.ru#
 hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443?insecure=1&sni=google.com#🔒
 hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443/?insecure=1&amp;sni=google.com#Hysteria
