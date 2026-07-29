@@ -65,7 +65,7 @@ hysteria2://velluto_8325804083@31.76.30.79:443?sni=gretacoin.shop#%F0%9F%93%AF41
 hysteria2://velluto_8325804083%3Ab12eebc2-369c-4f3c-96a0-a8bd150ca8d5@31.76.30.79:35000?sni=gretacoin.shop&insecure=0#GB
 hysteria2://velluto_8325804083%3Ab12eebc2-369c-4f3c-96a0-a8bd150ca8d5@31.76.30.79:35000/?sni=gretacoin.shop#%F0%9F%93%AF41@oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443?insecure=1#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443/?insecure=1#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.178.201.79:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E2%9B%B264@oneclickvpnkeys
