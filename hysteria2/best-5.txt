@@ -36,13 +36,14 @@ hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&ob
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hysteria2://a8f793a5-1876-408c-9375-aa4f1e15724a@2.26.52.128:443?sni=fin1.apexvpn.space#%F0%9F%90%B053%40oneclickvpnkeys
 hysteria2://a8f793a5-1876-408c-9375-aa4f1e15724a@2.26.52.128:443/?sni=fin1.apexvpn.space#%F0%9F%90%B053@oneclickvpnkeys
-hysteria2://hy2_czaawdhc@2.26.92.136:443?insecure=0&sni=nl2.cleanersaz.help&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#%40bored_vpn
+hysteria2://hy2_czaawdhc:VwWo0eBZC9jU3xCE0FuTmbX6xmnj33Iq@2.26.92.136:443?security=tls&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF&insecure=0&sni=nl2.cleanersaz.help#
 hysteria2://o3774es6cfv74kaf@2.26.97.21:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%F0%9F%93%AF58%40oneclickvpnkeys
 hysteria2://o3774es6cfv74kaf@2.26.97.21:8443/?obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#%F0%9F%93%AF58@oneclickvpnkeys
-hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@2.59.163.171:443?sni=2.59.163.171.nip.io#%F0%9F%90%B056%40oneclickvpnkeys
+hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@2.59.163.171:443?insecure=0&sni=2.59.163.171.nip.io#56%40oneclickvpnkeys
 hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@2.59.163.171:443/?sni=2.59.163.171.nip.io#%F0%9F%90%B056@oneclickvpnkeys
 hy2://sysadmin.sysadmin@20.14.96.63:443?insecure=1#🔒
-hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.17.157.51:56787?insecure=1&sni=ajax.microsoft.com&obfs=&obfs-password=#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.1MB/s
+hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.17.157.51:56787?insecure=1&sni=ajax.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443297
+hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.174.92.16:56789?insecure=1&sni=ajax.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20646032
 hysteria2://ba845a48-cfcb-48c4-ab8c-0836e360112e@20.233.191.174:56789?insecure=1&sni=ajax.microsoft.com#
 hy2://1edc9180-6983-4c40-bc6e-82d94efef7b7@20.246.97.202:32142?insecure=1&sni=bing.com#🔒
 hy2://9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443?obfs=salamander&obfs-password=cd29099d&insecure=1&sni=vkvd127.mycdn.me#🔒
