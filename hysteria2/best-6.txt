@@ -1,3 +1,4 @@
+hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3043?sni=uk.bydk.xyz#🔒
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@23.247.137.67:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@23.247.137.67:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B07%40oneclickvpnkeys
 hy2://de6eafd5-a11f-4e9c-b763-2d114fb97257@23.26.34.209:8080?insecure=1&sni=www.bing.com#🔒
@@ -52,13 +53,11 @@ hy2://81ea378b37931b23@[2a12:5940:72da::2]:7373?obfs=salamander&obfs-password=7d
 hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f809a60274316cdd&insecure=1&sni=www.google.com#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.97.11.1:443?insecure=1&sni=vpn-ca-002.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.97.11.1:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20983973
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443?insecure=1#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.180.193.231:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20688796
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.183.85.24:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@35.72.184.29:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@35.72.184.29:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_29%20%40wangcai_8
@@ -95,3 +94,4 @@ hysteria2://f8d473b9-5724-489e-8841-cf4565203c9e@45.140.169.231:8080?security=tl
 hy2://a278eadd-c35c-403f-a286-7767a74307c1@45.140.169.231:8080/?insecure=1&sni=www.eliv2ray.net#@vpnv2rayNGv
 hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@45.142.113.238:40443?sni=speedtest.realityforus.com#🔒
 hysteria2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/?sni=speedtest.realityforus.com&insecure=0#%F0%9F%87%A9%F0%9F%87%AAHysteria2%2B%40Surfboardv2ray
+hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.144.2.154:52773?insecure=1&sni=ssrsub.h04.trojan.tel#🔒
