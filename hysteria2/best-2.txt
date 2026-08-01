@@ -94,3 +94,4 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.24.101.176:30102?insecure=1&sni=i
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@144.24.129.30:2052?insecure=1&sni=ch1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@144.24.129.30:2052/?insecure=1&sni=ch1.xiaoliyu.us#ch%40oneclickvpnkeys
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.145.69:2052?insecure=1&sni=hdlb1.mangshe.xyz#🔒
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.153.219:443?insecure=1&sni=www.bing.com#🔒
