@@ -1,3 +1,6 @@
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.76.141:30102?insecure=1&sni=joinBede.ELiV2ray.net#🔒
+hy2://2d347be7-909b-4410-af92-95a1abf7e531@193.123.76.84:35000?insecure=1&sni=www.apple.com#🔒
+hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102?insecure=1&sni=du.wish.ml#🔒
 hy2://03e4fe32@193.123.95.157:31452?insecure=1&sni=www.bing.com#🔒
 hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&amp;sni=hl01.mistea.top#📟28@oneclickvpnkeys
@@ -69,7 +72,7 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.157:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_157%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@211.72.35.158:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.158:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_158%20%40wangcai_8
-hysteria2://5e1a0806-8be7-44e9-966d-517541307fbd@212.119.42.98:55000?insecure=1&sni=ok.ru&obfs=salamander&obfs-password=6fb01f11e04c0e33c9b62e64bfeb4c10#%F0%9F%87%B7%F0%9F%87%BA129828%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
+hysteria2://5e1a0806-8be7-44e9-966d-517541307fbd@212.119.42.98:55000?insecure=1&sni=ok.ru&obfs=salamander&obfs-password=6fb01f11e04c0e33c9b62e64bfeb4c10#%F0%9F%87%BA%F0%9F%87%B8US_14%7C3.1MB/s
 hysteria2://5e1a0806-8be7-44e9-966d-517541307fbd@212.119.42.98:55000/?insecure=1&obfs=salamander&obfs-password=6fb01f11e04c0e33c9b62e64bfeb4c10&sni=ok.ru#
 hy2://0d42717f@212.192.13.222:1995?insecure=1&sni=www.bing.com#🔒
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@212.192.13.96:2052?insecure=1&sni=hk3.xiaoliyu.us#🔒
@@ -91,7 +94,3 @@ hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3041?sni=uk.bydk.xyz#�
 hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3043?sni=uk.bydk.xyz#🔒
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@23.247.137.67:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@23.247.137.67:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%94%B07%40oneclickvpnkeys
-hy2://de6eafd5-a11f-4e9c-b763-2d114fb97257@23.26.34.209:8080?insecure=1&sni=www.bing.com#🔒
-hy2://sysadmin.sysadmin@23.95.20.134:446?insecure=1#🔒
-hy2://18a720415df07a92@[2400:8a20:113:36::]:64321?insecure=1&sni=www.bing.com#🔒
-hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2401:b60:ffff:0:1:0:953c:8b7c]:20025?insecure=1&sni=www.bing.com#🔒
