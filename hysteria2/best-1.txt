@@ -2,8 +2,8 @@ hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@1.162.146.24:51057?insecure=1&sni=tw.
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@1.162.146.24:51373?insecure=1&sni=hkt.trojan.tel#🔒
 hy2://9a714ec6-40b8-4ab6-9e95-05846c812661@1.170.221.9:24231?insecure=1&sni=ddns.200566.xyz#🔒
 hy2://453D99CE-725A-4595-8E41-0661AB2C8FBB@1.36.166.125:1250?insecure=1#🔒
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20622011
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20966450
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20881264
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%3E%3E%40oneclickvpnkeys%3A%3ATW
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052?insecure=1&sni=hk2.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052/?insecure=1&sni=hk2.xiaoliyu.us#hk2%40oneclickvpnkeys
 hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&amp;sni=google.com#Hysteria
@@ -34,11 +34,11 @@ hy2://sharecentrepro@107.175.54.114:4433/?insecure=1&sni=us.sharecentrepro.link#
 hy2://ksGeWd8r9Rz8@107.175.70.80:16424?insecure=1&sni=www.bing.com#🔒
 hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200?sni=han.ssudo.x10.mx#🔒
 hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200/?sni=han.ssudo.x10.mx#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443?sni=wopa7.api3-max.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20555699
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20682221
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.155.125:443?sni=taga9.api3-max.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20557023
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.155.125:443/?sni=taga9.api3-max.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20456625
-hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@108.137.103.118:18385?insecure=1&sni=mc1.ktmhyld.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20624607
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443?sni=wopa7.api3-max.ru#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F36%40oneclickvpnkeys
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20255208
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.155.125:443?sni=taga9.api3-max.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20589385
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.155.125:443/?sni=taga9.api3-max.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20914038
+hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@108.137.103.118:18385?insecure=1&sni=mc1.ktmhyld.com#
 hy2://sysadmin.sysadmin@108.174.197.101:443?insecure=1#🔒
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@108.181.23.231:443?security=tls&insecure=1&mport=50000-53000&sni=www.microsoft.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=109.104.152.89#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20109.104.152.89%20%E2%97%88%20udp:22441%20%E2%97%88%20BrainStorm%20Network,%20Inc%20/%20Oneprovider.com%20%E2%97%88%20c1a9e
@@ -95,4 +95,4 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@129.154.234.42:30102?insecure=1&sni=i
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
-hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@13.214.201.99:18383?insecure=1&sni=sg1.ktmhyld.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20632288
+hysteria2://b111a7bb-7be3-4d0b-9e7b-ea8f33d03e17@13.214.201.99:18383?insecure=1&sni=sg1.ktmhyld.com#
