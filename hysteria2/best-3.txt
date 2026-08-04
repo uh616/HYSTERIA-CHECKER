@@ -1,13 +1,12 @@
-hy2://sysadmin.sysadmin@148.135.43.253:446?insecure=1&sni=ss.aslirico3212.nyc.mn#🔒
-hy2://sysadmin.sysadmin@148.135.59.9:446?insecure=1#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102?insecure=1&sni=us9.wish.ml#🔒
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@149.28.71.141:8080?sni=jp1.trojanws.xyz#🔒
 hysteria2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@14in.prometheusnet01.xyz:24149?insecure=1&obfs=none&mport=21000-26000&fastopen=1#🆔freev2rayi%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.222.3.181:443?insecure=1&sni=vpn-ca-002.fastervpn.world#4Jadi-58690dd363
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.222.3.181:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443?insecure=1&sni=vpn-fr-002.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443?insecure=1&sni=vpn-fr-002.fastervpn.world#
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443/?insecure=1&sni=https://t.me/clashv8🇨🇳#EPODONIOS
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443?insecure=1&sni=https://t.me/clashv8🇨🇳#%F0%9F%87%AB%F0%9F%87%B7133266%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.136.65.4:2052?insecure=1&sni=asb1.mangshe.xyz#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@150.230.192.191:30001?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj1.mangshe.xyz#🔒
@@ -44,7 +43,8 @@ hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://sysadmin.sysadmin@154.7.183.57:443?insecure=1#🔒
-hy2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001/?insecure=1#🇺🇸美国
+hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD
+hy2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001/?insecure=1#EPODONIOS
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266.xyz#
 hy2://a741df90@156.229.163.98:22222?insecure=1&sni=www.bing.com#🔒
@@ -79,7 +79,6 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-
 hysteria2://b42d90fa667942aebc734d60@161.33.231.22:30000?sni=vpn7.rnmcnm.com&insecure=0&allowInsecure=0#4Mohsen-7efd56d198
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
 hy2://d38b31c5-11db-4fb7-b4ea-248359c2d142@163.123.192.167:443?insecure=1&sni=www.microsoft.com#🔒
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@163.176.21.66:443?sni=rmgyvpn.rest&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&mport=8443%2C2053%2C2083%2C2087%2C2096%2C30000-40000#4Nika-b53fd3ef99
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@164.92.254.56:10001?sni=de.1010520.shop#🔒
 hy2://sysadmin.sysadmin@165.1.76.128:444?insecure=1&sni=mg1.wtn.wang#🔒
 hy2://4984806b-f0f9-4749-bdd5-ea38bd690270@166.0.188.220:12288?insecure=1#🔒
@@ -95,7 +94,8 @@ hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443?insecure=0&
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#
 hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com#🔒
 hy2://sysadmin.sysadmin@167.234.249.46:444?insecure=1&sni=a.961229.xyz#🔒
-hy2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000/?insecure=1&sni=www.apple.com#巴西
+hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000?insecure=1&sni=www.apple.com&obfs=&obfs-password=#%F0%9F%87%A7%F0%9F%87%B7BR_1%7C1.1MB/s
+hy2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000/?insecure=1&sni=www.apple.com#EPODONIOS
 hy2://364e8db7a2d57e32@167.253.152.235:46600?insecure=1&sni=www.bing.com#🔒
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000/?insecure=1&amp;sni=bing.com#🎡68@oneclickvpnkeys
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@168.138.176.6:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
@@ -106,3 +106,5 @@ hy2://853d4960-629a-4a65-9569-30349e006f2b@168.75.85.171:443?insecure=1&sni=www.
 hy2://853d4960-629a-4a65-9569-30349e006f2b@168.75.85.171:443/?insecure=1&sni=www.microsoft.com#%F0%9F%87%A7%F0%9F%87%B7%40oneclickvpnkeys
 hy2://sysadmin.sysadmin@170.205.54.5:443?insecure=1#🔒
 hy2://miaoge110.@170.64.183.54:33939?insecure=1&sni=www.bing.com#🇦🇺AU%20|%20hy2%20|%20@TUICity%20|%203
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@170.64.217.182:10001?sni=AU.1010520.shop#🔒
+hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@172.104.42.126:443?mport=40001-50000&insecure=1&sni=ynb.441122.xyz#🔒
