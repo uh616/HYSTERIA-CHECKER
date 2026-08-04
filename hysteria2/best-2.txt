@@ -106,3 +106,5 @@ hy2://cef1e7a47565b431@147.45.76.99:443?insecure=1&obfs=salamander&obfs-password
 hy2://cef1e7a47565b431@147.45.76.99:443/?insecure=1&sni=%45%4C%69%56%32%72%61%79.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪-@Free_V2rng
 hy2://sysadmin.sysadmin@148.135.36.71:56666?insecure=1#🔒
 hy2://sysadmin.sysadmin@148.135.43.213:56666?insecure=1#🔒
+hy2://sysadmin.sysadmin@148.135.43.253:446?insecure=1&sni=ss.aslirico3212.nyc.mn#🔒
+hy2://sysadmin.sysadmin@148.135.59.9:446?insecure=1#🔒
