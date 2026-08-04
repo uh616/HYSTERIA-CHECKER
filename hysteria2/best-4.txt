@@ -1,3 +1,5 @@
+hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000/?insecure=1&amp;sni=bing.com#🎡68@oneclickvpnkeys
+hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@168.138.176.6:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@168.75.103.205:2025?insecure=1&sni=sbl1.eyujichang.xyz#🔒
 hy2://maniubi@168.75.65.36:60800?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi@168.75.65.36:60800/?insecure=1&sni=www.bing.com#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -100,5 +102,3 @@ hy2://sysadmin.sysadmin@194.36.209.54:443?insecure=1#🔒
 hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=google.com#🔒
 hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443/?insecure=1&amp;sni=google.com#Hysteria
-hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052?insecure=1&sni=de1.xiaoliyu.us#🔒
-hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@194.87.227.237:2052/?insecure=1&sni=de1.xiaoliyu.us#de%40oneclickvpnkeys
