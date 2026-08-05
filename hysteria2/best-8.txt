@@ -1,3 +1,7 @@
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443/?sni=mercedes-grape.yyuyy.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443?sni=mercedes-grape.yyuyy.com#
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443/?sni=mercedes-grape.yyuyy.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hy2://81ea378b37931b23@77.221.158.52:7373?obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=www.google.com#🔒
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443?sni=grape-zet-turbo-nl.yyuyy.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443/?sni=grape-zet-turbo-nl.yyuyy.com#EPODONIOS
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Nika-39edb119be
@@ -24,7 +28,7 @@ hysteria2://grape_288923@82.22.53.30:8080?insecure=1&sni=grape-coffee-fi.gleeze.
 hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443?insecure=1&sni=iosapps.itunes.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF
 hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#EPODONIOS
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒
-hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@83.243.86.80:443?sni=prodfr.h2corp.org#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E5%BE%B7%E5%9B%BD_080505979
+hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@83.243.86.80:443?sni=prodfr.h2corp.org#
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@83.243.86.80:443/?sni=prodfr.h2corp.org#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hy2://03e4fe32@84.235.246.199:31452?insecure=1&sni=www.bing.com#🔒
 hy2://03e4fe32@84.235.248.145:31452?insecure=1&sni=www.bing.com#🔒
@@ -32,8 +36,8 @@ hy2://4328e5a3-b325-4154-9e7d-508e16962e40@84.252.75.14:8443?insecure=1&sni=hy10
 hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&insecure=1#🔒
 hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?insecure=1&security=tls&sni=www.bing.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 hy2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🔒
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443?sni=swe-one.quiet-rogue.site#%F0%9F%A4%9671%40oneclickvpnkeys
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443?sni=swe-one.quiet-rogue.site#%F0%9F%87%B8%F0%9F%87%AASE_2%7C2.3MB%2Fs%7CGPT%E2%81%BA%7CYT-RU%7CNF%7C0%25
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#%3E%3E%40oneclickvpnkeys%3A%3ASE
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052?insecure=1&sni=fr1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%B5%F0%9F%87%AD
@@ -62,8 +66,8 @@ hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudfl
 hy2://9ijufI4LW_ehlst!Pho-@95.179.150.22:443?insecure=1&obfs=salamander&obfs-password=9ijufI4LW_ehlst%21Pho-&sni=google.com#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2095.179.150.22%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%20494ef
 hysteria2://b78b3b0c-8b89-4a95-94f4-42a3edf9f1b3@95.181.189.42:8992?insecure=1&sni=95.181.189.42#4Kian-75e1664c46
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443?insecure=1&sni=vpn-ca-002.fastervpn.world#4Nika-28bc528d89
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20153172
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?insecure=1&sni=vpn-ca-002.fastervpn.world#%F0%9F%9B%B0%EF%B8%8F66%40oneclickvpnkeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?insecure=1&sni=vpn-ca-002.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ACA
 hy2://03e4fe32@ae-dubai-oracle-46ebed.ip1.shop:31452/?insecure=1&sni=www.bing.com#%E2%80%BC%EF%B8%8F5%40oneclickvpnkeys
 hysteria2://d5905353-0efe-47a0-90e8-276991af4c87@ae.1010520.xyz:1001?security=tls&insecure=1&sni=ae.1010520.xyz#🆔wxgmrjdcc%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
@@ -104,8 +108,3 @@ hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni
 hysteria2://8ffbff3b-12c9-4d49-af97-93a8d6cb4edb@de2.sunconnecthub.com:443?sni=de2.sunconnecthub.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%233
 hy2://8ffbff3b-12c9-4d49-af97-93a8d6cb4edb@de2.sunconnecthub.com:443/?sni=de2.sunconnecthub.com#EPODONIOS
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%234
-hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@debiantubelinux.space:443?obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW&sni=debiantubelinux.space#SMART
-hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj1.mangshe.xyz:2056?security=tls&insecure=1&sni=dj1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇯🇵%20JP%20down
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj1.mangshe.xyz:2052/?insecure=1&sni=dj1.mangshe.xyz#%F0%9F%94%B035%40oneclickvpnkeys
-hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@dj1.yiyiyun.top:443/?mport=30001-40000&insecure=1&sni=bing.com#%E2%99%BB%EF%B8%8F1%40oneclickvpnkeys
