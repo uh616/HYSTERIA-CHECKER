@@ -1,5 +1,3 @@
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sb1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟10@oneclickvpnkeys
-hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sbl.mangshe.xyz:2056?security=tls&insecure=1&sni=sbl.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇧🇷%20BR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sbl.mangshe.xyz:2052/?insecure=1&sni=sbl.mangshe.xyz#%F0%9F%94%B039%40oneclickvpnkeys
 hy2://529a3d29-fcf2-4879-a580-611d9c027372@seoul4-500m.yljc.online:443/?mport=20001-25000&sni=1.nodes.yljc.online#%E2%84%B9%EF%B8%8F3%40oneclickvpnkeys
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@sg-02.worldfirst.eu.org:44300?insecure=1&sni=sg-02.worldfirst.eu.org#%F0%9F%92%A5%F0%9F%87%B8%F0%9F%87%AC%20SG%20158.178.231.36%20%E2%97%88%20udp:44300%20%E2%97%88%20Oracle%20Corporation%20%E2%97%88%20a8e7c
@@ -16,9 +14,8 @@ hy2://rs3h2c9n8X@65.21.158.249:2096?obfs=salamander&obfs-password=Vk@l@b@shV&ins
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@soskeynets.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%87%B8%F0%9F%87%AC136392%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@soskeynets.mangshe.xyz:2060?insecure=1&sni=xjp3.mangshe.xyz#%F0%9F%87%B8%F0%9F%87%AC136398%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
-hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@soskeynets.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#4Nika-fc35d94906
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@soskeynets.mangshe.xyz:2056/?insecure=1&sni=flkf3.mangshe.xyz#🇩🇪136205
-hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@soskeynets.mangshe.xyz:2060/?insecure=1&sni=xjp3.mangshe.xyz#4Nika-f3b52d9305
+hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@soskeynets.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#EPODONIOS
+hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@soskeynets.mangshe.xyz:2060/?insecure=1&sni=xjp3.mangshe.xyz#EPODONIOS
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sr1.mangshe.xyz:2056?security=tls&insecure=1&sni=sr1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#EPODONIOS
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site#@OutlineReleasedKey
@@ -68,7 +65,7 @@ hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443/?sni=usa1.spectrumproxy.shop#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://bd37d63b-c75d-3e48-acbf-1d5954fe9cdc@usaw2.awo-link.com:14101?sni=usaw2.awo-link.com&obfs=salamander&obfs-password=XBvVbvzQCq6Ovbnh#%F0%9F%87%BA%F0%9F%87%B8US
 hy2://bd37d63b-c75d-3e48-acbf-1d5954fe9cdc@usaw2.awo-link.com:14101/?sni=usaw2.awo-link.com&obfs=salamander&obfs-password=XBvVbvzQCq6Ovbnh#EPODONIOS
-hysteria2://571e40e5-d597-4618-9204-535c94dca771@uswx3.wxgqlfx.vip:36253?insecure=1&sni=144.225.187.184#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.1MB%2Fs%7CGPT%E2%81%BA%7CYT-CN%7CNF%7CD%2B%7C0%25
+hysteria2://571e40e5-d597-4618-9204-535c94dca771@uswx3.wxgqlfx.vip:36253?insecure=1&sni=144.225.187.184#美国3@wxgqlfx#%E7%BE%8E%E5%9B%BD
 hy2://571e40e5-d597-4618-9204-535c94dca771@uswx3.wxgqlfx.vip:36253/?insecure=1&sni=144.225.187.184#美国3@wxgqlfx#EPODONIOS
 hysteria2://a000fb47-5dfd-4a6b-9739-2878883d6969@uswx4.wxgqlfx.vip:36253?insecure=1&sni=144.225.187.153#美国4@wxgqlfx#%E7%BE%8E%E5%9B%BD%20%231
 hy2://a000fb47-5dfd-4a6b-9739-2878883d6969@uswx4.wxgqlfx.vip:36253/?insecure=1&sni=144.225.187.153#美国4@wxgqlfx#EPODONIOS
@@ -111,7 +108,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp1.mangshe.xyz:2052/?insecure=1&sni
 hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#EPODONIOS
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp3.mangshe.xyz:2060?insecure=1&sni=#%40GozargahAzad%7C%F0%9F%87%B8%F0%9F%87%AC
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp3.mangshe.xyz:2052/?insecure=1&sni=xjp3.mangshe.xyz#%F0%9F%94%B038%40oneclickvpnkeys
-hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp3.mangshe.xyz:2060/?insecure=1&sni=xjp3.mangshe.xyz#4Jadi-6a7168d9f4
+hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xjp3.mangshe.xyz:2060/?insecure=1&sni=xjp3.mangshe.xyz#EPODONIOS
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#4FreeIran-aeb2b9e482
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#4Mohsen-bac977394b
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#4Kian-672391b43a
