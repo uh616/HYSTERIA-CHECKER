@@ -1,3 +1,4 @@
+hy2://3b23679d-6ea2-4098-b2ee-fff8c46cfbfb@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@176.32.33.73:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://ffed9ff9-ec0f-4c97-854b-369e2931a777@176.32.35.194:28993?obfs=salamander&obfs-password=MGJiYThkMjgwNDE1Y2FkMg%3D%3D&insecure=1#🔒
 hy2://f5b598d8-234e-4142-b8e8-197c50b6c32c@176.32.35.198:8307?obfs=salamander&obfs-password=NDQyMDdkMTEzNDRmMDAxYg%3D%3D&insecure=1#🔒
@@ -29,7 +30,7 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln
 hysteria2://gf1@185.111.109.40:443?insecure=1&sni=www.dell.com#
 hy2://gf1:gfhysteria2024@185.111.109.40:443/?insecure=1&sni=www.dell.com#EPODONIOS
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@185.14.47.28:30024?insecure=1&sni=www.bing.com#🔒
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=www.amazon.com#
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=www.amazon.com#%F0%9F%87%B7%F0%9F%87%B4136774%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 hy2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&sni=www.amazon.com#EPODONIOS
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@185.204.0.117:443?mport=50000-50500&insecure=1&sni=hk1.pithecia.com#🔒
@@ -110,4 +111,3 @@ hy2://scWFJKJ5Y6Ly@[2001:41d0:c:fdb::e9]:443?insecure=1&sni=yahoo.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1640:177d:dc00:ff:fe22:b443]:34975?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:29820?insecure=1&sni=www.bing.com#🔒
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#4Mohsen-c825c713a2
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1#
