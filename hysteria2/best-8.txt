@@ -1,3 +1,5 @@
+hy2://sTeki1$re5!8swohopro@78.141.215.68:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#@Zede_filteri
+hy2://fokaS4id3bretay-7rit@78.141.216.41:443?insecure=1&obfs=salamander&obfs-password=fokaS4id3bretay-7rit&sni=eliv2ray.elena.expert#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2078.141.216.41%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%20299af
 hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=fokaS4id3bretay-7rit#%40Zede_filteri%20%F0%9F%87%B3%F0%9F%87%B1%20
 hysteria2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443?insecure=1&sni=quic.tyr-agentstvo.tech#
 hy2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443/?insecure=1&sni=quic.tyr-agentstvo.tech#EPODONIOS
@@ -63,7 +65,7 @@ hysteria2://ik0zt621uw9iqvsi@95.217.96.131:52051?obfs=salamander&obfs-password=l
 hysteria2://ik0zt621uw9iqvsi@95.217.96.131:52062?insecure=1&obfs=salamander&obfs-password=hg7rfvz151ftjh0w#
 hysteria2://ik0zt621uw9iqvsi@95.217.96.131:52088?obfs=salamander&obfs-password=qfsk2h15o2dm0msi&sni=assets.gateway-stream.com#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443?insecure=1&sni=vpn-ca-002.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#%F0%9F%A7%8543@oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?insecure=1&sni=vpn-ca-002.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ACA
 hy2://03e4fe32@ae-dubai-oracle-46ebed.ip1.shop:31452/?insecure=1&sni=www.bing.com#%E2%80%BC%EF%B8%8F5%40oneclickvpnkeys
@@ -83,6 +85,7 @@ hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52006?insecure=0&sni=asse
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52023?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&amp;obfs=salamander&amp;obfs-password=t72hzzenktxmrvgu&amp;insecure=0&amp;sni=assets.gateway-stream.com#@igrsdet
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=w0tx1ju9iix6913p#
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52046?security=tls&obfs=salamander&obfs-password=7h5we82pkgh4qwid&insecure=0&sni=assets.gateway-stream.com#
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52051?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k#
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#
@@ -108,6 +111,3 @@ hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@db1.mangshe.xyz:2056?insecure=1
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?insecure=0&sni=de-two.quiet-rogue.site#%E7%BE%8E%E5%9B%BD%20V2CROSS.COM%204
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443/?sni=de-two.quiet-rogue.site#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#📟1@oneclickvpnkeys
-hy2://sharecentrepro@de.sharecentrepro.link:4433?downmbps=1000&sni=de.sharecentrepro.link#%F0%9F%94%92%F0%9F%87%A9%F0%9F%87%AA%20DE%2051.68.169.215%20%E2%97%88%20udp:4433%20%E2%97%88%20OVH%20/%20Regxa%20%E2%97%88%2090b98
-hy2://%73%68%61%72%65%63%65%6E%74%72%65%70%72%6F@de.sharecentrepro.link:4433/#Free_V2rng
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟5@oneclickvpnkeys
