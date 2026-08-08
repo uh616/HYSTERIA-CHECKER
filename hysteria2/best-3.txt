@@ -78,7 +78,7 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052/?insecure=1&sni=f
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒
 hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com#🔒
 hy2://sysadmin.sysadmin@167.234.249.46:444?insecure=1&sni=a.961229.xyz#🔒
-hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000?insecure=1&sni=www.apple.com#%E5%B7%B4%E8%A5%BF
+hysteria2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000?insecure=1&sni=www.apple.com#
 hy2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@167.234.251.78:35000/?insecure=1&sni=www.apple.com#EPODONIOS
 hy2://364e8db7a2d57e32@167.253.152.235:46600?insecure=1&sni=www.bing.com#🔒
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000/?insecure=1&amp;sni=bing.com#🎡68@oneclickvpnkeys
