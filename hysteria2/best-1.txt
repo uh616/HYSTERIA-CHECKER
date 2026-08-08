@@ -13,7 +13,7 @@ hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
 hy2://9d765687-536c-4626-a2e2-6a403219e381@103.253.36.252:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=google.com#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443/?insecure=1&amp;sni=google.com#Hysteria
-hysteria2://b8f1b61e-d5c4-4765-866d-ece1fc8e590b@104.165.205.226:9443?sni=onecloudstream.com#%F0%9F%87%B1%F0%9F%87%BB%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A
+hysteria2://b8f1b61e-d5c4-4765-866d-ece1fc8e590b@104.165.205.226:9443?sni=onecloudstream.com#
 hy2://b8f1b61e-d5c4-4765-866d-ece1fc8e590b@104.165.205.226:9443/?sni=onecloudstream.com#EPODONIOS
 hy2://sysadmin.sysadmin@104.168.102.17:443?insecure=1#🔒
 hy2://910398c0493d2d9d@104.168.128.162:57635?insecure=1#🔒
@@ -97,7 +97,7 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@129.154.234.42:30102?insecure=1&sni=i
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.150.77:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20450489
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
@@ -113,3 +113,4 @@ hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@130.61.37.140:30001?insecure=1&sni=fr
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F16%40SHAHSERVER1
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@130.61.84.98:2052?insecure=1&sni=flkf1.mangshe.xyz#🔒
+hy2://966b38ef-3d70-4d4e-8e0f-179bf6f5533a@130.61.92.212:443?insecure=1&sni=www.bing.com#🔒
