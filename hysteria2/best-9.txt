@@ -1,3 +1,4 @@
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj1.mangshe.xyz:2052/?insecure=1&sni=dj1.mangshe.xyz#%F0%9F%94%B035%40oneclickvpnkeys
 hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@dj1.yiyiyun.top:443/?mport=30001-40000&insecure=1&sni=bing.com#%E2%99%BB%EF%B8%8F1%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj2.mangshe.xyz:2056?security=tls&insecure=1&sni=dj2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇯🇵%20JP%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj2.mangshe.xyz:2052/?insecure=1&sni=dj2.mangshe.xyz#%F0%9F%94%B036%40oneclickvpnkeys
@@ -13,7 +14,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?sni=fi-one.quiet-rogue.site&insecure=0#@OutlineReleasedKey
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#%3E%3E%40oneclickvpnkeys%3A%3AFI
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sni=flkf1.mangshe.xyz#%F0%9F%94%B03%40oneclickvpnkeys
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056?insecure=1&amp;sni=flkf3.mangshe.xyz#🇩🇪DE_1|1.8MB/s|GPT⁺|YT-CN|NF|0%
+hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056?insecure=1&sni=127.0.0.1#4Sarina-fa34dc8c5a
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056/?insecure=1&sni=flkf3.mangshe.xyz#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?sni=fr2.h2corp.org&nonce=fw1JNKCE#@OutlineReleasedKey
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443/#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -36,7 +37,7 @@ hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@hl1.mangshe.xyz:2056?insecure=1&amp;security=tls&amp;sni=hl1.mangshe.xyz#荷兰+德龙滕LiteServer
+hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@hl1.mangshe.xyz:2056?insecure=1&sni=hl1.mangshe.xyz#4Jadi-d9f36551da
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org#%E6%B3%95%E5%9B%BD%20%232
 hy2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?sni=host-vds2-fr.kvncococ.org#EPODONIOS
 hysteria2://e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474@hy2-fi.frdmhere.com:8458?sni=hy2.frdmhere.com#%E8%8A%AC%E5%85%B0%20%231
@@ -98,12 +99,12 @@ hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@lin.cryptoofarm.com:443?sni=lin
 hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@lin.cryptoofarm.com:443/?sni=lin.cryptoofarm.com#EPODONIOS
 hy2://@ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489@193.38.54.48:443/?sni=let-him-cook.ircp.online&obfs=salamander&obfs-password=@ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489#HYSTERiA
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@ln4.xiaoliyu.cyou:443?insecure=1#%E5%8D%B0%E5%BA%A6
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@ln4.xiaoliyu.cyou:4433?insecure=1&security=tls&sni=ln4.xiaoliyu.cyou#%E7%BE%8E%E5%9B%BD+%E5%AE%BE%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%B7%9ECoudersport
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@ln4.xiaoliyu.cyou:4433?insecure=1&sni=ln4.xiaoliyu.cyou#4FreeIran-1c3b21c000
 hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@ln4.xiaoliyu.cyou:443/?mport=22000-27000&insecure=1#EPODONIOS
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21349?mport=21001-21999&insecure=0#4Jadi-de2acdfb43
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21639?mport=21001-21999&insecure=0#4Sarina-f864e25259
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%E2%9C%A883%40oneclickvpnkeys
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#✨83@oneclickvpnkeys
+hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#%E2%9C%A883@oneclickvpnkeyshttps://5dc6fa05-a601-aba6-7761-ecde22d2b0fc:5dc6fa05-a601-aba6-7761-ecde22d2b0fc@eac88fe8-t9zts0-tonrmx-8n27.fr.oshuawei.com:443?sni=eac88fe8-t9zts0-tonrmx-8n27.fr.oshuawei.com#%E2%9C%A884@oneclickvpnkeyshttps://103.82.101.43:443?sni=76d1d3ecadca44efa2339867d7dfc9a1-8e928736d0f8dbdc.apache-iv.com#%E2%9C%A885@oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2056?security=tls&insecure=1&sni=mm1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2052/?insecure=1&sni=mm1.mangshe.xyz#%F0%9F%94%B034%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm2.mangshe.xyz:2056?security=tls&insecure=1&sni=mm2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
@@ -115,4 +116,3 @@ hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh=TG
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0=TG
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG
