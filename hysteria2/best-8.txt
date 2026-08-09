@@ -1,3 +1,6 @@
+hy2://f206702e@82.152.142.66:3341?insecure=1&sni=www.bing.com#🔒
+hy2://f206702e@82.152.142.67:3341?insecure=1&sni=www.bing.com#🔒
+hy2://f206702e@82.152.142.68:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.69:3341?insecure=1&sni=www.bing.com#🔒
 hysteria2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443?insecure=1&sni=iosapps.itunes.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF
 hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#EPODONIOS
@@ -52,7 +55,7 @@ hysteria2://kjq3gpn1xom1ted9@95.217.96.131:52008?obfs=salamander&obfs-password=9
 hysteria2://kjq3gpn1xom1ted9@95.217.96.131:52012?insecure=1&obfs=salamander&obfs-password=sdx1qdzqgp8lcajn#
 hysteria2://kjq3gpn1xom1ted9@95.217.96.131:52024?obfs=salamander&obfs-password=t72hzzenktxmrvgu&sni=assets.gateway-stream.com#
 hysteria2://kjq3gpn1xom1ted9@95.217.96.131:52031?obfs=salamander&obfs-password=p61ckuavkc1s2hfl&sni=assets.gateway-stream.com#
-hysteria2://kjq3gpn1xom1ted9@95.217.96.131:52034?insecure=1&obfs=salamander&obfs-password=w0tx1ju9iix6913p&sni=assets.gateway-stream.com#
+hysteria2://kjq3gpn1xom1ted9@95.217.96.131:52034?insecure=1&obfs=salamander&obfs-password=w0tx1ju9iix6913p&sni=assets.gateway-stream.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651526
 hysteria2://kjq3gpn1xom1ted9@95.217.96.131:52050?obfs=salamander&obfs-password=gv77dpwof5y7lm3n&sni=assets.gateway-stream.com#
 hysteria2://kjq3gpn1xom1ted9@95.217.96.131:52056?obfs=salamander&obfs-password=pha76a5o7ormjepb&sni=assets.gateway-stream.com#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443?insecure=1&sni=vpn-ca-002.fastervpn.world#
@@ -76,6 +79,7 @@ hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52022?sni=assets.gateway-
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52024?sni=assets.gateway-stream.com#%F0%9F%87%A9%F0%9F%87%B0%40ShadowFlux2%F0%9F%91%88%F0%9F%A6%81%F0%9F%8C%9EA5
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52030?sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%B7%40ShadowFlux2%F0%9F%91%88%F0%9F%A6%81%F0%9F%8C%9EA2
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52031?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=p61ckuavkc1s2hfl#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
+hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52034?insecure=1&obfs=salamander&obfs-password=w0tx1ju9iix6913p&sni=assets.gateway-stream.com#4Mohsen-b9b3d95dd9
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52046?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=7h5we82pkgh4qwid#%40NormanConfig%20%231
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52056?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=pha76a5o7ormjepb#%F0%9F%87%AB%F0%9F%87%AEConfigV2RayNG
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52062?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hg7rfvz151ftjh0w#%40NormanConfig%20%232
@@ -112,7 +116,3 @@ hy2://%73%68%61%72%65%63%65%6E%74%72%65%70%72%6F@de.sharecentrepro.link:4433/#Fr
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟5@oneclickvpnkeys
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#4FreeIran-aa16499876
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@debiantubelinux.space:443?obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW&sni=debiantubelinux.space#SMART
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@dg1.mangshe.xyz:2056?insecure=1&sni=dg1.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AADE
-hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@dg1.mangshe.xyz:2056/?insecure=1&sni=dg1.mangshe.xyz#EPODONIOS
-hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj1.mangshe.xyz:2056?security=tls&insecure=1&sni=dj1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇯🇵%20JP%20down
