@@ -94,7 +94,9 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@129.154.234.42:30102?insecure=1&sni=i
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.231.61:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.150.77:443?insecure=1&sni=vpn-kr-003.fastervpn.world#4Nika-74977ec167
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443?insecure=1&sni=vpn-kr-003.fastervpn.world#4Sarina-55a10f14cb
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.231.61:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20354345
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
@@ -114,3 +116,4 @@ hy2://966b38ef-3d70-4d4e-8e0f-179bf6f5533a@130.61.92.212:443?insecure=1&sni=www.
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052?insecure=1&sni=us1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052/?insecure=1&sni=us1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%BA%F0%9F%87%B2
 hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443?mport=20001-25000&sni=1.nodes.yljc.online#🔒
+hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443/?mport=20001-25000&sni=1.nodes.yljc.online#%E2%84%B9%EF%B8%8F2%40oneclickvpnkeys
