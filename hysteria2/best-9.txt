@@ -21,7 +21,7 @@ hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.
 hy2://STYyftThFn@freedom.chenlan.top:12765/?insecure=1&sni=freedom.chenlan.top#EPODONIOS
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ger.leontunel.ru:443?insecure=0&sni=ger.leontunel.ru#@OutlineReleasedKey
-hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?sni=gorbachev-th.kvnfreetest.uk#%E8%8D%B7%E5%85%B0%20%232
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?insecure=0&sni=gorbachev-th.kvnfreetest.uk&obfs=&obfs-password=#%F0%9F%87%B9%F0%9F%87%ADTH_1%7C1.5MB/s
 hy2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443/?sni=gorbachev-th.kvnfreetest.uk#EPODONIOS
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2056?security=tls&insecure=1&sni=hdlb1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2052/?insecure=1&sni=hdlb1.mangshe.xyz#%F0%9F%94%B028%40oneclickvpnkeys
@@ -36,7 +36,7 @@ hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@hl1.mangshe.xyz:2056?insecure=1&amp;security=tls&amp;sni=hl1.mangshe.xyz#荷兰+德龙滕LiteServer
-hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-vds2-fr.kvncococ.org#%E6%B3%95%E5%9B%BD%20%232
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?insecure=0&sni=host-vds2-fr.kvncococ.org&obfs=&obfs-password=#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.7MB/s
 hy2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?sni=host-vds2-fr.kvncococ.org#EPODONIOS
 hysteria2://e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474@hy2-fi.frdmhere.com:8458?sni=hy2.frdmhere.com#%E8%8A%AC%E5%85%B0%20%231
 hy2://e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474@hy2-fi.frdmhere.com:8458/?sni=hy2.frdmhere.com#EPODONIOS
@@ -80,7 +80,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=t
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2056?security=tls&insecure=1&sni=jd1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇦%20SA%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@jp.555199.xyz:20000/?insecure=0&sni=sg.555199.xyz&mport=20000-30000#4Jadi-92930fcd18
-hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@jp.cryptoofarm.com:443?insecure=1&sni=jp.cryptoofarm.com#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C1.2MB%2Fs%7CGPT%E2%81%BA%7CYT-RU%7CNF%7CD%2B%7C12%25
+hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@jp.cryptoofarm.com:443?insecure=1&sni=jp.cryptoofarm.com#%F0%9F%87%B1%F0%9F%87%B9%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%AB%8B%E9%99%B6%E5%AE%9B%2001
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@jp4.oomz.ru:30000/?insecure=1&amp;sni=bing.com#🎡74@oneclickvpnkeys
@@ -97,7 +97,7 @@ hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@lin.cryptoofarm.com:443?sni=lin
 hy2://16ab4d4a-fd81-4535-9b7b-346677226ce8@lin.cryptoofarm.com:443/?sni=lin.cryptoofarm.com#EPODONIOS
 hy2://@ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489@193.38.54.48:443/?sni=let-him-cook.ircp.online&obfs=salamander&obfs-password=@ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489#HYSTERiA
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@ln4.xiaoliyu.cyou:443?insecure=1#%E5%8D%B0%E5%BA%A6
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@ln4.xiaoliyu.cyou:4433?insecure=1&sni=ln4.xiaoliyu.cyou#4FreeIran-1c3b21c000
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@ln4.xiaoliyu.cyou:4433?insecure=1&security=tls&sni=ln4.xiaoliyu.cyou#%E7%BE%8E%E5%9B%BD+%E5%AE%BE%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%B7%9ECoudersport
 hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@ln4.xiaoliyu.cyou:443/?mport=22000-27000&insecure=1#EPODONIOS
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21349?mport=21001-21999&insecure=0#4Jadi-de2acdfb43
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21639?mport=21001-21999&insecure=0#4Sarina-f864e25259
