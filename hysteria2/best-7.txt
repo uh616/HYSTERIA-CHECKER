@@ -109,7 +109,7 @@ hy2://fokaS4id3bretay-7rit@78.141.216.41:443?insecure=1&obfs=salamander&obfs-pas
 hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=fokaS4id3bretay-7rit#%40Zede_filteri%20%F0%9F%87%B3%F0%9F%87%B1%20
 hysteria2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443?insecure=1&sni=quic.tyr-agentstvo.tech#%F0%9F%87%BA%F0%9F%87%B8US%20%231
 hy2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443/?insecure=1&sni=quic.tyr-agentstvo.tech#EPODONIOS
-hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?insecure=1&security=tls&sni=quic.tyr-agentstvo.tech#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?insecure=1&sni=quic.tyr-agentstvo.tech#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_081023635
 hy2://de02ad7f-f076-4e8d-abe8-9f2b21a557b5@79.72.49.232:50000?insecure=1&sni=www.microsoft.com#🔒
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?security=tls&amp;insecure=1&amp;sni=www.apple.com#@V2ray_Alpha--IR-2
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@8.219.53.46:5552?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
