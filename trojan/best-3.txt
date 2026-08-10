@@ -147,7 +147,7 @@ trojan://e62db6f7-88ea-425d-90de-a9ba7770b1d6@163.123.192.36:443?type=tcp&sni=16
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=1&sni=163.245.196.68.sslip.io&type=tcp#@V2ray_Collector
 trojan://blue2024@164.38.155.188:443?security=tls&sni=b.promote.icu&type=tcp#🔒
 trojan://NISHIKUITAN111@164.38.155.246:443?#🔒
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20781372
 trojan://3723507166611775488@166.1.227.184:443?security=tls&sni=organic-hare.boa152.lol&type=tcp#🔒
 trojan://3723507166611775488@166.1.227.194:443?security=tls&sni=relative-rhino.boa152.lol&type=tcp#🔒
 trojan://3723507166611775488@166.1.227.30:443?security=tls&sni=eternal-tadpole.boa152.lol&type=tcp#🔒
@@ -293,7 +293,7 @@ trojan://blue2024@172.67.138.10:443?security=tls&sni=ha.lii2010.us.kg&type=ws&pa
 trojan://blue2024@172.67.142.60:443?security=tls&sni=td.promote.icu&type=tcp#🔒
 trojan://87961f9d-bee1-4377-826b-e169e7891c4f@172.67.147.60:443?sni=yks-dd9.pages.dev&type=ws&path=/?ed=2048&fp=chrome#4Sarina-025b86dedf
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&alpn=http%2F1.1#🔒
-trojan://humanity@172.67.149.60:443?insecure=0&host=www.ignitelimit.com&allowInsecure=0&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&security=tls&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Vip_Security
 trojan://28a5128c-34f7-5539-9b0c-466f95dc6301@172.67.151.236:2087?security=tls&sni=apihs.ysrdvukp.workeRS.deV&type=ws&host=apihs.ysrdvukp.workeRS.deV&path=trojan-ws%2F%3Fed&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 trojan://bpb-trojan@172.67.153.198:2083?security=tls&sni=102.DJr999998.Eu.oRG&type=tcp#🔒
 trojan://0b971bb0-f0af-11ee-8f57-1239d0255272@172.67.159.13:443?allowInsecure=0&sni=uk1.test3.net&ws=1&wspath=%25252Fhowdy#4Nika-9e37723126
