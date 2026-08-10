@@ -1,3 +1,4 @@
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443?sni=grape-turbo-fr.roxa.org#%E2%9C%A819%40oneclickvpnkeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443/?sni=grape-turbo-fr.roxa.org#%E2%9C%A819@oneclickvpnkeys
 hy2://sysadmin.sysadmin@206.237.0.170:443?insecure=1#🔒
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
@@ -45,7 +46,6 @@ hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.124.238:44300?insecure=1&sni=s
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@213.35.99.16:2052?insecure=1&sni=sg3.eyujichang.xyz#🔒
 hy2://96cad374-7573-4463-8804-4665c2c3d932@217.142.191.118:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@217.142.225.38:443?insecure=1&sni=www.bing.com#🔒
-hysteria2://0c3bd8c8-53db-4126-a98f-d12d908d5301@217.142.255.250:11000?sni=www.bing.com&path=%2f&allow_insecure=1#
 hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamander&obfs-password=vpnxw#🔒
 hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#🔒
 hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3041?sni=uk.bydk.xyz#🔒
@@ -111,8 +111,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.139.135:443/?insecure=1&sni=vpn-kr-003
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%E9%9F%A9%E5%9B%BD
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#EPODONIOS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?insecure=1&sni=vpn-kr-003.fastervpn.world#4Mohsen-1b4676a54f
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=vpn-kr-003.fastervpn.world#4Kian-a65a18f681
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20257966
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443?insecure=1&sni=vpn-kr-003.fastervpn.world#4Jadi-469a06497c
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.97.11.1:443?insecure=1&sni=whatsapp.com#%F0%9F%87%A8%F0%9F%87%A6139543%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@31.76.113.32:443?sni=it-one.quiet-rogue.site#%E2%9C%A894%40oneclickvpnkeys
