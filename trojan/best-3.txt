@@ -1,8 +1,10 @@
+trojan://xjN4xcuPGg@155.248.205.39:45601?security=tls&sni=f.522226.xyz&type=tcp&allowInsecure=1#🔒
+trojan://NISHIKUITAN111@155.46.213.156:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒
 trojan://NISHIKUITAN111@156.225.72.128:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒
 trojan://NISHIKUITAN111@156.229.48.127:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒
 trojan://NISHIKUITAN111@156.229.48.169:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒
 trojan://NISHIKUITAN111@156.238.18.33:443?#🔒
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20004?security=tls&sni=hk.catxstar.com&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20708378
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20004?security=tls&sni=hk.catxstar.com&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20205391
 trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&headerType=none&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%AD%20TH-54
 trojan://blue2024@159.112.235.208:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed#🔒
 trojan://NISHIKUITAN111@159.112.235.35:443?#🔒
@@ -28,8 +30,8 @@ trojan://telegram-id-directvpn@16.171.215.199:22222?security=tls&headerType=none
 trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#⚡
 trojan://your_password@16.62.65.57:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&type=tcp#4Sarina-be15758299
 trojan://blue2024@160.153.0.167:443?security=tls&sni=b.promote.icu&type=tcp#🔒
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20341115
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20724733
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#⚡
 trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@160.30.160.134:443?security=tls&sni=cmc5.5gsieuvip.vn&type=tcp#🔒
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?security=tls&sni=std1.loadingip.com&allowInsecure=1#🔒
@@ -281,11 +283,11 @@ trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?type=grpc&sni=ch
 trojan://NISHIKUITAN111@172.67.133.80:443?#🔒
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#4Nika-0e38536168
 trojan://blue2024@172.67.135.57:443?sni=ta.promote.icu#🔒
-trojan://bpb-trojan@172.67.135.88:443?sni=vless.herogoing.top&fp=chrome&type=ws&path=/tr?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20712934
+trojan://bpb-trojan@172.67.135.88:443?sni=vless.herogoing.top&fp=chrome&type=ws&path=/tr?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20793453
 trojan://blue2024@172.67.138.10:443?security=tls&sni=ha.lii2010.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒
 trojan://blue2024@172.67.142.60:443?security=tls&sni=td.promote.icu&type=tcp#🔒
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&alpn=http%2F1.1#🔒
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Vip_Security
+trojan://humanity@172.67.149.60:443?insecure=0&host=www.ignitelimit.com&allowInsecure=0&sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&security=tls&type=ws&path=%2Fassignment#%3E%3E%40V2rayNG3%3A%3AFR
 trojan://28a5128c-34f7-5539-9b0c-466f95dc6301@172.67.151.236:2087?security=tls&sni=apihs.ysrdvukp.workeRS.deV&type=ws&host=apihs.ysrdvukp.workeRS.deV&path=trojan-ws%2F%3Fed&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒
 trojan://bpb-trojan@172.67.153.198:2083?security=tls&sni=102.DJr999998.Eu.oRG&type=tcp#🔒
 trojan://0b971bb0-f0af-11ee-8f57-1239d0255272@172.67.159.13:443?allowInsecure=0&sni=uk1.test3.net&ws=1&wspath=%25252Fhowdy#4Nika-9e37723126
@@ -302,7 +304,7 @@ trojan://auto@172.67.179.212:443?security=tls&sni=nameless-term-9c25.vpnconnect2
 trojan://bpb-trojan@172.67.180.227:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=ws&host=bpb-hd.aaronchin.xyz&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#🔒
 trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random&alpn=http%2F1.1#🔒
 trojan://blue2024@172.67.181.209:443?security=tls&sni=ta.promote.icu&type=tcp#🔒
-trojan://Telegram_healer_config@172.67.182.52:443?path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20435568
+trojan://Telegram_healer_config@172.67.182.52:443?path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20689067
 trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@172.67.184.7:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒
 trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@172.67.185.107:443?security=tls&sni=WwwDe.00890604.XyZ&alpn=http%2F1.1&fp=chrome&type=ws&host=wwwde.00890604.xyz&path=%2FTDUxZUop9k44oPiit2OdWk0KwirdY#
 trojan://NISHIKUITAN111@172.67.185.81:443?#🔒
@@ -505,7 +507,7 @@ trojan://ND91608427@18.178.132.111:443?security=tls&sni=devoted-heron.rooster465
 trojan://ND91608427@18.179.31.199:443?security=tls&sni=prompt-duckling.rooster465.autos#EPODONIOS
 trojan://3723507166611775488@18.180.140.208:443?security=tls&sni=fleet-weevil.boa152.lol&type=tcp#🔒
 trojan://ND91608427@18.181.164.216:443?security=tls&sni=upright-impala.rooster465.autos#EPODONIOS
-trojan://ND91608427@18.181.175.120:443?sni=sure-humpback.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20178269
+trojan://ND91608427@18.181.175.120:443?sni=sure-humpback.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20457629
 trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos#EPODONIOS
 trojan://ouo@18.183.158.211:443?sni=tr.koxok.us.kg&allowInsecure=0#🔒
 trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rollingnext.co.uk#⚡
@@ -559,6 +561,3 @@ trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10823?security=tls#4F
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10826?security=tls#⚡
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10819?security=tls#4Sarina-f222522e6d
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10821?security=tls#⚡
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10823?security=tls#⚡
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10824?security=tls#⚡
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10825?security=tls#⚡
