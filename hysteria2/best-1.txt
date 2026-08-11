@@ -12,7 +12,7 @@ hy2://sysadmin.sysadmin@103.235.18.69:444?insecure=1&sni=tototel.dogpp.com#🔒
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@103.241.65.25:443?mport=22000-22999#🔒
 hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
 hy2://9d765687-536c-4626-a2e2-6a403219e381@103.253.36.252:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
-hysteria2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@103.27.156.125:443?sni=node-degame.bangboonet.ru&path=%2f#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20911979
+hysteria2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@103.27.156.125:443?sni=node-degame.bangboonet.ru&path=%2f#
 hy2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=google.com#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443/?insecure=1&amp;sni=google.com#Hysteria
 hy2://sysadmin.sysadmin@104.168.102.17:443?insecure=1#🔒
@@ -37,7 +37,6 @@ hy2://sharecentrepro@107.175.54.114:4433/?insecure=1&sni=us.sharecentrepro.link#
 hy2://ksGeWd8r9Rz8@107.175.70.80:16424?insecure=1&sni=www.bing.com#🔒
 hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200?sni=han.ssudo.x10.mx#🔒
 hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200/?sni=han.ssudo.x10.mx#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-hysteria2://Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=IL+pm5
 hy2://sysadmin.sysadmin@108.174.197.101:443?insecure=1#🔒
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@108.181.23.231:443?security=tls&insecure=1&mport=50000-53000&sni=www.microsoft.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=109.104.152.89#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20109.104.152.89%20%E2%97%88%20udp:22441%20%E2%97%88%20BrainStorm%20Network,%20Inc%20/%20Oneprovider.com%20%E2%97%88%20c1a9e
@@ -96,10 +95,7 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@129.154.234.42:30102?insecure=1&sni=i
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.154.53.232:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.cremedelamer.com#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.150.77:443?insecure=1&sni=vpn-kr-003.fastervpn.world#4Nika-74977ec167
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443?insecure=1&sni=vpn-kr-003.fastervpn.world#4Sarina-55a10f14cb
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.231.61:443?insecure=1&sni=vpn-kr-003.fastervpn.world#4Kian-a64d996ad2
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443?insecure=1&sni=vpn-sg-001.fastervpn.world#
