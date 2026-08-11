@@ -12,7 +12,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=
 hy2://6ac9028082f11520@136.144.58.255:50288/?obfs=salamander&obfs-password=1f7caeaa&insecure=1#✅@RealMANI_IR
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20137.175.79.36%20%E2%97%88%20udp:8620%20%E2%97%88%20PEG%20TECH%20INC%20/%20Ni%20Ruhong%20%E2%97%88%2003b00
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?sni=usa1.spectrumproxy.shop#%F0%9F%87%B7%F0%9F%87%BARU_1%7C2.3MB%2Fs%7CGPT%7CYT-RU%7CNF%7CD%2B%7C10%25
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?sni=usa1.spectrumproxy.shop#
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Clifton%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F8%40oneclickvpnkeys
@@ -42,7 +42,6 @@ hy2://96cad374-7573-4463-8804-4665c2c3d932@140.245.55.241:5001?insecure=1&sni=d1
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.57.42:443?insecure=1&sni=www.bing.com#🔒
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@140.82.16.240:8080?sni=jp4.trojanws.xyz#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.84.168.166:443?insecure=1&sni=www.bing.com#🔒
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#4FreeIran-f8cb95422f
 hy2://4984806b-f0f9-4749-bdd5-ea38bd690270@141.11.125.225:17766?insecure=1#🔒
 hy2://bf88563e-86fc-4331-b165-1f85531b6c6a@141.11.217.113:8080?insecure=1&sni=www.bing.com#🔒
 hy2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@141.11.74.11:443?insecure=1&sni=us-hy2.org#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20141.11.74.11%20%E2%97%88%20udp:443%20%E2%97%88%20Landups%20Limited%20%E2%97%88%203c16e
@@ -109,7 +108,4 @@ hy2://sysadmin.sysadmin@148.135.36.71:56666?insecure=1#🔒
 hy2://sysadmin.sysadmin@148.135.43.213:56666?insecure=1#🔒
 hy2://sysadmin.sysadmin@148.135.43.253:446?insecure=1&sni=ss.aslirico3212.nyc.mn#🔒
 hy2://sysadmin.sysadmin@148.135.59.9:446?insecure=1#🔒
-hysteria2://b42d90fa667942aebc734d60@149.118.66.201:20000?sni=rmgyvpn.rest&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=b42d90fa667942aebc734d60&mport=20000-30000#4FreeIran-892829ca76
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102?insecure=1&sni=us9.wish.ml#🔒
-hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@149.28.71.141:8080?sni=jp1.trojanws.xyz#🔒
-hysteria2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@14in.prometheusnet01.xyz:24149?insecure=1&obfs=none&mport=21000-26000&fastopen=1#🆔freev2rayi%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
