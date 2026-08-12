@@ -1,4 +1,3 @@
-hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@176.32.33.73:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://ffed9ff9-ec0f-4c97-854b-369e2931a777@176.32.35.194:28993?obfs=salamander&obfs-password=MGJiYThkMjgwNDE1Y2FkMg%3D%3D&insecure=1#🔒
 hy2://f5b598d8-234e-4142-b8e8-197c50b6c32c@176.32.35.198:8307?obfs=salamander&obfs-password=NDQyMDdkMTEzNDRmMDAxYg%3D%3D&insecure=1#🔒
 hy2://f1f64dae6da66df5@178.128.113.131:30002?insecure=1&sni=www.bing.com#🔒
@@ -14,7 +13,7 @@ hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=s
 hy2://MScgdxgGEW@179.61.251.214:44800?obfs=salamander&obfs-password=On0(hf$54%25gFDet$%25K5gf3&insecure=1#🔒
 hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
 hysteria2://TelegramVPNJey@179.61.251.253:37003?insecure=0&sni=de.jey.cc.cd&obfs=salamander&obfs-password=83v9muumcyikh5ch#kurdconfig
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684682
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@18.179.16.135:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_135%20%40wangcai_8
@@ -24,6 +23,8 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@18.183.184.241:30
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.184.241:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_241%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@18.183.245.244:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_244%20%40wangcai_8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20274294
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20692031
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F1%40oneclickvpnkeys
 hysteria2://gf1@185.111.109.40:443?insecure=1&sni=www.dell.com#%E6%8D%B7%E5%85%8B
@@ -43,7 +44,7 @@ hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salam
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052?insecure=1&sni=jp1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052/?insecure=1&sni=jp1.xiaoliyu.us#jp1%40oneclickvpnkeys
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#%40confiig_hub
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?insecure=0&sni=hopp-legend-se.roxa.org#%E8%8A%AC%E5%85%B0%20%232
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#%E8%8A%AC%E5%85%B0%20%232
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#@OutlineReleasedKey
 hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.foriran.trade&obfs=salamander&obfs-password=Y7aunTuPJZBCfiDIm#🔒
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒
@@ -109,4 +110,3 @@ hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?security=tls
 hy2://sysadmin.sysadmin@204.216.108.5:2024?insecure=1&sni=204-216-108-5.nip.io#🔒
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?insecure=1&sni=apps.apple.com#🔒
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?sni=grape-turbo-fr.roxa.org#
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443/?sni=grape-turbo-fr.roxa.org#
