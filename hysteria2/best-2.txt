@@ -1,3 +1,4 @@
+hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@130.61.37.140:30001?insecure=1&sni=frankfurt1.nodes.lanmaoyun.icu#🔒
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1#
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@130.61.84.98:2052?insecure=1&sni=flkf1.mangshe.xyz#🔒
@@ -107,4 +108,3 @@ hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22Ws
 hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@147.45.233.149:443/you/%40%45%4C%69%56%32%52%41%59--%40%45%4C%69%56%32%52%41%59--%40%45%4C%69%56%32%52%41%59--%40%45%4C%69%56%32%52%41%59--%40%45%4C%69%56%32%52%41%59?sni=debiantubelinux.space&obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW#🇳🇱+@Free_V2rng
 hy2://cef1e7a47565b431@147.45.76.99:443?insecure=1&obfs=salamander&obfs-password=2c5ef5135559d4f5&sni=eliv2ray.elena.expert#%F0%9F%92%A5%F0%9F%87%B8%F0%9F%87%AA%20SE%20147.45.76.99%20%E2%97%88%20udp:443%20%E2%97%88%20Aeza%20International%20%E2%97%88%20a1db2
 hy2://cef1e7a47565b431@147.45.76.99:443/?insecure=1&sni=%45%4C%69%56%32%72%61%79.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#🇸🇪-@Free_V2rng
-hy2://sysadmin.sysadmin@148.135.36.71:56666?insecure=1#🔒
