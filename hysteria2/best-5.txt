@@ -8,13 +8,13 @@ hy2://scWFJKJ5Y6Ly@[2001:41d0:c:fdb::e9]:443?insecure=1&sni=yahoo.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1640:177d:dc00:ff:fe22:b443]:34975?insecure=1&sni=www.bing.com#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:29820?insecure=1&sni=www.bing.com#🔒
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#4Mohsen-c825c713a2
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.222.29#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.222.29#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20189195
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%3E%3E%40oneclickvpnkeys%3A%3AHK
 hy2://sysadmin.sysadmin@204.216.108.5:2024?insecure=1&sni=204-216-108-5.nip.io#🔒
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?insecure=1&sni=apps.apple.com#🔒
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?sni=grape-turbo-fr.roxa.org#
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20771686
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443/?sni=grape-turbo-fr.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AXX
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?sni=grape-turbo-fr.roxa.org#
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20860114
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=grape-turbo-fr.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.216:8443?sni=grape-turbo-fr.roxa.org#%E8%8D%B7%E5%85%B0%20%239
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.216:8443/?sni=grape-turbo-fr.roxa.org#EPODONIOS
