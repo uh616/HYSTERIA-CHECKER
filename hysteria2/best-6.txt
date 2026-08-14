@@ -1,3 +1,4 @@
+hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a0e:6a80:3:38c:0:1:2ef0:ff2a]:25002?insecure=1&sni=www.bing.com#🔒
 hy2://6d853bb9@[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631?insecure=1&sni=2a0e:dc0:5:2264:a:b:220e:a5c9#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2a0f:5707:aaf1:122d:0:1:2b27:ef20]:25002?insecure=1&sni=www.bing.com#🔒
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@[2a11:840:67:1b::f4c2:ccfa]:81?insecure=1#🔒
@@ -7,17 +8,16 @@ hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#4FreeIran-96aaa8529a
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Jadi-907f8e0726
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.139.135:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%E9%9F%A9%E5%9B%BD
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#EPODONIOS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610120
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20367221
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@31.76.113.32:443?sni=it-one.quiet-rogue.site&insecure=0#GB
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@31.76.113.32:443/?sni=it-one.quiet-rogue.site#@OutlineReleasedKey
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&path=%2f&obfs=salamander&obfs-password=uw9b2qq5rx#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20419867
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&path=%2f&obfs=salamander&obfs-password=uw9b2qq5rx#
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@35.72.184.29:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -37,7 +37,6 @@ hy2://e169856c-7c19-4908-9bdf-448dc846163a@40.233.91.166:443?insecure=1&sni=www.
 hy2://96cad374-7573-4463-8804-4665c2c3d932@43.198.99.54:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@43.199.156.119:9270?sni=hk5.ddns-link-b5.uk#🔒
 hy2://96cad374-7573-4463-8804-4665c2c3d932@43.199.156.30:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.201.1.129:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@43.207.142.72:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_72%20%40wangcai_8
 hy2://ca9a7225@44.200.17.3:58023?insecure=1&sni=www.bing.com#🔒
@@ -109,3 +108,4 @@ hy2://dongtaiwang.com@51.159.103.141:33390/?insecure=1&sni=bing.com#%E2%9A%932%4
 hy2://dongtaiwang.com@51.159.213.39:22483?insecure=1&sni=62.210.103.0#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@51.159.213.39:22483/?insecure=1&sni=62.210.103.0#%E2%9A%936%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.159.77.153:33390?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
+hy2://dongtaiwang.com@51.159.77.153:33390/?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7h1%40oneclickvpnkeys
