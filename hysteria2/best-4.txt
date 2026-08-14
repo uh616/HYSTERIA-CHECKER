@@ -1,5 +1,3 @@
-hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#EPODONIOS
-hy2://0d8a7085-8fb3-4999-80d9-d1e72ca7c1ed@176.32.32.68:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@176.32.33.100:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://1ef11b07-39fe-4ec9-b74a-a5f3a0a01cc9@176.32.33.124:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#🔒
 hy2://3b23679d-6ea2-4098-b2ee-fff8c46cfbfb@176.32.33.158:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
@@ -15,11 +13,11 @@ hy2://1ce3431c-4e12-432e-a336-ca20c47c2084@178.62.239.35:10001?sni=NL.1010520.sh
 hy2://KevinZakarian@179.61.132.90:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.90#🔒
 hy2://KevinZakarian@179.61.132.91:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.91#🔒
 hy2://KevinZakarian@179.61.132.92:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒
-hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
+hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#
 hy2://MScgdxgGEW@179.61.251.214:44800?obfs=salamander&obfs-password=On0(hf$54%25gFDet$%25K5gf3&insecure=1#🔒
 hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
-hysteria2://TelegramVPNjey@179.61.251.253:37003?alpn=h3&fp=chrome&sni=de.jey.cc.cd&obfs=salamander&obfs-password=83v9muumcyikh5ch#Telegram%40VPNjey%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA%20%231
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20629264
+hysteria2://TelegramVPNjey@179.61.251.253:37003?alpn=h3&ech=AF/+DQBbAAAgACDPt1H4KFpH0EfzJU8tpkWdkeeaN+1oiXNSe0ksstovYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxkZS5qZXkuY2MuY2QAAA==&fm={
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=vpn-us-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
@@ -34,10 +32,10 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443?insecure=1&sni=vpn-us-00
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443/?insecure=1&sni=vpn-us-003.fastervpn.world#
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F1%40oneclickvpnkeys
-hysteria2://gf1@185.111.109.40:443?insecure=1&sni=www.dell.com#%E6%8D%B7%E5%85%8B
+hysteria2://gf1@185.111.109.40:443?insecure=1&sni=www.dell.com#
 hy2://gf1:gfhysteria2024@185.111.109.40:443/?insecure=1&sni=www.dell.com#EPODONIOS
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@185.14.47.28:30024?insecure=1&sni=www.bing.com#🔒
-hysteria2://gf1@185.156.44.99:443?insecure=1&sni=www.amazon.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%234
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?allowInsecure=1&sni=css.rbxcdn.com&upmbps=10&insecure=1&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0#
 hy2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&sni=www.amazon.com#EPODONIOS
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@185.204.0.117:443?mport=50000-50500&insecure=1&sni=hk1.pithecia.com#🔒
@@ -48,7 +46,7 @@ hy2://w1WaL8WbZf@185.254.96.99:29814?obfs=salamander&obfs-password=iVPN.Pro-Sahe
 hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26#%40V2rayMiner
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052?insecure=1&sni=jp1.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@185.39.31.19:2052/?insecure=1&sni=jp1.xiaoliyu.us#jp1%40oneclickvpnkeys
-hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#%40confiig_hub
+hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?insecure=0&sni=hopp-legend-se.roxa.org#%EF%B8%8F49%40oneclickvpnkeys
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#
 hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.foriran.trade&obfs=salamander&obfs-password=Y7aunTuPJZBCfiDIm#🔒
@@ -75,7 +73,7 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102?insecure=1&sni=d
 hy2://03e4fe32@193.123.95.157:31452?insecure=1&sni=www.bing.com#🔒
 hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&amp;sni=hl01.mistea.top#📟28@oneclickvpnkeys
 hy2://undefined@193.188.21.227:28188?insecure=1&sni=ir.ir.ir.speedtest.net.iririr.monster#🔒
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@193.23.194.78:443?insecure=1&sni=nl1.noesissite.ru#%F0%9F%9B%9721%40oneclickvpnkeys
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@193.23.194.78:443?insecure=1&sni=nl1.noesissite.ru#
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@193.23.194.78:443/?insecure=1&sni=nl1.noesissite.ru#
 hy2://SaGzcLS4pP@193.233.115.211:443?obfs=salamander&obfs-password=3fhqoeu51pqm&insecure=1#hysteria2
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@193.233.206.176:2052?insecure=1&sni=us3.eyujichang.xyz#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20193.233.206.176%20%E2%97%88%20udp:2052%20%E2%97%88%20Baxet%20Group%20Inc.%20%E2%97%88%207648e
@@ -98,7 +96,7 @@ hy2://e47cb5ff-45b5-49d7-9811-64d472acac37@195.58.48.220:7660?obfs=salamander&ob
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@195.58.49.173:33390?obfs=salamander&obfs-password=MzliZDM5MDFhYmFlNTAyMA%3D%3D&insecure=1#🔒
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#4FreeIran-5ae307722e
 hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com#
-hysteria2://22j0d00lev7mq0yv@2.26.97.21:8443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%F0%9F%8E%97%EF%B8%8F92%40oneclickvpnkeys
+hysteria2://22j0d00lev7mq0yv@2.26.97.21:8443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#
 hysteria2://22j0d00lev7mq0yv@2.26.97.21:8443/?insecure=1&obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#
 hy2://sysadmin.sysadmin@20.14.96.63:443?insecure=1#🔒
 hy2://1edc9180-6983-4c40-bc6e-82d94efef7b7@20.246.97.202:32142?insecure=1&sni=bing.com#🔒
@@ -108,3 +106,5 @@ hy2://f6e4b19a3110d19d@[2001:19f0:1000:6daf:5400:4ff:feba:32c3]:443?obfs=salaman
 hy2://9ijufI4LW_ehlst!Pho-@[2001:19f0:5000:1143:5400:4ff:fec6:119]:443?insecure=1&obfs=salamander&obfs-password=9ijufI4LW_ehlst%21Pho-&sni=google.com#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2095.179.150.22%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%2086428
 hy2://sTeki1$re5!8swohopro@[2001:19f0:5001:b0e:5400:4ff:fec6:11b]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#🇳🇱S3+@ELiV2ray
 hy2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443?obfs=salamander&obfs-password=4b817757&insecure=1#🔒
+hy2://f40b1e441addaec3@[2001:19f0:6801:1ba7:5400:4ff:fea9:2455]:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒
+hy2://c72ee44c@[2001:41d0:a:2a7a:a:b:df4e:2408]:35051?insecure=1&sni=2001:41d0:a:2a7a:a:b:df4e:2408#🔒
