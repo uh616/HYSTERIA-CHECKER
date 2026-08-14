@@ -1,4 +1,3 @@
-hy2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443?obfs=salamander&obfs-password=4b817757&insecure=1#🔒
 hy2://f40b1e441addaec3@[2001:19f0:6801:1ba7:5400:4ff:fea9:2455]:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒
 hy2://c72ee44c@[2001:41d0:a:2a7a:a:b:df4e:2408]:35051?insecure=1&sni=2001:41d0:a:2a7a:a:b:df4e:2408#🔒
 hy2://scWFJKJ5Y6Ly@[2001:41d0:c:fdb::e9]:443?insecure=1&sni=yahoo.com#🔒
@@ -6,7 +5,7 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1640:177d:dc00:ff:fe22:b443
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:29820?insecure=1&sni=www.bing.com#🔒
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#4Mohsen-c825c713a2
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.222.29#
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#EPODONIOS
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&security=tls&sni=202.146.222.29#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
 hy2://sysadmin.sysadmin@204.216.108.5:2024?insecure=1&sni=204-216-108-5.nip.io#🔒
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?insecure=1&sni=apps.apple.com#🔒
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?sni=grape-turbo-fr.roxa.org#
@@ -107,3 +106,5 @@ hy2://KevinZakarian@[2606:a8c0:101:86::a]:443?obfs=salamander&obfs-password=Kevi
 hy2://KevinZakarian@[2606:a8c0:101:86::a]:8443?obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=kevin.serverv.net#🔒
 hy2://8bd4cc567f2845c1@[2a01:4f8:200:8095::7]:45176?insecure=1&sni=www.bing.com#🔒
 hy2://7008iSe44g5ddtr4a5621r32o@[2a01:4f8:c012:1ec6::1]:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
+hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@[2a01:4f9:c012:c28b::1]:34882?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#🔒
+hy2://1YyXyfUGI0@[2a03:6f00:a::2125]:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#🔒
