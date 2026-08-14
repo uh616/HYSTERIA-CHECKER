@@ -1,3 +1,4 @@
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@130.61.84.98:2052?insecure=1&sni=flkf1.mangshe.xyz#🔒
 hy2://966b38ef-3d70-4d4e-8e0f-179bf6f5533a@130.61.92.212:443?insecure=1&sni=www.bing.com#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052?insecure=1&sni=us1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@132.145.199.4:2052/?insecure=1&sni=us1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%BA%F0%9F%87%B2
@@ -57,6 +58,7 @@ hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@141.148.200.80:2052?insecure=1&sni=in
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.201.7:2052?insecure=1&sni=mm2.mangshe.xyz#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.204.183:2052?insecure=1&sni=mm1.mangshe.xyz#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@141.148.208.213:443?insecure=1&sni=www.bing.com#🔒
+hysteria2://5a0f8574-07a5-45d5-84c9-f8b2c2bcd595@141.148.222.181:51000?insecure=1&sni=cn.cremedelamer.com#4Kian-a11f0d426a
 hy2://5a0f8574-07a5-45d5-84c9-f8b2c2bcd595@141.148.222.181:51000/?insecure=1&sni=cn.cremedelamer.com#🇮🇳IN
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@141.148.223.173:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.148.245.250:443?mport=21000-26000&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-141.148.245.250:443
@@ -84,7 +86,7 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.145.69:2052?insecure=1&sni=hdl
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.153.219:443?insecure=1&sni=www.bing.com#🔒
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@144.24.79.114:30001?insecure=1&sni=korea.nodes.lanmaoyun.icu#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.93.108:2052?insecure=1&sni=cc1.mangshe.xyz#🔒
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443?sni=de-two.quiet-rogue.site#
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443?sni=de-two.quiet-rogue.site#%E5%BE%B7%E5%9B%BD
 hy2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443/?sni=de-two.quiet-rogue.site#EPODONIOS
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.234.58:443?insecure=1&sni=nl1.noesissite.ru#
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.234.58:443/?insecure=1&sni=nl1.noesissite.ru#
@@ -106,6 +108,3 @@ hy2://sysadmin.sysadmin@148.135.36.71:56666?insecure=1#🔒
 hy2://sysadmin.sysadmin@148.135.43.213:56666?insecure=1#🔒
 hy2://sysadmin.sysadmin@148.135.43.253:446?insecure=1&sni=ss.aslirico3212.nyc.mn#🔒
 hy2://sysadmin.sysadmin@148.135.59.9:446?insecure=1#🔒
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102?insecure=1&sni=us9.wish.ml#🔒
-hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@149.28.71.141:8080?sni=jp1.trojanws.xyz#🔒
-hysteria2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@14in.prometheusnet01.xyz:24149?insecure=1&obfs=none&mport=21000-26000&fastopen=1#🆔freev2rayi%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
