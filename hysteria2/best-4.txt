@@ -1,4 +1,3 @@
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#%E4%BF%84%E7%BD%97%E6%96%AF
 hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#EPODONIOS
 hy2://0d8a7085-8fb3-4999-80d9-d1e72ca7c1ed@176.32.32.68:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#🔒
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@176.32.33.100:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
@@ -20,7 +19,8 @@ hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=s
 hy2://MScgdxgGEW@179.61.251.214:44800?obfs=salamander&obfs-password=On0(hf$54%25gFDet$%25K5gf3&insecure=1#🔒
 hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
 hysteria2://TelegramVPNjey@179.61.251.253:37003?alpn=h3&fp=chrome&sni=de.jey.cc.cd&obfs=salamander&obfs-password=83v9muumcyikh5ch#Telegram%40VPNjey%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA%20%231
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918516
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20629264
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@18.179.16.135:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_135%20%40wangcai_8
@@ -107,3 +107,4 @@ hy2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443?insecure=1&s
 hy2://f6e4b19a3110d19d@[2001:19f0:1000:6daf:5400:4ff:feba:32c3]:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=eliv2ray.eliv2.top#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2066.135.28.59%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vivint%20Wireless,%20Inc.%20%E2%97%88%208dca8
 hy2://9ijufI4LW_ehlst!Pho-@[2001:19f0:5000:1143:5400:4ff:fec6:119]:443?insecure=1&obfs=salamander&obfs-password=9ijufI4LW_ehlst%21Pho-&sni=google.com#%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2095.179.150.22%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vultr%20Holdings%20Amsterdam%20%E2%97%88%2086428
 hy2://sTeki1$re5!8swohopro@[2001:19f0:5001:b0e:5400:4ff:fec6:11b]:443/?insecure=1&sni=ELiV2ray.Elena.expert&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#🇳🇱S3+@ELiV2ray
+hy2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443?obfs=salamander&obfs-password=4b817757&insecure=1#🔒
