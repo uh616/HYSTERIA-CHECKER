@@ -1,4 +1,3 @@
-hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@8.219.53.46:5552?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@80.92.205.219:53041?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=jobvision.ir#🔒
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.58:8443?insecure=1&sni=iq5ny.pleiades.codes#
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.58:8443/?insecure=1&sni=iq5ny.pleiades.codes#
@@ -22,6 +21,7 @@ hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443?sni=grape-ze
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443?sni=grape-zet-turbo-nl.yyuyy.com#%E8%8D%B7%E5%85%B0%20%237
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#
+hysteria2://dbab9df7-5c0a-4726-8574-11e34972b67d@86.53.105.117:33015?allowInsecure=1&insecure=1&pinSHA256=BD%3A9C%3A95%3AA4%3A65%3A1F%3A9D%3A0F%3AF9%3A73%3A22%3A8A%3ADA%3A49%3A98%3A91%3A1E%3A14%3AFF%3AE9%3A2C%3AE0%3AA3%3A4A%3A6C%3A97%3A48%3AC6%3ABC%3A04%3A3F%3A9D&security=tls&sni=www.bing.com#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 hysteria2://c175d956-d1f4-4c53-b2b1-8493bf8529c6@87.120.84.189:443?sni=de1.apexvpn.space#%E5%BE%B7%E5%9B%BD%20%232
 hy2://c175d956-d1f4-4c53-b2b1-8493bf8529c6@87.120.84.189:443/?sni=de1.apexvpn.space#EPODONIOS
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
@@ -49,7 +49,7 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.122:8443?sni=grape
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.122:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#EPODONIOS
 hy2://StormXVPN@93.127.222.197:443?obfs=salamander&obfs-password=https://t.me/StormXVPN&insecure=1&sni=www.google.com#🔒
 hy2://7bcb0e26-eb0a-4658-abfc-b808c3744c9d@94.131.122.35:53040?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=myket.ir#🔒
-hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@94.183.188.132:55443?insecure=1&sni=host-vds2-fr.kvncococ.org#%F0%9F%9B%9735%40oneclickvpnkeys
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@94.183.188.132:55443?insecure=1&sni=host-vds2-fr.kvncococ.org#
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@94.183.188.132:55443/?insecure=1&sni=host-vds2-fr.kvncococ.org#
 hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?sni=azer-tea-grape.bumbleshrimp.com#
 hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443/?sni=azer-tea-grape.bumbleshrimp.com#
