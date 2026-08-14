@@ -1,3 +1,6 @@
+hy2://sharecentrepro@51.68.169.215:4433?insecure=1&sni=#🔒
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.22:30102/?insecure=1#🎡59@oneclickvpnkeys
+hysteria2://ThisIsNotForSale-Free%24ervice@52.163.114.191:443?security=tls&insecure=1&sni=api.tg8lnk.tech#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://ThisIsNotForSale-Free%24ervice@52.187.5.16:443?security=tls&insecure=1&sni=api.tg8lnk.tech#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.194.254.229:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@52.194.254.229:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_229%20%40wangcai_8
@@ -105,7 +108,3 @@ hy2://fokaS4id3bretay-7rit@78.141.216.41:443?insecure=1&obfs=salamander&obfs-pas
 hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=fokaS4id3bretay-7rit#%40Zede_filteri%20%F0%9F%87%B3%F0%9F%87%B1%20
 hy2://de02ad7f-f076-4e8d-abe8-9f2b21a557b5@79.72.49.232:50000?insecure=1&sni=www.microsoft.com#🔒
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?security=tls&amp;insecure=1&amp;sni=www.apple.com#@V2ray_Alpha--IR-2
-hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@8.219.53.46:5552?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
-hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@80.92.205.219:53041?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=jobvision.ir#🔒
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.58:8443?insecure=1&sni=iq5ny.pleiades.codes#
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.58:8443/?insecure=1&sni=iq5ny.pleiades.codes#
