@@ -60,6 +60,7 @@ hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@141.148.200.80:2052?insecure=1&sni=in
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.201.7:2052?insecure=1&sni=mm2.mangshe.xyz#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.148.204.183:2052?insecure=1&sni=mm1.mangshe.xyz#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@141.148.208.213:443?insecure=1&sni=www.bing.com#🔒
+hy2://5a0f8574-07a5-45d5-84c9-f8b2c2bcd595@141.148.222.181:51000/?insecure=1&amp;sni=cn.cremedelamer.com#🇮🇳IN
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@141.148.223.173:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://db58440c-9edf-4372-9604-6a9145b989e8@141.148.245.250:443?mport=21000-26000&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-141.148.245.250:443
 hy2://3119106b-df7c-4a28-af3d-88af9dbea193@141.195.112.28:9988?insecure=1#🔒
