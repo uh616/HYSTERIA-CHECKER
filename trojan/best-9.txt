@@ -1,3 +1,7 @@
+trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@159.203.22.227:443/?type=tcp&security=tls&sni=ca-full.privateip.net&allowInsecure=1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29%20%281%29
+trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#INT🌍
+trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#INT🌍
+trojan://AE62539071@strong-haddock.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2439
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.58:443/?type=tcp&security=tls&sni=pjp5.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.96:443/?type=tcp&security=tls&sni=pjp6.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443/?type=tcp&security=tls&sni=pus2.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
@@ -518,11 +522,11 @@ trojan://humanity@104.16.174.185:443/?type=ws&host=www.ignitelimit.com&path=%2Fa
 trojan://humanity@104.16.174.22:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28107%29
 trojan://humanity@104.16.174.33:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2890%29
 trojan://humanity@104.16.174.34:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28150%29
-trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20947283
+trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%3E%3E%40ip_cf%3A%3AFR
 trojan://humanity@104.16.174.37:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2856%29
 trojan://humanity@104.16.174.44:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2871%29
-trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20374406
-trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20735286
+trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configshub2%3A%3AFR
+trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20445358
 trojan://humanity@104.16.174.46:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2894%29
 trojan://humanity@104.16.174.6:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28161%29
 trojan://humanity@104.16.174.71:443/?type=tcp&security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.71-0481
@@ -569,6 +573,3 @@ trojan://humanity@104.18.152.233:443/?type=ws&host=www.calmloud.com&path=%2Fassi
 trojan://humanity@104.18.152.244:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2812%29
 trojan://humanity@104.18.152.246:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%40nekopingbot_7804
 trojan://humanity@104.18.152.50:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28137%29
-trojan://humanity@104.18.152.73:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2861%29
-trojan://humanity@104.18.152.77:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2822%29
-trojan://humanity@104.18.152.97:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2820%29
