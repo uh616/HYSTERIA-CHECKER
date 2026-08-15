@@ -1,3 +1,12 @@
+trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@ca.stablize.top:443/?type=tcp&security=tls#
+trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@de.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@sg.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@uk.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#4Mohsen-907f846787
+trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=xn----pmcnaac0dkn0rb71nda.pages.dev#%E6%9C%AA%E7%9F%A551
+trojan://20210200-49c6-11ed-a9ef-1239d0255272@172.67.24.177:443/?type=tcp&security=tls&sni=kipi.covid19.go.id&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://21990300-ceea-11ee-93c8-1239d0255272@172.67.175.6:443/?type=tcp&security=tls&sni=circles.asia#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28166%29
+trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443/?type=tcp&security=tls&sni=us02web.zoom.us#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28145%29
 trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443/?type=tcp&security=tls&sni=us02web.zoom.us&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443/?type=tcp&security=tls&sni=xxscdF56.999182.xYZ#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2873%29
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@172.67.170.51:443/?type=tcp&security=tls&sni=sscDfr5.999182.XyZ#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28164%29
@@ -573,11 +582,3 @@ trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.218.40:443/?type=tcp&secur
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.220.46:443/?type=tcp&security=tls&sni=us05.ssr.ee#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us01.ssr.ee:443/?type=tcp&security=tls&sni=us01.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us03.ssr.ee:443/?type=tcp&security=tls&sni=us03.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us05.ssr.ee:443/?type=tcp&security=tls&sni=us05.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us08.ssr.ee:443/?type=tcp&security=tls&sni=us08.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us10.ssr.ee:443/?type=tcp&security=tls&sni=us10.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443/?type=tcp&security=tls&sni=m2rrrty.777219.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28248%29
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443/?type=tcp&security=tls&sni=m2rrrty.777219.xyz#%F0%9F%8F%81RELAY-172.67.220.93-1510
-trojan://9yu6m5okr@104.21.50.5:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28158%29
-trojan://9yu6m5okr@172.67.198.177:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28203%29
-trojan://a357e1c2-7b46-44ba-aee0-06451db94e06@in-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
