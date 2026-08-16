@@ -68,7 +68,7 @@ trojan://your_password@16.62.65.57:443?security=tls&sni=aws-ch-zurich-1.f1rocket
 trojan://blue2024@160.153.0.167:443?security=tls&sni=b.promote.icu&type=tcp#🔒
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.105.192:1933?sni=www.nintendogames.net#🚀98@proxy_kafee
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?allowInsecure=1&sni=t11.qifei.app#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20605822
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls#⚡
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.17:3076?allowInsecure=1&amp;sni=www.nintendogames.net#🚀92@proxy_kafee
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.144.208:3076?sni=www.nintendogames.net#🚀99@proxy_kafee
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#4Kian-5e2701ec4d
@@ -188,7 +188,7 @@ trojan://e62db6f7-88ea-425d-90de-a9ba7770b1d6@163.123.192.33:443?type=tcp&sni=16
 trojan://e62db6f7-88ea-425d-90de-a9ba7770b1d6@163.123.192.36:443?type=tcp&sni=16-163-218-240.nhost.00cdn.com&allowInsecure=1#4Jadi-baf0ed0900
 trojan://blue2024@164.38.155.188:443?security=tls&sni=b.promote.icu&type=tcp#🔒
 trojan://NISHIKUITAN111@164.38.155.246:443?#🔒
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#%3E%3E%40V2rayNG3%3A%3AFR
+trojan://humanity@165.215.250.14:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 trojan://3723507166611775488@166.1.227.184:443?security=tls&sni=organic-hare.boa152.lol&type=tcp#🔒
 trojan://3723507166611775488@166.1.227.194:443?security=tls&sni=relative-rhino.boa152.lol&type=tcp#🔒
 trojan://3723507166611775488@166.1.227.30:443?security=tls&sni=eternal-tadpole.boa152.lol&type=tcp#🔒
@@ -377,7 +377,7 @@ trojan://blue2024@172.67.218.47:443?sni=ta.promote.icu#🔒
 trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@172.67.220.140:443?security=tls&sni=dddDvvbHY7.000890604.XyZ&alpn=http%2F1.1&fp=chrome&type=ws&host=ddddvvbhy7.000890604.xyz&path=%2FTDUxZUop9k44oPiit2OdWk0KwirdY#
 trojan://2d068083-2cb0-4ae3-a44a-6fc82f3039cc@172.67.220.213:443?security=tls&sni=dDDccCDvFg.222856.XYZ&alpn=http%2F1.1&fp=chrome&type=ws&host=dddcccdvfg.222856.xyz&path=%2FyBqYg1mv8EDa06b88JSo#
 trojan://dd3b2971-2e5e-49c4-8de9-62aca12ff466@172.67.221.114:443?security=tls&sni=cdn.miladfaryad.cf&type=tcp#4Kian-d8214fb470
-trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@172.67.221.242:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#⚡
 trojan://auto@172.67.223.178:443?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒
 trojan://NISHIKUITAN111@172.67.225.134:443?#🔒
 trojan://NISHIKUITAN111@172.67.230.64:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒
@@ -569,7 +569,7 @@ trojan://ND91608427@18.181.164.216:443?security=tls&sni=upright-impala.rooster46
 trojan://FH72359861@18.181.167.254:443?sni=tough-gopher.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20725403
 trojan://AE62539071@18.181.169.46:443?security=tls&sni=fun-salmon.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20412444
 trojan://ND91608427@18.181.175.120:443?security=tls&sni=sure-humpback.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20851672
-trojan://FH72359861@18.181.194.227:443?sni=moral-buzzard.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20476254
+trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos#⚡
 trojan://AE62539071@18.181.195.212:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20301697
 trojan://FH72359861@18.181.200.117:443?sni=sacred-shepherd.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20321529
 trojan://FH72359861@18.181.213.219:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20697670
