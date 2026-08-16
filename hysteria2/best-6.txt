@@ -1,9 +1,11 @@
+hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f809a60274316cdd&insecure=1&sni=www.google.com#🔒
+hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#4FreeIran-96aaa8529a
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Jadi-907f8e0726
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.139.135:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%E9%9F%A9%E5%9B%BD
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20463257
 hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?security=tls&amp;alpn=h3&amp;insecure=1&amp;sni=130-17-10-202.sslip.io#🇷🇺|RU|@wxgqlfx|152
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@31.76.113.32:443/?sni=it-one.quiet-rogue.site#@OutlineReleasedKey
@@ -69,8 +71,8 @@ hy2://@Telegram@Configvibes@45.92.219.237:8486/?insecure=1&sni=ftp.debian.org&ob
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@46.17.40.117:443?insecure=1&sni=music.apple.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@46.17.40.42:30102?insecure=1&sni=du.wish.ml#🔒
 hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#🆔dingyue_center%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8080?insecure=1&sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1%7CNL%7C%40wxgqlfx%7C122
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?insecure=1&sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1%7CNL%7C%40wxgqlfx%7C123
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8080?insecure=1&sni=grape-turbo-fr.roxa.org#%7CNL%7C%40wxgqlfx%7C122
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?insecure=1&sni=grape-turbo-fr.roxa.org#%7CNL%7C%40wxgqlfx%7C123
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443/?sni=grape-turbo-fr.roxa.org#%F0%9F%A6%8117@oneclickvpnkeys
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@46.29.161.109:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://b955263a-5eca-4321-90e6-7db4f8bac7b4@46.29.161.15:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#🔒
@@ -84,7 +86,7 @@ hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.74.42.113:6588?obfs=salamander&obf
 hy2://sysadmin.sysadmin@47.76.80.29:2023?insecure=1#🔒
 hy2://sysadmin.sysadmin@47.81.8.60:7788?insecure=1&sni=tg.sdxlgj001.top#🔒
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.89.248.125:5113?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🔒
-hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#%E2%9A%9B%EF%B8%8F48%40oneclickvpnkeys
+hysteria2://gf1:gfhysteria2024@5.129.235.85:443?insecure=1&__rand=bf8266c6#
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#%E2%9A%9B%EF%B8%8F48@oneclickvpnkeys
 hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8443?insecure=0&sni=borat-hopp.bumbleshrimp.com#%E4%B9%8C%E5%85%8B%E5%85%B0%20V2CROSS.COM
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&insecure=1&allowInsecure=1#
@@ -112,5 +114,3 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_206%20%40wangcai_8
 hy2://96cad374-7573-4463-8804-4665c2c3d932@54.178.107.109:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com#%F0%9F%87%BA%F0%9F%87%B8139909%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443/?insecure=1&sni=vpn-us-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@54.238.69.229:3074?insecure=1#🔒
