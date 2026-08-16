@@ -1,3 +1,4 @@
+trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443/?type=tcp&security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2859%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@138.2.227.52:443/?type=tcp&security=tls&sni=us08.ssr.ee#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.218.40:443/?type=tcp&security=tls&sni=us01.ssr.ee&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.220.46:443/?type=tcp&security=tls&sni=us05.ssr.ee#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -516,7 +517,6 @@ trojan://fa19be80-9537-11f1-b485-1239d0255272@uk1.test3.net:443/chatbuzzteam.ir?
 trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443/?type=tcp&security=tls&sni=5ttt.191288.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28184%29
 trojan://FH72359861@3.253.78.205:443/?type=tcp&security=tls&sni=balanced-heron.rooster465.autos&fp=chrome#EPODONIOS
 trojan://FH72359861@54.180.158.231:443/?type=tcp&security=tls&sni=precise-locust.rooster465.autos&fp=chrome#EPODONIOS
-trojan://FH72359861@national-stingray.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=#EPODONIOS
 trojan://FLpONjB2Lb@139.162.45.139:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
 trojan://FuUaWS3YWG@crunch.floorshoping22.com:2053/?type=grpc&security=tls&sni=Crunch.floorshoping22.com&alpn=h2&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://g8h9i0j1-2345-5bcd-abc1-4567890abcde@104.21.25.67:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2881%29
