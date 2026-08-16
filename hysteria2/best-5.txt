@@ -1,8 +1,8 @@
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?insecure=1&sni=apps.apple.com#🔒
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.218:8443?insecure=0&sni=grape-turbo-fr.roxa.org#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20MTMVPN%201
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443?sni=grape-turbo-fr.roxa.org#%E8%8D%B7%E5%85%B0%20%2311
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443?sni=grape-turbo-fr.roxa.org#%E8%8D%B7%E5%85%B0%20%2313
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443/?sni=grape-turbo-fr.roxa.org#EPODONIOS
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443?sni=grape-turbo-fr.roxa.org#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%235
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443?sni=grape-turbo-fr.roxa.org#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%234
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443/?sni=grape-turbo-fr.roxa.org#EPODONIOS
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443?sni=grape-turbo-fr.roxa.org#%E8%8B%B1%E5%9B%BD
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443/?sni=grape-turbo-fr.roxa.org#EPODONIOS
@@ -56,9 +56,9 @@ hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamande
 hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#🔒
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443?insecure=0&sni=grape-power-pl.ddnsguru.com#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20MTMVPN%206
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443/?sni=grape-power-pl.ddnsguru.com#%3E%3E%40oneclickvpnkeys%3A%3AFI
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.79:8443?sni=grape-power-pl.ddnsguru.com#
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.79:8443?sni=grape-power-pl.ddnsguru.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20285434
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.79:8443/?sni=grape-power-pl.ddnsguru.com#%3E%3E%40oneclickvpnkeys%3A%3AFI
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443?insecure=0&sni=grape-power-pl.ddnsguru.com#%E8%8A%AC%E5%85%B0
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443?sni=grape-power-pl.ddnsguru.com#%E8%8A%AC%E5%85%B0
 hy2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.80:8443/?sni=grape-power-pl.ddnsguru.com#EPODONIOS
 hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3041?sni=uk.bydk.xyz#🔒
 hy2://ad733b74-893b-4a19-9b65-32e22cb63994@23.156.104.95:3043?sni=uk.bydk.xyz#🔒
