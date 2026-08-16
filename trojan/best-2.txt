@@ -126,10 +126,10 @@ trojan://NISHIKUITAN111@104.26.12.193:443?#🔒
 trojan://blue2024@104.26.12.31:443?security=tls&sni=tc.promote.icu&type=tcp#🔒
 trojan://MiTiVPN@104.26.12.41:443?sni=sws-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&peer=sws-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&security=tls#XX
 trojan://auto@104.26.13.31:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560#🔒
-trojan://humanity@104.26.14.137:443?allowInsecure=1&sni=www.ignitelimit.com#⚡
+trojan://humanity@104.26.14.137:443?allowInsecure=1&sni=www.ignitelimit.com#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com%5Cr
 trojan://blue2024@104.26.14.203:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒
 trojan://blue2024@104.26.15.133:443?security=tls&sni=td.promote.icu&type=tcp#🔒
-trojan://humanity@104.26.15.137:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+trojan://humanity@104.26.15.137:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 trojan://MiTiVPN@104.26.2.173:443?sni=S-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&peer=S-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&security=tls#XX
 trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?security=tls&sni=4cbba020.fastpurnet3.pages.dev&type=ws&host=4cbba020.fastpurnet3.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized#🔒
 trojan://blue2024@104.26.6.112:443?security=tls&sni=tb.promote.icu&type=tcp#🔒
@@ -225,7 +225,7 @@ trojan://0da5acca-b556-3ed3-b6bf-645bd45d017e@112.84.125.208:55108?allowInsecure
 trojan://3f29ee90-8567-4671-8d99-9875874e472f@116.fastea.top:53316?security=tls&type=tcp&headerType=none#
 trojan://b21af1e78d194c2093aabbee770c8529@118.142.17.238:443?security=tls&sni=www.gpt123.one&allowInsecure=1&type=tcp#4Mohsen-22ec2c1533
 trojan://2b9f96246284482db6c8c64c562ac174@118.142.55.62:443?security=tls&allowInsecure=1&type=tcp#4Kian-7c222d9ebb
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20654490
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%201
 trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@119.247.119.212:443?security=tls&sni=sg-01.tiktokcdn.top#⚡
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19201?security=tls#4FreeIran-5de3e65c7e
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19215?security=tls#4Nika-5ea47ea9d5
@@ -401,7 +401,7 @@ trojan://telegram-id-privatevpns@13.61.125.60:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-privatevpns@13.61.134.83:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa
 trojan://telegram-id-directvpn@13.61.56.63:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒
 trojan://telegram-id-directvpn@13.61.73.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa
-trojan://humanity@130.250.137.171:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#⚡
 trojan://7b01f853-1c72-47db-8f57-151d491b3bf9@132.145.82.200:20652?security=tls&sni=13-231-155-134.nhost.00cdn.com&type=tcp#4Jadi-8a29257b28
 trojan://e8105dfd24414268b6c7652c63731097@132.145.94.80:443?security=tls&sni=yournextcareerstep.online&type=tcp#🔒
@@ -458,7 +458,7 @@ trojan://NISHIKUITAN111@141.101.121.30:443?#🔒
 trojan://NISHIKUITAN111@141.101.122.171:443?#🔒
 trojan://NISHIKUITAN111@141.101.122.9:443?#🔒
 trojan://NISHIKUITAN111@141.101.123.61:443?#🔒
-trojan://humanity@141.101.90.101:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@141.101.90.101:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://a00330bc-7f67-4bad-a59b-481cd2d67456@141.11.127.26:443?type=tcp&sni=16-163-218-240.nhost.00cdn.com&allowInsecure=1#4FreeIran-9faf444e65
 trojan://NISHIKUITAN111@141.11.202.133:443?#🔒
 trojan://blue2024@141.11.202.44:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed#🔒
@@ -581,3 +581,4 @@ trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.66.133:443?security=tls&sn
 trojan://MiTiVPN@151.101.66.172:80?security=none#US
 trojan://d2e8f692-c67b-4cce-ea46-bcefbb725fdc@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔒
 trojan://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#🔒
+trojan://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@151.101.66.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=ihrcxextyuj.com&path=ws%2F%3Fed%3D2048#🔒
