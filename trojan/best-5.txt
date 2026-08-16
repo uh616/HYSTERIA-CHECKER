@@ -17,8 +17,7 @@ trojan://NISHIKUITAN111@31.22.116.151:443?#🔒
 trojan://blue2024@31.22.116.89:443?sni=b.promote.icu#🔒
 trojan://blue2024@31.43.179.114:443?sni=ta.promote.icu#🔒
 trojan://blue2024@31.43.179.118:443?sni=b.promote.icu#🔒
-trojan://581e14a5fcc14107b9326cc54f047891@31.76.11.46:443?mode=gun&security=tls&insecure=0&fp=chrome&type=grpc&serviceName=/50779/NQmry9z8yR&allowInsecure=0&sni=31.76.11.46.cdn-one.org#EPODONIOS
-trojan://32b2m2w7hsdd93z7@31.76.11.46.cdn-one.org:443?mode=gun&security=tls&insecure=0&fp=chrome&type=grpc&serviceName=/50779/NQmry9z8yR&allowInsecure=0&sni=31.76.11.46.cdn-one.org#EPODONIOS
+trojan://32b2m2w7hsdd93z7@31.76.11.46.cdn-one.org:443?mode=gun&security=tls&insecure=0&fp=chrome&type=grpc&serviceName=/50779/NQmry9z8yR&allowInsecure=0&sni=31.76.11.46.cdn-one.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://FH72359861@34.210.213.17:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20900792
 trojan://telegram-id-directvpn@34.210.47.105:22222?security=tls&sni=trj.rollingnext.co.uk#⚡
 trojan://FH72359861@34.217.192.97:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228952
@@ -161,11 +160,11 @@ trojan://ND91608427@43.201.103.8:443?allowInsecure=1&sni=intimate-moray.rooster4
 trojan://ND91608427@43.201.46.108:443?security=tls&sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20524605
 trojan://AE62539071@43.201.49.96:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20759991
 trojan://AE62539071@43.201.51.17:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20937513
-trojan://ND91608427@43.201.56.44:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20650910
+trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos#⚡
 trojan://AE62539071@43.202.48.137:443?sni=glorious-lark.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974797
 trojan://AE62539071@43.202.55.63:443?sni=causal-ladybug.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20446666
-trojan://ND91608427@43.202.56.122:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20294348
-trojan://FH72359861@43.202.61.210:443?sni=loyal-molly.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20691226
+trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos#⚡
+trojan://FH72359861@43.202.61.210:443?security=tls&sni=loyal-molly.rooster465.autos#⚡
 trojan://ND91608427@43.203.119.20:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20745319
 trojan://FH72359861@43.203.123.134:443?sni=charming-puma.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20137194
 trojan://FH72359861@43.203.126.94:443?sni=moral-basilisk.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839799
@@ -173,8 +172,8 @@ trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster4
 trojan://FH72359861@43.203.206.201:443?allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20789299
 trojan://AE62539071@43.203.212.56:443?sni=oriented-pegasus.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20219201
 trojan://AE62539071@43.203.220.94:443?sni=skilled-monster.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20510804
-trojan://ND91608427@43.203.244.203:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20224854
-trojan://ND91608427@43.203.247.197:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20154189
+trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos#⚡
+trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos#⚡
 trojan://FH72359861@43.203.251.109:443?sni=elegant-horse.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20806034
 trojan://your_password@43.205.109.9:443?security=tls&sni=aws-in-mumbai-1.f1rocketnode.com&type=tcp#4Nika-ba6c58cf43
 trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&allowInsecure=1&type=tcp#4Jadi-b1207c873b
@@ -243,6 +242,7 @@ trojan://3ad41c7b-b772-3f96-9986-66d1a2b79820cmynw@45.79.73.131:443?security=tls
 trojan://bpb-trojan@45.8.211.242:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr#🔒
 trojan://NISHIKUITAN111@45.80.108.245:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒
 trojan://bpb-trojan@45.80.110.224:443?sni=bpb.my79801.com#🔒
+trojan://humanity@45.80.111.7:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#4Kian-568e63d015
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#⚡
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-48
@@ -333,7 +333,7 @@ trojan://telegram-id-privatevpns@51.44.129.215:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.44.130.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa
 trojan://telegram-id-privatevpns@51.44.132.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa
 trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20476
-trojan://AE62539071@51.44.161.22:443?allowInsecure=1&fp=chrome&sni=distinct-quail.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://AE62539071@51.44.161.22:443?allowInsecure=1&fp=chrome&sni=distinct-quail.rooster465.autos#%E2%9A%9B%EF%B8%8F47@oneclickvpnkeys
 trojan://telegram-id-privatevpns@51.44.34.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-bcb4862ab6
 trojan://telegram-id-directvpn@51.44.89.9:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒
 trojan://telegram-id-privatevpns@51.44.91.28:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒
@@ -353,7 +353,7 @@ trojan://telegram-id-directvpn@52.14.47.195:22222?security=tls&sni=trojan.burger
 trojan://telegram-id-directvpn@52.18.181.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa
 trojan://AE62539071@52.192.243.203:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20432919
 trojan://AE62539071@52.194.186.154:443?sni=evolving-kangaroo.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542659
-trojan://AE62539071@52.194.223.176:443?sni=clear-heron.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20221480
+trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#⚡
 trojan://AE62539071@52.194.250.73:443?sni=frank-frog.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20520023
 trojan://AE62539071@52.195.10.183:443?sni=improved-anteater.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20855179
 trojan://FH72359861@52.195.2.92:443?sni=adapted-quetzal.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20476368
@@ -401,7 +401,7 @@ trojan://AE62539071@52.78.65.37:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20
 trojan://FH72359861@52.79.124.74:443?sni=daring-sunbeam.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20626149
 trojan://AE62539071@52.79.150.18:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20348737
 trojan://AE62539071@52.79.160.55:443?security=tls&sni=gorgeous-hookworm.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20497115
-trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20815746
+trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos#⚡
 trojan://FH72359861@54.150.234.233:443?sni=needed-gelding.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20608176
 trojan://telegram-id-privatevpns@54.154.239.54:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Mohsen-dc7608a99f
 trojan://telegram-id-privatevpns@54.155.92.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa
@@ -421,7 +421,7 @@ trojan://FH72359861@54.178.51.14:443?sni=stunning-mastodon.rooster465.autos&allo
 trojan://FH72359861@54.178.52.185:443?allowInsecure=0&sni=pretty-adder.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20784425
 trojan://FH72359861@54.179.23.28:443?sni=boss-sailfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20540414
 trojan://FH72359861@54.180.158.231:443?security=tls&sni=precise-locust.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20343090
-trojan://ND91608427@54.180.228.238:443?allowInsecure=1&sni=pure-ram.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20882338
+trojan://ND91608427@54.180.228.238:443?security=tls&sni=pure-ram.rooster465.autos#⚡
 trojan://HC04361579@54.180.237.220:443?sni=key-barnacle.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20327661
 trojan://FH72359861@54.180.250.102:443?sni=aware-coyote.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20432451
 trojan://FH72359861@54.185.164.73:443?sni=outgoing-lynx.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20714311
@@ -458,7 +458,7 @@ trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni
 trojan://AE62539071@54.64.189.3:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20141304
 trojan://AE62539071@54.64.255.224:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20671326
 trojan://FH72359861@54.64.38.110:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20356757
-trojan://ND91608427@54.65.167.167:443?security=tls&sni=tough-robin.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20535106
+trojan://ND91608427@54.65.167.167:443?security=tls&sni=tough-robin.rooster465.autos#⚡
 trojan://telegram-id-privatevpns@54.72.120.247:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4FreeIran-9586069ee5
 trojan://FH72359861@54.72.58.12:443?security=tls&sni=darling-mongrel.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20790370
 trojan://telegram-id-directvpn@54.73.90.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa
@@ -476,7 +476,7 @@ trojan://0ddff0f8-04d6-4eae-a5a6-5af7746bb30d@57.128.173.6:443?type=tcp&amp;secu
 trojan://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&sni=en.linceedab.com&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒
 trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20485
 trojan://FH72359861@57.180.23.141:443?sni=engaged-lionfish.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20299081
-trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20946513
+trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#⚡
 trojan://FH72359861@57.180.34.69:443?allowInsecure=0&sni=magical-airedale.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20515457
 trojan://FH72359861@57.180.38.121:443?sni=champion-panther.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20304620
 trojan://AE62539071@57.181.88.104:443?sni=climbing-frog.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20334013
@@ -554,7 +554,7 @@ trojan://telegram-id-directvpn@79.125.98.214:22222?security=tls&alpn=http/1.1&he
 trojan://FH72359861@79.133.126.136:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20501778
 trojan://humanity@8.6.112.0:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#⚡
 trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#XX
-trojan://humanity@8.6.112.6:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20228
+trojan://humanity@8.6.112.6:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+%E5%BE%97%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%E8%BE%BE%E6%8B%89%E6%96%AFCloudflare+Warp%E8%8A%82%E7%82%B9
 trojan://3723507166611775488@80.240.112.167:443?security=tls&sni=ample-cockatoo.boa152.lol&type=tcp#🔒
 trojan://3723507166611775488@80.240.112.236:443?security=tls&sni=pleased-slug.boa152.lol&type=tcp#🔒
 trojan://3723507166611775488@80.240.112.32:443?security=tls&sni=oriented-terrier.boa152.lol&type=tcp&allowInsecure=1#🔒
@@ -578,7 +578,7 @@ trojan://527c25e5-6b7c-464f-8930-230b5955d582@85.9.120.200:8888?security=none&ty
 trojan://bpb-trojan@86.38.214.132:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed#🔒
 trojan://humanity@86.38.214.205:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#⚡
 trojan://3723507166611775488@87.120.167.51:443?sni=concrete-buzzard.boa152.lol&allowInsecure=0#🔒
-trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&sni=87.121.218.169&alpn=http/1.1&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-22376
+trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&sni=87.121.218.169#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-22397
 trojan://AE62539071@87.121.33.162:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20938552
 trojan://AE62539071@87.121.33.185:443?allowInsecure=1&sni=humorous-llama.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20479873
 trojan://AE62539071@87.121.33.238:443?allowInsecure=0&sni=wanted-marmoset.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20283203
