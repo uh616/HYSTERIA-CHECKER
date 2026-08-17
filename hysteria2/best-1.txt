@@ -115,4 +115,3 @@ hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443/?mport=20001-25000
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@132.226.0.78:30075?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@132.226.162.10:30102?insecure=1&sni=br3.wish.ml#🔒
 hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215?insecure=1&sni=shy35.zqjc.cloud#🔒
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Jadi-2e482d4164
