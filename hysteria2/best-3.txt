@@ -26,8 +26,8 @@ hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://sysadmin.sysadmin@154.7.183.57:443?insecure=1#🔒
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20325130
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20456016
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266.xyz#
 hy2://a741df90@156.229.163.98:22222?insecure=1&sni=www.bing.com#🔒
 hy2://HK-CN2.2454lksdgfhdkgndh@156.251.248.197:443?sni=hk.world--speed.com#🔒
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒
@@ -53,10 +53,10 @@ hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@158.180.73.10:52773/?insecure=1&sni=h
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@158.180.84.138:443?mport=22000-22999#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@158.180.94.166:21020?insecure=1&sni=www.bing.com#🔒
 hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.bing.com#🔒
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20624159
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20207183
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20751507
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.102:8443?insecure=1&sni=mercedes-grape.yyuyy.com#%E2%9A%9B%EF%B8%8F11%40oneclickvpnkeys
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.102:8443/?insecure=1&sni=mercedes-grape.yyuyy.com#%3E%3E%40oneclickvpnkeys%3A%3AIE
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.104:8443?insecure=1&sni=mercedes-grape.yyuyy.com#%F0%9F%87%B7%F0%9F%87%B4%7CRO%7C%40wxgqlfx%7C219
@@ -76,9 +76,9 @@ hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052?insecure=1&sni=fr
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@166.88.228.121:2052/?insecure=1&sni=fr1.xiaoliyu.us#fr%40oneclickvpnkeys
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.228.144:2052?insecure=1&sni=fr1.xiaoliyu.us#🔒
 hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com#🔒
-hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443?sni=gorbachev-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20787196
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443?sni=gorbachev-th.kvnfreetest.uk#
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?sni=gorbachev-th.kvnfreetest.uk#
-hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?sni=gorbachev-new-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372975
+hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?sni=gorbachev-new-th.kvnfreetest.uk#
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?sni=gorbachev-new-th.kvnfreetest.uk#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hy2://sysadmin.sysadmin@167.234.249.46:444?insecure=1&sni=a.961229.xyz#🔒
 hy2://364e8db7a2d57e32@167.253.152.235:46600?insecure=1&sni=www.bing.com#🔒
