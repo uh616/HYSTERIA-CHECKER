@@ -1,8 +1,4 @@
-trojan://91d7b973-630c-492f-9600-719f6a70f01e@104.16.132.167:443/?type=tcp&security=tls&sni=e1.777655.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28163%29
-trojan://91d7b973-630c-492f-9600-719f6a70f01e@172.64.166.58:443/?type=tcp&security=tls&sni=e2.777655.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://922b45c8-1ec8-4a65-9b32-137716a0e55f@69.84.182.108:8443/?type=tcp&security=tls&sni=cdn-node-oss-99.paofu.de#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%287%29
-trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@104.19.174.68:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&allowInsecure=1#EPODONIOS
-trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@visa.com.sg:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&fp=chrome#EPODONIOS
+trojan://93a9d63a-03b8-4167-92bd-3fa932af1c91@visa.com.sg:443/?type=ws&host=px8r9i1b4k.bpusfaster2.top&path=/images&security=tls&sni=px8r9i1b4k.bpusfaster2.top&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://9486ff17-2481-40c7-a5c4-d0d307de2509@104.21.58.135:443/?type=tcp&security=tls&sni=yyyyyyyyyyy.818185.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28144%29
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443/?type=tcp&security=tls&sni=zula.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://95b@65.75.194.43:10511/?type=tcp&security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -27,7 +23,7 @@ trojan://9yu6m5okr@104.21.50.5:443/?type=tcp&security=tls&sni=production.tj.ojan
 trojan://9yu6m5okr@172.67.198.177:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28203%29
 trojan://@V2ray_Alpha🏗️
 trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&amp;host=vpn-node.internal&amp;path=/xVpnTrojanWsSvc7f3a&amp;security=tls&amp;sni=vpn-node.internal&amp;alpn=http/1.1&amp;allowInsecure=1#🇰🇷KR
-trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#4Mohsen-d610c8d39f
+trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 trojan://a27cdec6-ade8-4152-b080-496fe7cc61b4@cfn-aq7.pages.dev:443/?type=ws&amp;host=cfn-aq7.pages.dev&amp;path=/?ed=2048&amp;security=tls&amp;sni=cfn-aq7.pages.dev#cfn-aq7.pages.dev
 trojan://a357e1c2-7b46-44ba-aee0-06451db94e06@in-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://a3fa58b581353bb375d2ddad0f327938@72.167.45.6:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -43,8 +39,8 @@ trojan://ac8ae2c29cd149eb85cae990572f0d59@195.162.69.238:9443/?type=tcp&security
 trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@159.203.22.227:443/?type=tcp&security=tls&sni=ca-full.privateip.net&allowInsecure=1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29%20%281%29
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#INT🌍
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#INT🌍
+trojan://AE62539071@funny-hen.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&path=/#4Kian-10b4387cc8
 trojan://AE62539071@strong-haddock.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2439
-trojan://AE62539071@wanted-marmoset.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=&peer=&security=tls#EPODONIOS
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.58:443/?type=tcp&security=tls&sni=pjp5.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.96:443/?type=tcp&security=tls&sni=pjp6.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443/?type=tcp&security=tls&sni=pus2.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
@@ -437,7 +433,7 @@ trojan://BxceQaOe@16.163.139.175:26704/?type=tcp&security=tls&sni=t.me%252Fripao
 trojan://BxceQaOe@16.163.139.175:49811/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@16.163.144.245:39024/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@43.198.109.134:14684/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#EPODONIOS
+trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🔥Join+Telegram:@Farah_VPN🟣
 trojan://BxceQaOe@43.198.240.223:29444/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://c21b972a-bc92-4f8c-8e6a-6868001f7f88@141.193.213.106:443/?type=tcp&security=tls&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2811%29
 trojan://c46cdd67-aac9-4a8c-9ddb-8ba66ece9286@guolicheng.cc:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -537,7 +533,7 @@ trojan://FH72359861@13.229.56.205:443?Telegram=@GozargahAzad,@GozargahAzad,@Goza
 trojan://FH72359861@13.229.56.205:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://FH72359861@3.253.78.205:443/?type=tcp&security=tls&sni=balanced-heron.rooster465.autos&fp=chrome#EPODONIOS
 trojan://FH72359861@54.180.158.231:443/?type=tcp&security=tls&sni=precise-locust.rooster465.autos&fp=chrome#EPODONIOS
-trojan://FH72359861@eminent-panther.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1#4Sarina-a4d12b3cc8
+trojan://FH72359861@eminent-panther.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1#EPODONIOS
 trojan://FLpONjB2Lb@139.162.45.139:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
 trojan://FuUaWS3YWG@crunch.floorshoping22.com:2053/?type=grpc&security=tls&sni=Crunch.floorshoping22.com&alpn=h2&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://g8h9i0j1-2345-5bcd-abc1-4567890abcde@104.21.25.67:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2881%29
@@ -547,6 +543,7 @@ trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni
 trojan://GqZUkgDSir@172.67.175.40:2087/?type=tcp&security=tls&sni=iran.farsonline24.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28165%29
 trojan://h0i1j2k3-4567-8bcd-9abc-0123abcdef45@104.21.25.80:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28235%29
 trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443/?type=tcp&security=tls#Marseille%20%28France%29
+trojan://hDSPGLBpv(g5@172.67.147.237:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&path=%2FeyJqdW5rIjoieEN1dmdwUzJYUDJMViIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNTguNzciXX0%3D%3Fed%3D2560&security=none&host=bkq52w7fwykfngbkzbcdhlh0ni-9eonw.imjodakiamirwebstudio1300.workers.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:3.08ms
 trojan://HdsUZmsHQW@148.113.141.99:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443/?type=ws&host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&security=tls&sni=uk1.bw8848.org#%E2%9A%AA%20%281%29
 trojan://Hpphpp1992%40hph@172.66.46.250:443/?type=tcp&security=tls&sni=HPHBpb.PaGeS.Dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28193%29
@@ -572,7 +569,7 @@ trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fas
 trojan://humanity@104.16.174.37:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2856%29
 trojan://humanity@104.16.174.44:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2871%29
 trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configshub2%3A%3AFR
-trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20959195
+trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20628163
 trojan://humanity@104.16.174.46:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2894%29
 trojan://humanity@104.16.174.6:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28161%29
 trojan://humanity@104.16.174.71:443/?type=tcp&security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.16.174.71-0481
@@ -600,3 +597,7 @@ trojan://humanity@104.18.152.140:443/?type=ws&host=www.calmloud.com&path=%2Fassi
 trojan://humanity@104.18.152.143:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28103%29
 trojan://humanity@104.18.152.144:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2851%29
 trojan://humanity@104.18.152.149:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2844%29
+trojan://humanity@104.18.152.152:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3E%2B%28%40DeamNet_Proxy%29%20%2829%29
+trojan://humanity@104.18.152.155:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28153%29
+trojan://humanity@104.18.152.159:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2821%29
+trojan://humanity@104.18.152.161:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2850%29
