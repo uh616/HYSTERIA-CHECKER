@@ -21,7 +21,7 @@ hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:9080?sni=grape-honk
 hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:8080?sni=grape-honk.yyuyy.com#4Mohsen-281542ebea
 hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:8443?insecure=1&sni=grape-honk.yyuyy.com#4FreeIran-6e711eecf9
 hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:9080?insecure=1&sni=grape-honk.yyuyy.com#4Mohsen-e0c774abef
-hysteria2://c4a4d98d-8d64-4e76-bc50-096b07d82382@139.28.98.26:443?insecure=1&sni=nl-hysteria.boxypn.com#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2008
+hysteria2://c4a4d98d-8d64-4e76-bc50-096b07d82382@139.28.98.26:443?insecure=1&sni=nl-hysteria.boxypn.com#%F0%9F%87%B3%F0%9F%87%B1%7CNL%7C%40wxgqlfx%7C18
 hysteria2://c4a4d98d-8d64-4e76-bc50-096b07d82382@139.28.98.26:443/?insecure=1&sni=nl-hysteria.boxypn.com#%F0%9F%8C%8012@oneclickvpnkeys
 hysteria2://3489a008067e4b789cd91f3f0d3ece47@140-238-43-0.liao.kdns.fr:50160?sni=140-238-43-0.liao.kdns.fr&insecure=0&allowInsecure=0#4Jadi-c44d96db76
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@140.238.100.35:30001?insecure=1&sni=london1.nodes.lanmaoyun.icu#🔒
