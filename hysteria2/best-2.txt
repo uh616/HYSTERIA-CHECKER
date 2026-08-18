@@ -1,5 +1,5 @@
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?sni=usa1.spectrumproxy.shop#
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Clifton%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@138.197.44.181:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F8%40oneclickvpnkeys
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@138.2.111.116:30000/?insecure=1&amp;sni=bing.com#🎡61@oneclickvpnkeys
@@ -20,7 +20,7 @@ hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:8443?sni=grape-honk
 hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:9080?sni=grape-honk.yyuyy.com#4Mohsen-2a527ad77a
 hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:8080?sni=grape-honk.yyuyy.com#4Mohsen-281542ebea
 hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:8443?insecure=1&sni=grape-honk.yyuyy.com#4FreeIran-6e711eecf9
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:9080?insecure=1&sni=grape-honk.yyuyy.com#4Mohsen-e0c774abef
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:9080?sni=grape-honk.yyuyy.com#
 hysteria2://c4a4d98d-8d64-4e76-bc50-096b07d82382@139.28.98.26:443?insecure=1&sni=nl-hysteria.boxypn.com#%F0%9F%87%B3%F0%9F%87%B1%7CNL%7C%40wxgqlfx%7C18
 hysteria2://3489a008067e4b789cd91f3f0d3ece47@140-238-43-0.liao.kdns.fr:50160?sni=140-238-43-0.liao.kdns.fr&insecure=0&allowInsecure=0#4Jadi-c44d96db76
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@140.238.100.35:30001?insecure=1&sni=london1.nodes.lanmaoyun.icu#🔒
@@ -61,7 +61,7 @@ hy2://b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:15090?insecure=1&sni=
 hy2://sysadmin.sysadmin@142.171.194.167:443?insecure=1#🔒
 hy2://4984806b-f0f9-4749-bdd5-ea38bd690270@142.171.30.222:19987?insecure=1#🔒
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#
-hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@142.93.215.128:10001?sni=IN.1010520.shop#🔒
 hy2://5a4d82f4-5504-41f0-9a37-e82c430b2f98@142.93.39.217:10001?sni=uk.1010520.shop#🔒
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@143.246.208.86:8443?insecure=1&sni=iq5ny.pleiades.codes#
