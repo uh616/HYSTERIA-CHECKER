@@ -1,3 +1,5 @@
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Mohsen-b1401117db
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Sarina-738ef9f691
 hy2://9bb452b106ffc217@207.148.22.93:443?obfs=salamander&obfs-password=cd29099d&insecure=1#🔒
 hy2://9bb452b106ffc217@207.148.22.93:443/?obfs=salamander&obfs-password=cd29099d&insecure=1#CPI2
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.164.255:30102?insecure=1&sni=us11.wish.ml#🔒
@@ -125,5 +127,3 @@ hysteria2://461e8622-46fb-40ee-9d4b-ceaed42161e4@37.114.60.196:40443/?insecure=1
 hy2://sysadmin.sysadmin@37.123.193.73:443?insecure=1#🔒
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@37.187.197.252:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA1
 hy2://3119106b-df7c-4a28-af3d-88af9dbea193@38.114.100.138:9988?insecure=1#🔒
-hy2://3119106b-df7c-4a28-af3d-88af9dbea193@38.114.100.138:9988/?insecure=1#%E2%80%BC%EF%B8%8F3%40oneclickvpnkeys
-hysteria2://Pwd_23g4oqdgv8uQJlgcmv_2026@38.143.180.241:19659?insecure=1&sni=www.bing.com#%E7%BE%8E%E5%9B%BD_081813737
