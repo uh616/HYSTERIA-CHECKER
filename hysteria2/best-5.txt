@@ -1,3 +1,4 @@
+hy2://9bb452b106ffc217@207.148.22.93:443?obfs=salamander&obfs-password=cd29099d&insecure=1#🔒
 hy2://9bb452b106ffc217@207.148.22.93:443/?obfs=salamander&obfs-password=cd29099d&insecure=1#CPI2
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.164.255:30102?insecure=1&sni=us11.wish.ml#🔒
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.166.131:443?insecure=1&sni=www.bing.com#🔒
@@ -25,7 +26,6 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.158:3
 hy2://0d42717f@212.192.13.222:1995?insecure=1&sni=www.bing.com#🔒
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@212.192.13.96:2052?insecure=1&sni=hk3.xiaoliyu.us#🔒
 hy2://e48e92a9-7168-427b-9e16-4eb7d98229c1@212.192.15.239:1327?obfs=salamander&obfs-password=Y2JhZTU3ZjE4ZTI0MzRmMQ%3D%3D&insecure=1#🔒
-hysteria2://ca0e6830aee0eb1c775734c4ab91b573@213-35-102-40.liao.kdns.fr:50160?sni=213-35-102-40.liao.kdns.fr#
 hy2://64009609-40ca-4955-82b7-45ff8daeeb2c@213.183.48.11:40443/?sni=speedtest.realityforus.com#%F0%9F%87%B7%F0%9F%87%BAMoscow%2B%40Surfboardv2ray
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.101.179:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.103.51:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
@@ -106,14 +106,14 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?se
 hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@3.0.241.189:8443?insecure=1&sni=localhost#
 hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@3.1.14.155:8080?insecure=1&sni=localhost#
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.139.135:443?insecure=1&sni=css.rbxcdn.com#4Jadi-cfc4d847bb
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.139.135:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20604457
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=3.36.93.74#4Jadi-d73311a1c0
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443?insecure=1&sni=css.rbxcdn.com#4Kian-90818e3c4e
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?insecure=1&sni=130-17-10-202.sslip.io#
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%E8%8B%B1%E5%9B%BD_081813010
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
 hysteria2://b41ad7f941ffce755cb8601bfd0f02ca@35-209-199-239.liao.kdns.fr:50160?insecure=1&sni=35-209-199-239.liao.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%40wxgqlfx%7C219
