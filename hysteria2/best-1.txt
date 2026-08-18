@@ -98,9 +98,6 @@ hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443?insecure=1&sni=cn.
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.150.77:443?insecure=1&sni=css.rbxcdn.com#4Jadi-c3bed2bf3b
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443?insecure=1&sni=css.rbxcdn.com#4FreeIran-3395dc3cc3
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
-hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@13.192.75.114:8443?insecure=1&sni=localhost#
-hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@13.192.90.77:8443?insecure=1&sni=localhost#
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.193.153:443?insecure=1&sni=vpn-sg-001.fastervpn.world#4Kian-36b10940c2
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@13.231.105.239:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B56%40Antifilterjadid
@@ -129,3 +126,4 @@ hysteria2://b42d90fa667942aebc734d60@137.23.2.19:443?sni=rmgyvpn.rest&obfs=salam
 hysteria2://b42d90fa667942aebc734d60@137.23.2.19:20000?sni=rmgyvpn.rest&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=b42d90fa667942aebc734d60&mport=20000-30000#4Kian-1a87ebd0cd
 hy2://b42d90fa667942aebc734d60@137.23.2.19:443/?mport=20000-30000&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#EPODONIOS
 hysteria2://b07baf8fca580933cc39e6e5a6671a5d@138-2-67-146.liao.kdns.fr:50160?insecure=1&sni=138-2-67-146.liao.kdns.fr#4Mohsen-7df61a5586
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?sni=usa1.spectrumproxy.shop#
