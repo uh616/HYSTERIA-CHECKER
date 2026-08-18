@@ -2,7 +2,7 @@ hy2://5c33a4b2-7768-4e6c-87a8-a1515d1de609@152.53.0.187:40443/?sni=speedtest.rea
 hy2://9d765687-536c-4626-a2e2-6a403219e381@152.53.54.139:30000?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://51ed158e-b95b-451b-a48b-60e356de287d@152.53.54.139:30001?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://91aa5eb5-e257-4885-a591-8ba742c4fcd2@152.53.54.139:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#%7CKR%7C%40wxgqlfx%7C23
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%7CKR%7C%40wxgqlfx%7C23
 hy2://sysadmin.sysadmin@152.67.234.151:444?insecure=1&sni=mg2.wtn.wang#🔒
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@152.69.195.193:52773?insecure=1&sni=h06.trojan.tel#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Osaka%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@152.69.195.193:52773/?insecure=1&sni=h06.trojan.tel#%E2%9A%9310%40oneclickvpnkeys
@@ -22,14 +22,14 @@ hy2://1bd496a4@154.16.27.143:5433/?insecure=1&sni=ELiV2RAY.ELENA.expert#us-mci-e
 hy2://sysadmin.sysadmin@154.201.76.131:444?insecure=1&sni=ss.wodeyumingliao.top#🔒
 hy2://sysadmin.sysadmin@154.23.175.126:6813?insecure=1#🔒
 hysteria2://c3e6fd601b53d080ed5099cbf325dede@154.31.114.168:50160?insecure=1&sni=154-31-114-168.liao.kdns.fr#4Nika-833326b18e
-hysteria2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160?insecure=1&sni=154-31-115-179.liao.kdns.fr#%7CJP%7C%40wxgqlfx%7C15
+hysteria2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160?insecure=1&sni=154-31-115-179.liao.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5%7CJP%7C%40wxgqlfx%7C15
 hy2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160/?sni=154-31-115-179.liao.kdns.fr#EPODONIOS
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20001?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20008?insecure=1&sni=hk1.pithecia.com#🔒
 hy2://sysadmin.sysadmin@154.7.183.57:443?insecure=1#🔒
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?insecure=1&sni=155.248.209.237#
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=#%40GozargahAzad%7C%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?insecure=1&sni=155.248.209.237#🇺🇸145939
 hy2://a741df90@156.229.163.98:22222?insecure=1&sni=www.bing.com#🔒
 hy2://HK-CN2.2454lksdgfhdkgndh@156.251.248.197:443?sni=hk.world--speed.com#🔒
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#🔒
@@ -58,7 +58,7 @@ hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@159.13.34.59:443?insecure=1&sni=www.b
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443?insecure=1&sni=vpn-us-002.fastervpn.world#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443/?insecure=1&sni=vpn-us-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20781193
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443/?insecure=1&sni=vpn-us-002.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#
 hysteria2://ad6bc66062dbd395a02061c842c0978c@162-141-131-59.liao.kdns.fr:50160?sni=162-141-131-59.liao.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5JP_3%7C3.2MB/s
@@ -66,7 +66,7 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.102:8443?insecure=1
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.102:8443/?insecure=1&sni=mercedes-grape.yyuyy.com#%3E%3E%40oneclickvpnkeys%3A%3AIE
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.103:8080?sni=mercedes-grape.yyuyy.com#4Kian-94e732043f
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.103:8443?insecure=1&sni=mercedes-grape.yyuyy.com#4Kian-811f1950c4
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.104:8443?insecure=1&sni=mercedes-grape.yyuyy.com#
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.104:8443?insecure=1&sni=mercedes-grape.yyuyy.com#%F0%9F%87%B7%F0%9F%87%B4%7CRO%7C%40wxgqlfx%7C219
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.104:8443/?insecure=1&sni=mercedes-grape.yyuyy.com#%3E%3E%40oneclickvpnkeys%3A%3AIE
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.98:8443?sni=mercedes-grape.yyuyy.com#4Jadi-bac7026fb6
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.99:8443?insecure=1&sni=mercedes-grape.yyuyy.com#
