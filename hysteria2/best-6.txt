@@ -1,8 +1,6 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.139.135:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?security=tls&amp;alpn=h3&amp;insecure=1&amp;sni=130-17-10-202.sslip.io#🇷🇺|RU|@wxgqlfx|152
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
-hysteria2://Telegram%40vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey#%F0%9F%87%A9%F0%9F%87%AA146484%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://Telegram@vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&insecure=1&obfs=salamander#GB
 hysteria2://74fbbe74-906d-45a8-a27c-a85fc758bc9f@31.76.70.78:8443?insecure=0&sni=quic.tyr-agentstvo.tech#9%7C%F0%9F%87%BA%F0%9F%87%B8146654%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20-%20t.me%2FS
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
@@ -76,11 +74,11 @@ hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@46.17.40.42:30102?insecure=1&sni=du.w
 hysteria2://dongtaiwang.com@46.17.41.189:50717?insecure=1&sni=www.bing.com#🆔dingyue_center%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8080?insecure=1&sni=grape-turbo-fr.roxa.org#%7CNL%7C%40wxgqlfx%7C122
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569081
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443/?sni=grape-turbo-fr.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20303164
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443/?sni=grape-turbo-fr.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443?insecure=1&sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1%7CNL%7C%40wxgqlfx%7C177
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20726259
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8080?sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1146818%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8443?sni=grape-turbo-fr.roxa.org#
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8443?sni=grape-turbo-fr.roxa.org#%D9%8B%DA%BA%E2%80%A1%C2%B3%D9%8B%DA%BA%E2%80%A1%C2%B1146759%20%7C%20%C3%A2%DA%91%D8%8C%C3%AF%C2%B8%DA%88Telegra
 hysteria2://391f093f-85fc-473d-abe2-ea607b9ff567@46.243.235.23:8443?security=tls&amp;insecure=1&amp;sni=quic.tyr-agentstvo.tech#🇷🇺|RU|@wxgqlfx|136#🇷🇺|RU|@wxgqlfx|136
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@46.29.161.109:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://b955263a-5eca-4321-90e6-7db4f8bac7b4@46.29.161.15:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#🔒
@@ -117,3 +115,5 @@ hy2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.22:30102/?insecure=1#🎡59
 hysteria2://ThisIsNotForSale-Free%24ervice@52.163.114.191:443?security=tls&insecure=1&sni=api.tg8lnk.tech#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://ThisIsNotForSale-Free%24ervice@52.187.5.16:443?security=tls&insecure=1&sni=api.tg8lnk.tech#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.194.254.229:3074?insecure=1&sni=TG.%40WangCai2#🔒
+hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@52.194.254.229:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_229%20%40wangcai_8
+hy2://96cad374-7573-4463-8804-4665c2c3d932@52.197.242.96:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
