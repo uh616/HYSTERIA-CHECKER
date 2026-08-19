@@ -1,11 +1,3 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.98.16:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%A7LB%28AzadNet.t.me%29%20%283%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.239.98.141:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%289%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.239.98.191:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2812%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.246.110.179:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%2811%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@78.40.211.147:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A6%F0%9F%87%B9AT%28AzadNet.t.me%29%20%281%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@8.34.146.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2861%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@80.93.202.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2810%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@88.218.78.20:2096/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29%20%2817%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.107.158.211:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20%284%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.220.8.170:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29%20%283%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.220.8.170:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%B9LT%28AzadNet.t.me%29%20%282%29
@@ -41,7 +33,6 @@ trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443/?type=tcp&securi
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443/?type=tcp&security=tls&sni=m2rrrty.777219.xyz#%F0%9F%8F%81RELAY-172.67.220.93-1510
 trojan://9yu6m5okr@104.21.50.5:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28158%29
 trojan://9yu6m5okr@172.67.198.177:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28203%29
-trojan://@V2ray_AlphaрҹҸ—пёҸ
 trojan://@V2ray_Alpha🏗️
 trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&amp;host=vpn-node.internal&amp;path=/xVpnTrojanWsSvc7f3a&amp;security=tls&amp;sni=vpn-node.internal&amp;alpn=http/1.1&amp;allowInsecure=1#🇰🇷KR
 trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
@@ -61,6 +52,7 @@ trojan://ac8ae2c29cd149eb85cae990572f0d59@195.162.69.238:9443/?type=tcp&security
 trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@159.203.22.227:443/?type=tcp&security=tls&sni=ca-full.privateip.net&allowInsecure=1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29%20%281%29
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#INT🌍
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#INT🌍
+trojan://AE62539071@3.112.29.46:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=clear-killdeer.rooster465.autos#🔥Join+Telegram:@Farah_VPN🟣
 trojan://AE62539071@present-warthog.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&type=tcp&path=/&allow_insecure=1#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-10879
 trojan://AE62539071@strong-haddock.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2439
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.58:443/?type=tcp&security=tls&sni=pjp5.pqjc.buzz&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
@@ -609,3 +601,11 @@ trojan://humanity@104.16.79.73:443/?type=ws&host=www.creationlong.org&path=%2Fas
 trojan://humanity@104.16.80.73:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#CA-%3E%2B%28%40DeamNet_Proxy%29%20%287%29
 trojan://humanity@104.16.89.120:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%282%29
 trojan://humanity@104.17.121.71:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2824%29
+trojan://humanity@104.17.121.9:443/?type=tcp&security=tls&sni=www.calmlunch.com#%F0%9F%8F%81RELAY-104.17.121.9-0483
+trojan://humanity@104.17.131.88:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://humanity@104.18.10.110:443/?type=ws&host=www.multiplydose.com&path=%2F%2Fassignment&security=tls&sni=www.multiplydose.com#-%3ENL%2B%28%40DeamNet_Proxy%29%20%2842%29
+trojan://humanity@104.18.11.110:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#%E2%AD%9062%40oneclickvpnkeys
+trojan://humanity@104.18.12.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28144%29
+trojan://humanity@104.18.12.149:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2823%29
+trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&fp=ios#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2878%29
+trojan://humanity@104.18.152.103:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2839%29
