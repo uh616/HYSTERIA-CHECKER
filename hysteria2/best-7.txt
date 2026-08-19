@@ -1,3 +1,5 @@
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com#%D9%8B%DA%BA%E2%80%A1%D8%9B%D9%8B%DA%BA%E2%80%A1%C2%B8139909%20%7C%20%C3%A2%DA%91%D8%8C%C3%AF%C2%B8%DA%88Telegra
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443/?insecure=1&sni=vpn-us-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@54.238.69.229:3074?insecure=1#🔒
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@54.249.79.143:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.249.79.143:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B52%40Antifilterjadid
@@ -32,7 +34,7 @@ hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@60.249.35.96:3074
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Plaisir%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7h2%40oneclickvpnkeys
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7146550%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@62.72.163.215:80?insecure=1#🔒
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=1&sni=www.bing.com#🔒
@@ -75,7 +77,7 @@ hy2://KevinZakarian@66.23.198.35:443?obfs=salamander&obfs-password=KevinZakarian
 hy2://KevinZakarian@66.23.198.35:8443?insecure=1&sni=kevin.serverv.net&obfs=salamander&obfs-password=KevinZakarian#🔒
 hy2://9f73c619627d6a5d@66.245.192.15:443?obfs=salamander&obfs-password=bd7f765e&insecure=1&sni=www.apple.com#🔒
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=bd7f765e#⚡️
-hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1&sni=www.broadcom.com#
+hysteria2://gf1@66.94.121.46:443?insecure=1&sni=www.broadcom.com#%D9%8B%DA%BA%E2%80%A1%D8%9B%D9%8B%DA%BA%E2%80%A1%C2%B8146797%20%7C%20%C3%A2%DA%91%D8%8C%C3%AF%C2%B8%DA%88Telegra
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@68.183.199.224:10001?sni=CA.1010520.shop#🔒
 hysteria2://T%24me%24V2RayyNGvpn@70.34.205.15:443?sni=www.wordreference.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=T.me%24V2RayyNGvpn#
 hy2://d2e21fabfe6ddb83@70.34.205.24:443?obfs=salamander&obfs-password=ca39a177&insecure=1&sni=www.apple.com#🔒
@@ -105,16 +107,14 @@ hy2://f206702e@82.152.142.66:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.67:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.68:3341?insecure=1&sni=www.bing.com#🔒
 hy2://f206702e@82.152.142.69:3341?insecure=1&sni=www.bing.com#🔒
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.22.41.10:443?insecure=0&sni=pl10.mechvpn.online#146630%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20-%20t.me%2FS
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.22.41.10:443?sni=pl10.mechvpn.online#%D9%8B%DA%BA%E2%80%A1%C2%B5%D9%8B%DA%BA%E2%80%A1%C2%B1146630%20%7C%20%C3%A2%DA%91%D8%8C%C3%AF%C2%B8%DA%88Telegra
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒
 hy2://03e4fe32@84.235.246.199:31452?insecure=1&sni=www.bing.com#🔒
 hy2://03e4fe32@84.235.248.145:31452?insecure=1&sni=www.bing.com#🔒
 hy2://4328e5a3-b325-4154-9e7d-508e16962e40@84.252.75.14:8443?insecure=1&sni=hy10.abyssvpn.com#🔒
 hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&insecure=1#🔒
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443?insecure=0&sni=grape-zet-ro-turbo.bumbleshrimp.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#%C3%A7%C2%BD%E2%80%94%C3%A9%C2%A9%C2%AC%D9%87%C2%B0%C2%BC%D9%86%D8%9B%DA%91
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#%3E%3E%40oneclickvpnkeys%3A%3ARO
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8080?security=tls&amp;insecure=1&amp;sni=grape-zet-ro-turbo.bumbleshrimp.com#🇷🇴|RO|@wxgqlfx|220
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443?insecure=0&sni=grape-zet-ro-turbo.bumbleshrimp.com#
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.166:8443?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.166:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#✅@AR14N24b
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443?insecure=0&sni=grape-zet-ro-turbo.bumbleshrimp.com#Romania%20%D9%8B%DA%BA%E2%80%A1%C2%B7%D9%8B%DA%BA%E2%80%A1%C2%B4
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#%3E%3E%40oneclickvpnkeys%3A%3ARO
