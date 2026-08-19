@@ -1,3 +1,4 @@
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?insecure=1&sni=nl1.noesissite.ru#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl1.unlockvpn.online:10808?sni=nl1.unlockvpn.online#4FreeIran-dccafee610
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl10.unlockvpn.online:10808?sni=nl10.unlockvpn.online#4Nika-21d75a05df
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443?insecure=1&sni=nl174.mechvpn.online#%E8%8D%B7%E5%85%B0%20%231
@@ -101,7 +102,7 @@ hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni
 hysteria2://fe475179-d8a8-420d-a4ac-3e415ed8dc72@uswx4.wxgqlfx.vip:11683?insecure=1&sni=144.225.187.153#%E7%BE%8E%E5%9B%BD%20%234
 hysteria2://daca6264-bd96-48d4-a0ff-c96e50a00aa0@uswx4.wxgqlfx.vip:35193?insecure=1&sni=uswx4.wxgqlfx.vip#%E7%BE%8E%E5%9B%BD%20V2CROSS.COM%202
 hysteria2://fe475179-d8a8-420d-a4ac-3e415ed8dc72@uswx4.wxgqlfx.vip:11683/?insecure=1&sni=144.225.187.153#✅@AR14N24b
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=vpn-au-002.fastervpn.world#%F0%9F%87%A6%F0%9F%87%BAAU_1%7C1.6MB%2Fs%7CGPT%E2%81%BA%7CYT-AU%7CGM%7C2%25
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-au-002.fastervpn.world#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+%E6%96%B0%E5%8D%97%E5%A8%81%E5%B0%94%E5%A3%AB%E5%B7%9E%E6%82%89%E5%B0%BCAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#4Jadi-7d934e0728
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#4Kian-feb2022695
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#4Kian-af1303507a
