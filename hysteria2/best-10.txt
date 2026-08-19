@@ -22,7 +22,7 @@ hy2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443/?insecure
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@pl10.mechvpn.online:443?insecure=1#4Kian-487e32e0c9
 hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#%E6%B3%A2%E5%85%B0%20%231
 hy2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443/?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#EPODONIOS
-hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#%F0%9F%87%B1%F0%9F%87%BBhysteria
+hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm={
 hysteria2://28c05d48e2f470d07a4c392c9bd43849@quran.mci.ai:443?security=tls&amp;insecure=0&amp;sni=quran.mci.ai#https://t.me/v2roay
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21545?mport=21001-21999&insecure=0#4Sarina-2eda6c08a8
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21842?mport=21001-21999&insecure=0#4Sarina-9f45b13236
@@ -48,7 +48,7 @@ hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@sg07.459292.xyz:8080?insecure=1
 hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@sg08.459292.xyz:8443?insecure=1&sni=localhost#4Jadi-6e7da05517
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@sg1.xiaoliyu.cyou:1935?insecure=1&amp;sni=sg1.xiaoliyu.cyou#🇸🇬SG_1|1.9MB/s|GPT⁺|NF|38%
 hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@sg10.459292.xyz:8443?insecure=1&sni=localhost#4Mohsen-4c078f6d2c
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935?insecure=1&sni=sg2.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%ACSG
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935?insecure=1&sni=sg2.xiaoliyu.cyou#%D1%80%D2%B9%D2%AE%D1%91%D1%80%D2%B9%D2%AE%C2%ACSG
 hy2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935/?insecure=1&sni=sg2.xiaoliyu.cyou#EPODONIOS
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@sg21.459921.xyz:8080?insecure=1&sni=sg21.459921.xyz#4FreeIran-0003fa5090
@@ -60,7 +60,7 @@ hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sr1.mangshe.xyz:2056?security=t
 hysteria2://9P5zfc7S0s@srm.kishonline.online:443?security=tls&amp;obfs=salamander&amp;obfs-password=kish-data-center&amp;insecure=0&amp;sni=srm.kishonline.online#@filembad
 hysteria2://130e6aab-9eba-441e-9021-22cbccc72832@srvhy1.ezcon24.online:8443?sni=srvhy1.ezcon24.online#@OutlineReleasedKey
 hysteria2://https://xship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#4Kian-3f9ae1a8e7
-hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?sni=swe.frkn.org#%E7%91%9E%E5%85%B8
+hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443?insecure=0&sni=swe.frkn.org#%D0%B7%E2%80%98%D2%BB%D0%B5%E2%80%A6%D1%91
 hy2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe.frkn.org:8443/?sni=swe.frkn.org#EPODONIOS
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe2.frkn.org:443?security=tls&amp;insecure=0#🇫🇮|FI|@wxgqlfx|123
 hysteria2://Telegram--
@@ -94,10 +94,10 @@ hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@us03.459292.xyz:20000?insecure=
 hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@us4.xiaoliyu.cyou:4433?insecure=1&sni=127.0.0.1#4FreeIran-2fa6b3222b
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443?sni=us54.mechvpn.online#%E7%91%9E%E5%85%B8%20%231
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443?insecure=0&sni=us54.mechvpn.online#%D0%B7%E2%80%98%D2%BB%D0%B5%E2%80%A6%D1%91%20%231
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443/?sni=us54.mechvpn.online#EPODONIOS
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us63.mechvpn.online:443?insecure=1&sni=us63.mechvpn.online#%F0%9F%87%B8%F0%9F%87%AA%7CSE%7C%40wxgqlfx%7C238
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us65.mechvpn.online:443?insecure=1&sni=us65.mechvpn.online#%F0%9F%87%B8%F0%9F%87%AA%7CSE%7C%40wxgqlfx%7C213
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us63.mechvpn.online:443?insecure=1&sni=us63.mechvpn.online#%7CSE%7C%40wxgqlfx%7C238
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us65.mechvpn.online:443?insecure=1&sni=us65.mechvpn.online#%7CSE%7C%40wxgqlfx%7C213
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=127.0.0.1#4Kian-c90ebdce31
 hysteria2://fe475179-d8a8-420d-a4ac-3e415ed8dc72@uswx4.wxgqlfx.vip:11683?insecure=1&sni=144.225.187.153#%E7%BE%8E%E5%9B%BD%20%234
 hysteria2://daca6264-bd96-48d4-a0ff-c96e50a00aa0@uswx4.wxgqlfx.vip:35193?insecure=1&sni=uswx4.wxgqlfx.vip#%E7%BE%8E%E5%9B%BD%20V2CROSS.COM%202
