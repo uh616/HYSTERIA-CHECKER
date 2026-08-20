@@ -1,3 +1,5 @@
+hy2://sysadmin.sysadmin@37.123.193.73:443?insecure=1#🔒
+hysteria2://391f093f-85fc-473d-abe2-ea607b9ff567@37.18.14.156:8443?sni=quic.tyr-agentstvo.tech#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_082013124
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@37.187.197.252:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA1
 hy2://3119106b-df7c-4a28-af3d-88af9dbea193@38.114.100.138:9988?insecure=1#🔒
 hy2://3119106b-df7c-4a28-af3d-88af9dbea193@38.114.100.138:9988/?insecure=1#%E2%80%BC%EF%B8%8F3%40oneclickvpnkeys
@@ -18,8 +20,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.201.58.201:443?insecure=1&sni=css.rbxcdn
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@43.207.142.72:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_72%20%40wangcai_8
 hy2://ca9a7225@44.200.17.3:58023?insecure=1&sni=www.bing.com#🔒
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.255.13.86:443?insecure=1&sni=vpn-us-002.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20272952
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.255.13.86:443/?insecure=1&sni=vpn-us-002.fastervpn.world#
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.255.13.86:443?insecure=1&sni=vpn-us-002.fastervpn.world#
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG%20WangCai2@45.11.104.113:3074?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20@WangCai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@45.11.104.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40WangCai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.11.104.44:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -128,4 +129,3 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.44:4380?obfs=salama
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@54.38.225.47:4380?obfs=salamander&obfs-password=irvless&sni=withoutme.hbmc.net#IRVLESS-FREE-HYSTERIA6
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@54.64.148.82:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.64.148.82:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B54%40Antifilterjadid
-hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@57.180.35.76:3074?insecure=1#🔒
