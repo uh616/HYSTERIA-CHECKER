@@ -9,12 +9,13 @@ hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@node3.vpnushka.lol:443?insecure
 hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443/?insecure=1&obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru%23%F0%9F%8E%97%EF%B8%8F89@oneclickvpnkeysvless://551955b3-46e9-5129-95c9-e7474c15ed6b@144.31.171.233:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl6.fast-connect-service.site&type=tcp%23%F0%9F%8E%97%EF%B8%8F90@oneclickvpnkeys#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-22189
 hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443?insecure=1&sni=pg-usa2-hy2.gigatapbot.top#
 hy2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443/?insecure=1&sni=pg-usa2-hy2.gigatapbot.top#EPODONIOS
-hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#%E5%BE%B7%E5%9B%BD
+hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click&obfs=&obfs-password=#
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#EPODONIOS
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@pl10.mechvpn.online:443?insecure=1#4Kian-487e32e0c9
 hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#
 hy2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443/?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#EPODONIOS
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm={
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?security=tls&amp;obfs=salamander&amp;obfs-password=hmvyfx1tpnz6pp3k&amp;insecure=0&amp;sni=lms22.gelzaro.ir#لذت
 hysteria2://28c05d48e2f470d07a4c392c9bd43849@quran.mci.ai:443?security=tls&amp;insecure=0&amp;sni=quran.mci.ai#https://t.me/v2roay
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21545?mport=21001-21999&insecure=0#4Sarina-2eda6c08a8
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21842?mport=21001-21999&insecure=0#4Sarina-9f45b13236
