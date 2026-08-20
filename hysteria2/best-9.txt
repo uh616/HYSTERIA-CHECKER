@@ -10,12 +10,12 @@ hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173/?sni=xk7qh
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2056?security=tls&insecure=1&sni=fhc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#%F0%9F%94%B020%40oneclickvpnkeys
 hysteria2://81378ef7-89a1-43b5-9a9d-a04a8af25b7c@fin1.apexvpn.space:443?security=tls&amp;insecure=1&amp;sni=fin1.apexvpn.space#🇫🇮|FI|@wxgqlfx|185#🇫🇮|FI|@wxgqlfx|185
-hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?obfs=salamander&obfs-password=uw9b2qq5rx&sni=fiproxy1.lockdwn.com#%E8%8B%B1%E5%9B%BD_082018226
+hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?obfs=salamander&obfs-password=uw9b2qq5rx&sni=fiproxy1.lockdwn.com#%E8%8B%B1%E5%9B%BD_082023232
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sni=flkf1.mangshe.xyz#%F0%9F%94%B03%40oneclickvpnkeys
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056?insecure=1&amp;sni=flkf3.mangshe.xyz#🇩🇪DE_1|1.8MB/s|GPT⁺|YT-CN|NF|0%
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#%E6%B3%95%E5%9B%BD%20%231
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr131.mechvpn.online:443?insecure=1&sni=fr131.mechvpn.online#%E6%B3%95%E5%9B%BD_082018093
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr131.mechvpn.online:443?insecure=1&sni=fr131.mechvpn.online#%E6%B3%95%E5%9B%BD_082023100
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr140.mechvpn.online:443?alpn=h3&sni=fr140.mechvpn.online#@OutlineReleasedKey
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#%E6%B3%95%E5%9B%BD
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#EPODONIOS
@@ -39,7 +39,7 @@ hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@hk2.xiaoliyu.cyou:4433?insecure
 hy2://1427eb10-7529-4d38-a6a2-01b337868b37@hk2.xiaoliyu.cyou:4433/?insecure=1&sni=hk2.xiaoliyu.cyou#EPODONIOS
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%E7%BE%8E%E5%9B%BD_082018930
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%E7%BE%8E%E5%9B%BD_082023990
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#4Nika-69d05b5f52
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?insecure=1&sni=127.0.0.1#4Sarina-00682dcc7a
@@ -84,7 +84,6 @@ hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@jp4.oomz.ru:30000/?insecure=1&amp;sni
 hysteria2://0c3bd8c8-53db-4126-a98f-d12d908d5301@jpa.nnpy.org:11000?insecure=1&amp;security=tls&amp;sni=www.bing.com#美国+V2CROSS.COM
 hy2://0c3bd8c8-53db-4126-a98f-d12d908d5301@jpa.nnpy.org:11000/?insecure=1&amp;security=tls&amp;sni=www.bing.com#美国+V2CROSS.COM
 hysteria2://2a1a0537-717c-402e-8e4f-7e81369997bd@jpzl2.stardad.lol:48512?security=tls&insecure=1&sni=https%3A%2F%2Fbing.com#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
-hysteria2://1dcc3b89-0b45-3908-9120-19741361d55d@k8i4gd320.d33tqmk.cc:12235?insecure=1&obfs=salamander&obfs-password=salamander&sni=xk7qhk201.ckpfef.top#%E6%97%A5%E6%9C%AC_082018370
 hysteria2://f3182d97-8472-4433-8d75-7598d6978364@kaikaixinxin-ca.legeth.xyz:443?security=tls&insecure=0&mport=61001-61999&sni=kaikaixinxin-ca.legeth.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇨🇦%20CA%20down
 hysteria2://Telegram%3A%40KevinZakarian@kevin.iserver.store:8443?security=tls&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1#🆔v2rayngrit%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://KevinZakarian@kevin.serverv.net:443?obfs=salamander&amp;obfs-password=KevinZakarian&amp;insecure=1#KevinVPN
@@ -101,7 +100,7 @@ hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@lsj1.mangshe.xyz:2056?insecure=
 hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@lsj1.mangshe.xyz:2056/?insecure=1&sni=lsj1.mangshe.xyz#EPODONIOS
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21349?mport=21001-21999&insecure=0#4Jadi-de2acdfb43
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21639?mport=21001-21999&insecure=0#4Sarina-f864e25259
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AA%7CDE%7C%40wxgqlfx%7C22
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&security=tls&sni=mg2.mangshe.xyz#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#EPODONIOS
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2056?security=tls&insecure=1&sni=mm1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2052/?insecure=1&sni=mm1.mangshe.xyz#%F0%9F%94%B034%40oneclickvpnkeys
@@ -128,3 +127,4 @@ hy2://cd74c0a406664a5bc0bac098220a2468@nl2.sferavpn.pro:443/?insecure=1&sni=nl2.
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl2.unlockvpn.online:10808?sni=127.0.0.1#4Mohsen-a4936d8f7d
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl3.unlockvpn.online:10808?sni=127.0.0.1#4FreeIran-8e502dc037
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808?sni=nl7.unlockvpn.online#4Kian-12725ba857
+hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808/?sni=nl7.unlockvpn.online#%3E%3E%40oneclickvpnkeys%3A%3ANL
