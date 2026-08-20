@@ -74,7 +74,7 @@ hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@125.227.83.26:3074?insecure=1#
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@125.227.83.26:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%A8%F0%9F%87%B3TW_26%20%40wangcai_8
 hy2://fc44fe6a-f083-4591-9c03-f8d61dc3907f@128.204.223.43:1957?insecure=1&sni=www.bing.com#🔒
 hysteria2://4fd8857a2c6af64470191e79500f42d7@129-146-143-124.liao.kdns.fr:50160?insecure=1&sni=129-146-143-124.liao.kdns.fr#4Mohsen-d64012878c
-hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?security=tls&amp;insecure=0&amp;sni=129-150-54-169.liao.kdns.fr#🇸🇬|SG|@wxgqlfx|27
+hysteria2://ce24c43947331f36746c1f692c3812e0@129-150-54-169.liao.kdns.fr:50160?sni=127.0.0.1#4Mohsen-5017ad41fd
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@129.146.161.30:2052?insecure=1&sni=fhc1.mangshe.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@129.146.48.224:2052?insecure=1&sni=us2.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@129.146.48.224:2052/?insecure=1&sni=us2.eyujichang.xyz#%40An0nymousteam-H8
@@ -129,3 +129,4 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@132.226.0.78:30075?insecure=1&sni=www
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@132.226.162.10:30102?insecure=1&sni=br3.wish.ml#🔒
 hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215?insecure=1&sni=shy35.zqjc.cloud#🔒
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Jadi-2e482d4164
+hy2://6ac9028082f11520@136.144.58.255:50288/?obfs=salamander&obfs-password=1f7caeaa&insecure=1#✅@RealMANI_IR
