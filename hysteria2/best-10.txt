@@ -1,6 +1,3 @@
-hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl2.unlockvpn.online:10808?sni=127.0.0.1#4Mohsen-a4936d8f7d
-hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl3.unlockvpn.online:10808?sni=127.0.0.1#4FreeIran-8e502dc037
-hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808?sni=nl7.unlockvpn.online#4Kian-12725ba857
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808/?sni=nl7.unlockvpn.online#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443?insecure=1&sni=nl8.mechvpn.online#%E8%8D%B7%E5%85%B0%20%232
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443/?insecure=1&sni=nl8.mechvpn.online#EPODONIOS
@@ -13,7 +10,7 @@ hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443?ins
 hy2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443/?insecure=1&sni=pg-usa2-hy2.gigatapbot.top#EPODONIOS
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#%F0%9F%87%A6%F0%9F%87%AAAE_1%7C2.2MB/s
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#EPODONIOS
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@pl10.mechvpn.online:443?insecure=1#4Kian-487e32e0c9
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@pl10.mechvpn.online:443?sni=127.0.0.1#4Mohsen-9582e5915a
 hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#%E6%B3%A2%E5%85%B0%20%231
 hy2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443/?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#EPODONIOS
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#%F0%9F%87%B1%F0%9F%87%BBhysteria
