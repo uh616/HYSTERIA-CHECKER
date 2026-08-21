@@ -1,3 +1,5 @@
+trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&type=ws&sni=kafka.eula.cloudns.org&path=/Telegram@V2ray_Alpha/?ed=2048&host=kafka.eula.cloudns.org#%E6%9C%AA%E7%9F%A565
+trojan://07e52cb1-7ab7-479f-819a-e3df91510cb5@us-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443/?type=tcp&security=tls&sni=jobscareertoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2880%29
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443/?type=tcp&security=tls&sni=sherasheba.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443/?type=ws&host=sherasheba.com&path=%2F6b777a91&security=tls&sni=sherasheba.com#
@@ -363,7 +365,6 @@ trojan://6aWFNbrFDs@need.uno:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-T
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083/?type=tcp&security=tls&sni=vfarid.xcdi.wOrKERS.DEV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28199%29
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@soskeynets#EPODONIOS
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@ThePackageCom#EPODONIOS
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@ThePackageCom#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.229:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%283%29
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%285%29
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@61.222.160.199:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%286%29
@@ -614,4 +615,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.106.91:8443/?type=tcp&security=tls&sni=
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.98.16:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%A7LB%28AzadNet.t.me%29%20%283%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.239.98.141:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%289%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.239.98.191:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2812%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.246.110.179:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%2811%29
