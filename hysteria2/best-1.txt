@@ -37,7 +37,7 @@ hy2://sharecentrepro@107.175.54.114:4433/?insecure=1&sni=us.sharecentrepro.link#
 hy2://ksGeWd8r9Rz8@107.175.70.80:16424?insecure=1&sni=www.bing.com#🔒
 hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200?sni=han.ssudo.x10.mx#🔒
 hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200/?sni=han.ssudo.x10.mx#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#
+hysteria2://%40Telegram%40Configvibes@107.181.155.107:2096?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes#%40Configvibes%F0%9F%87%B9%F0%9F%87%B7%20%231
 hy2://sysadmin.sysadmin@108.174.197.101:443?insecure=1#🔒
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@108.181.23.231:443?security=tls&insecure=1&mport=50000-53000&sni=www.microsoft.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hy2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=109.104.152.89#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20109.104.152.89%20%E2%97%88%20udp:22441%20%E2%97%88%20BrainStorm%20Network,%20Inc%20/%20Oneprovider.com%20%E2%97%88%20c1a9e
