@@ -1,10 +1,12 @@
+trojan://8r%3C%5B9%27l6hAO%238ZQi@198.71.190.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2872%29
+trojan://8r%3C%5B9%27l6hAO%238ZQi@198.71.233.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2814%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@206.189.214.99:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2843%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@206.189.214.99:2096/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2822%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@206.189.214.99:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2848%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@209.97.170.177:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29%20%286%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@209.97.171.87:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29%20%287%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.165.38.7:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%A7LB%28AzadNet.t.me%29%20%282%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20682898
+trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20499192
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.232.204.28:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29%20%283%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@216.126.237.69:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2873%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.119:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AEFI%28AzadNet.t.me%29%20%283%29
@@ -614,7 +616,6 @@ trojan://GKHWMe2R4qwNcNxu6l3KMkdd@125.141.32.222:11371/?type=tcp&security=tls&sn
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%282882%29
 trojan://GqZUkgDSir@172.67.175.40:2087/?type=tcp&security=tls&sni=iran.farsonline24.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28165%29
 trojan://h0i1j2k3-4567-8bcd-9abc-0123abcdef45@104.21.25.80:443/?type=tcp&security=tls&sni=trojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28235%29
-trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=grpc&sni=&fp=edge&alpn=h2&serviceName=ajv&mode=gun#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-33893
 trojan://HC04361579@exact-sawfish.rooster465.autos:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=tls&sni=#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4277
 trojan://HC04361579@exact-sawfish.rooster465.autos:443/?type=tcp&security=tls&sni=exact-sawfish.rooster465.autos#EPODONIOS
 trojan://HC04361579@renewing-ewe.rooster465.autos:443/?type=tcp&security=tls&sni=renewing-ewe.rooster465.autos&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2666
@@ -638,4 +639,3 @@ trojan://humanity@104.16.174.14:443/?type=ws&host=www.ignitelimit.com&path=%2Fas
 trojan://humanity@104.16.174.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18280
 trojan://humanity@104.16.174.185:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2853%29
 trojan://humanity@104.16.174.22:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28107%29
-trojan://humanity@104.16.174.33:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2890%29
