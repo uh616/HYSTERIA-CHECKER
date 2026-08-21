@@ -1,4 +1,5 @@
-hysteria2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173?sni=xk7qhk307.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#%E6%97%A5%E6%9C%AC_082118257
+hysteria2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:10030?insecure=1&sni=xk7q3.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#%F0%9F%87%AD%F0%9F%87%B0HK
+hysteria2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173?sni=xk7qhk307.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#HK
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:10030/?insecure=1&sni=xk7q3.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#EPODONIOS
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173/?sni=xk7qhk307.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#EPODONIOS
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2056?security=tls&insecure=1&sni=fhc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
@@ -11,7 +12,7 @@ hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=www.cl
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr131.mechvpn.online:443?insecure=1&sni=fr131.mechvpn.online#%E6%B3%95%E5%9B%BD_082118104
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr140.mechvpn.online:443?alpn=h3&sni=fr140.mechvpn.online#@OutlineReleasedKey
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#%E6%B3%95%E5%9B%BD_082118032
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#%E6%B3%95%E5%9B%BD
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#EPODONIOS
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&sni=138.197.44.181#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20138.197.44.181%20%E2%97%88%20udp:46160%20%E2%97%88%20DigitalOcean%20/%20DigitalOcean%20%E2%97%88%2084a50
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F9%40oneclickvpnkeys
@@ -30,7 +31,7 @@ hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk1.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk2.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@hk2.xiaoliyu.cyou:4433?insecure=1&sni=hk2.xiaoliyu.cyou#%E9%A6%99%E6%B8%AF
-hy2://1427eb10-7529-4d38-a6a2-01b337868b37@hk2.xiaoliyu.cyou:4433/?insecure=1&security=tls&sni=hk2.xiaoliyu.cyou#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+hy2://1427eb10-7529-4d38-a6a2-01b337868b37@hk2.xiaoliyu.cyou:4433/?insecure=1&sni=hk2.xiaoliyu.cyou#EPODONIOS
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%E7%BE%8E%E5%9B%BD_0821181011
@@ -46,7 +47,7 @@ hy2://d2e21fabfe6ddb83@hys11.freelines.net:443/?insecure=1&sni=www.apple.com&obf
 hy2://9f73c619627d6a5d@hys2.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#irancpihys2
 hy2://y0qochAspE+u-HLfrip-@hys23.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2
 hy2://y0qochAspE+u-HLfrip-@hys231.freelines.net:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#irancpi.net_hys2-1
-hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?insecure=1&alpn=h3#%F0%9F%87%A8%F0%9F%87%BFCZ_2%7C1.8MB/s
+hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?insecure=1&alpn=h3#
 hy2://4a52c165e81fa8fc@hys3.freelines.net:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=a16d0be0#irancpihys3
 hy2://f6e4b19a3110d19d@hys4.cpionline.us:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=eliv2ray.eliv2.top#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2066.135.28.59%20%E2%97%88%20udp:443%20%E2%97%88%20The%20Constant%20Company%20/%20Vivint%20Wireless,%20Inc.%20%E2%97%88%20a0d3c
 hy2://f6e4b19a3110d19d@hys4.cpionline.us:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#%F0%9F%85%B0LL%20OPERATORS%20%20%20%F0%9F%94%B5%E2%9A%AA%F0%9F%94%B4%20%20%20%40V2RAYNPLUS%F0%9F%87%BA%F0%9F%87%B2
@@ -71,7 +72,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=t
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2056?security=tls&insecure=1&sni=jd1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇦%20SA%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@jd1.mangshe.xyz:2052/?insecure=1&sni=jd1.mangshe.xyz#%F0%9F%94%B05%40oneclickvpnkeys
 hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@jp.555199.xyz:20000/?insecure=0&sni=sg.555199.xyz&mport=20000-30000#4Jadi-92930fcd18
-hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443?insecure=1&sni=jp.cryptoofarm.com#%E7%AB%8B%E9%99%B6%E5%AE%9B_082118005
+hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443?insecure=1&sni=jp.cryptoofarm.com#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C1.4MB/s
 hy2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443/?insecure=1&sni=jp.cryptoofarm.com#EPODONIOS
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
 hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@jp03.459292.xyz:8443?insecure=1&sni=localhost#4Nika-8371d2874b
@@ -98,7 +99,7 @@ hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@lsj1.mangshe.xyz:2056/?insecure=1&sni
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21349?mport=21001-21999&insecure=0#4Jadi-de2acdfb43
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@mg.xn--mes13n8pi8x2b.shop:21639?mport=21001-21999&insecure=0#4Sarina-f864e25259
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#%F0%9F%8D%A533%40oneclickvpnkeys
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#🇫🇷148781
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2056?security=tls&insecure=1&sni=mm1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2052/?insecure=1&sni=mm1.mangshe.xyz#%F0%9F%94%B034%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm2.mangshe.xyz:2056?security=tls&insecure=1&sni=mm2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
@@ -128,5 +129,4 @@ hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808/?sni
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443?insecure=1&sni=nl8.mechvpn.online#%E8%8D%B7%E5%85%B0%20%232
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443/?insecure=1&sni=nl8.mechvpn.online#EPODONIOS
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl9.unlockvpn.online:10808?sni=127.0.0.1#4FreeIran-6f5a173ade
-hysteria2://cd74c0a406664a5bc0bac098220a2468@node1.sferavpn.pro:443?sni=node1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%E6%84%8F%E5%A4%A7%E5%88%A9_082118001
-hysteria2://cd74c0a406664a5bc0bac098220a2468@node1.sferavpn.pro:443/?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=node1.sferavpn.pro#2%F0%9F%8D%8F@oneclickvpnkeys
+hysteria2://cd74c0a406664a5bc0bac098220a2468@node1.sferavpn.pro:443?sni=node1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%E7%BE%8E%E5%9B%BD%20%232
