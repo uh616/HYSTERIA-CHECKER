@@ -1,4 +1,3 @@
-hysteria2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:10030?insecure=1&sni=xk7q3.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#%F0%9F%87%AD%F0%9F%87%B0HK
 hysteria2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173?sni=xk7qhk307.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#HK
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:10030/?insecure=1&sni=xk7q3.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#EPODONIOS
 hy2://1dcc3b89-0b45-3908-9120-19741361d55d@fg7xl1div.d33tqmk.cc:11173/?sni=xk7qhk307.ckpfef.top&obfs=salamander&obfs-password=1ol3tasb90#EPODONIOS
@@ -18,7 +17,7 @@ hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F9%40oneclickvpnkeys
 hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=127.0.0.1#4Jadi-7eeafc8d3b
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#
-hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?security=tls&insecure=0&sni=gorbachev-new-th.kvnfreetest.uk#Proxy_mtm%2024
+hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#4FreeIran-6e680182f0
 hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443/?sni=gorbachev-new-th.kvnfreetest.uk#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?insecure=0&sni=gorbachev-th.kvnfreetest.uk#9%7CProxy_mtm%2025
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=fiproxy1.lockdwn.com&obfs=salamander&security=tls&obfs-password=uw9b2qq5rx&insecure=0#
@@ -130,3 +129,4 @@ hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443/?insecure=1&sn
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl9.unlockvpn.online:10808?sni=127.0.0.1#4FreeIran-6f5a173ade
 hysteria2://cd74c0a406664a5bc0bac098220a2468@node1.sferavpn.pro:443?sni=node1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%E7%BE%8E%E5%9B%BD%20%232
 hy2://cd74c0a406664a5bc0bac098220a2468@node1.sferavpn.pro:443/?sni=node1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#EPODONIOS
+hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@node3.vpnushka.lol:443?security=tls&amp;insecure=1&amp;sni=node3.vpnushka.lol#🇺🇸|US|@wxgqlfx|251
