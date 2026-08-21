@@ -80,7 +80,7 @@ hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1002?security=tl
 hysteria2://df8d55f9-fb51-442d-902a-bf8160dc051b@brb.nnpy.org:11100?insecure=1&amp;obfs=&amp;obfs-password=&amp;security=tls&amp;sni=www.bing.com#美国+V2CROSS.COM
 hysteria2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882?hiddify=1&obfs=salamander&obfs-password=xYGLQEJbZmUz&sni=ramzinex.com&insecure=1#Ipv6%20Hysteria2
 hy2://dd6ada88-d4bd-4b07-9eb2-0c713c88874c@c6.mysell.store:34882/?insecure=1&sni=ramzinex.com&obfs=salamander&obfs-password=xYGLQEJbZmUz#%E2%9A%933%40oneclickvpnkeys
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443?insecure=0&sni=cabinet.wwwinternetvideo.click#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443?insecure=0&sni=cabinet.wwwinternetvideo.click#🌐سرور
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443/?sni=cabinet.wwwinternetvideo.click#EPODONIOS
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2056?security=tls&insecure=1&sni=cc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2052/?insecure=1&sni=cc1.mangshe.xyz#%F0%9F%94%B040%40oneclickvpnkeys
