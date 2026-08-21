@@ -1,3 +1,7 @@
+trojan://Telegram_healer_config@to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev:443?sni=To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV&type=ws&path=/tr/xwtrOUcg21SS0Ega?ed=2560&alpn=http/1.1&fp=chrome#4Mohsen-cbe718fff0
+trojan://PQ05174892@together-amoeba.rooster465.autos:443?security=tls#🇯🇵[openproxylist.com]
+trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AAU
+trojan://AE62539071@together-mayfly.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4115
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://FH72359861@topical-shark.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-2503
 trojan://NQ26071394@tops-marlin.rooster465.autos:443?security=tls&sni=tops-marlin.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AA%20IE-13
@@ -635,7 +639,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@195.58.50.128:2053/?type=tcp&security=tls&sni=
 trojan://8r%3C%5B9%27l6hAO%238ZQi@198.12.144.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2828%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@198.12.145.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2862%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@198.199.115.61:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2829%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@198.62.62.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2820%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@198.71.188.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2810%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@198.71.190.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2872%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@198.71.233.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2814%29
