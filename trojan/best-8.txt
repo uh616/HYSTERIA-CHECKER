@@ -1,3 +1,4 @@
+trojan://075b9690-f1cc-4d0c-aa1e-f80f07f09815@172.67.204.177:443/?type=tcp&security=tls&sni=4o.191292.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28120%29
 trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&type=ws&sni=kafka.eula.cloudns.org&path=/Telegram@V2ray_Alpha/?ed=2048&host=kafka.eula.cloudns.org#%E6%9C%AA%E7%9F%A565
 trojan://07e52cb1-7ab7-479f-819a-e3df91510cb5@us-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.146:443/?type=tcp&security=tls&sni=jobscareertoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2880%29
@@ -341,7 +342,6 @@ trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@172.67.136.117:443/?type=tcp&secur
 trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@65.108.205.61:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%AEFI%28AzadNet.t.me%29
 trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.27:5535/?type=tcp&security=tls&sni=steampipe.akamaized.net&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.28:3516/?type=tcp&security=tls&sni=akamai.cdn.steampipe.steamcontent.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-trojan://63dfd7ded2640ccf@www.speedtest.net:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/tr/0UViHnm41NfnIUP3?ed=2560&security=none&host=nimamajor.ashganma.workers.dev&type=ws#4Mohsen-090ccf7108
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@jp2.twincloud.xyz:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://6518a1cf-a234-462d-9551-e02f95cc13eb@95.164.116.35:443/?type=tcp&security=tls&sni=tr1.thcvpn.ip-ddns.com#%F0%9F%87%B9%F0%9F%87%B7TR%28AzadNet.t.me%29
 trojan://654a309b-fdaa-3263-9bed-74a7e1532fd9@az05feiy.kuli888.xyz:443/?type=tcp&security=tls&sni=az05feiy.kuli888.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -618,4 +618,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.106.55:8443/?type=tcp&security=tls&sni=
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.106.91:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%A7LB%28AzadNet.t.me%29%20%281%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.98.16:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B1%F0%9F%87%A7LB%28AzadNet.t.me%29%20%283%29
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.239.98.141:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%289%29
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.239.98.191:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29%20%2812%29
