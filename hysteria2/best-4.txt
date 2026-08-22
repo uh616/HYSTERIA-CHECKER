@@ -1,10 +1,10 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20599565
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.233.65:443?insecure=1&sni=vpn-sg-001.fastervpn.world#4Sarina-631d944443
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:1548?sni=sg1.ddns-link-b5.uk#🔒
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@18.142.44.217:3531?sni=sg2.ddns-link-b5.uk#🔒
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.149.2:443?insecure=1&sni=vpn-sg-001.fastervpn.world#4Jadi-0d2a3f8fbc
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.170.35:443?insecure=1&sni=vpn-sg-001.fastervpn.world#4Sarina-553d57b483
-hysteria2://9q3Mb0IzSVbnwaqK@18.162.42.61:16001?sni=hk-ls-r-1.czzhkractqqakfzdmrgd.cc#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C2.2MB%2Fs%7CYT-HK%7CNF%7C1%25
+hysteria2://9q3Mb0IzSVbnwaqK@18.162.42.61:16001?sni=hk-ls-r-1.czzhkractqqakfzdmrgd.cc#%F0%9F%87%AD%F0%9F%87%B0HK%20%231
 hy2://9q3Mb0IzSVbnwaqK@18.162.42.61:16001/?sni=hk-ls-r-1.czzhkractqqakfzdmrgd.cc#EPODONIOS
 hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1%3DTG%20WangCai2@18.179.16.135:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_135%20%40wangcai_8
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@18.179.58.237:3074?insecure=1&sni=TG.%40WangCai2#🔒
@@ -33,7 +33,7 @@ hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.40:8443?sni=grape-beer.y
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#%40confiig_hub
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8080?insecure=1&sni=hopp-legend-se.roxa.org#4FreeIran-958a10fc83
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20660885
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20500031
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hy2://628e821d-5151-48d6-8af3-e89cd74e6f4d@185.92.222.227:12454?sni=hdfyhys2.foriran.trade&obfs=salamander&obfs-password=Y7aunTuPJZBCfiDIm#🔒
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#🔒
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?insecure=1&sni=www.bing.com#🔒
@@ -69,12 +69,11 @@ hy2://%40ln2ray-5bdf790f-0af2-4481-a624-41b66e7e3489@193.38.54.48:443?sni=let-hi
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@194.104.146.113:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40wangcai_8
 hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store#🆔iran_v2ray1%20🔒%20HY2-UDP-N/A%20🇷🇺%20RU%20down
-hysteria2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.207:443?insecure=1&sni=194.135.34.207#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CYT-TR%7CNF%7CGM
+hysteria2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.207:443?insecure=1&sni=194.135.34.207#%F0%9F%87%B9%F0%9F%87%B7TR_1%7C1.7MB/s
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.104:8443?insecure=1&sni=keyhop-offshore.roxa.org#%E5%BE%B7%E5%9B%BD%20%234
 hy2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.104:8443/?insecure=1&sni=keyhop-offshore.roxa.org#EPODONIOS
-hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.120:8443?insecure=1&sni=keyhop-offshore.roxa.org#%F0%9F%87%A9%F0%9F%87%AADE_1%7C2.3MB%2Fs%7CGPT%E2%81%BA%7CNF%7C0%25
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443?insecure=1&sni=keyhop-offshore.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20921498
-hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443/?insecure=1&sni=keyhop-offshore.roxa.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196286
+hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443/?insecure=1&sni=keyhop-offshore.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.26:8443?sni=keyhop-offshore.roxa.org#4Nika-daa44257a6
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.97:8443?insecure=1&sni=keyhop-offshore.roxa.org#%E5%BE%B7%E5%9B%BD%20%235
 hy2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.97:8443/?insecure=1&sni=keyhop-offshore.roxa.org#EPODONIOS
@@ -114,7 +113,7 @@ hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@[2001:bc8:1d90:6fd:dc00:ff:fe11:b23]:
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#4Mohsen-c825c713a2
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=202.146.222.174#4Sarina-08dda0de9f
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.222.29#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20622954
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20244114
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%3E%3E%40oneclickvpnkeys%3A%3AHK
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=202.146.222.89#4Kian-e73e53f6e8
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@202.155.11.54:443?sni=us54.mechvpn.online#4Nika-479b487b1c
 hy2://sysadmin.sysadmin@204.216.108.5:2024?insecure=1&sni=204-216-108-5.nip.io#🔒
@@ -132,3 +131,4 @@ hy2://9bb452b106ffc217@207.148.22.93:443?obfs=salamander&obfs-password=cd29099d&
 hy2://9bb452b106ffc217@207.148.22.93:443/?obfs=salamander&obfs-password=cd29099d&insecure=1#CPI2
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.164.255:30102?insecure=1&sni=us11.wish.ml#🔒
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.166.131:443?insecure=1&sni=www.bing.com#🔒
+hy2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.175.16:443?insecure=1&sni=www.bing.com#🔒
