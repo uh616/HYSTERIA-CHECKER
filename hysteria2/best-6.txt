@@ -1,3 +1,7 @@
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443?insecure=1&sni=vpn-kr-003.fastervpn.world#%D1%80%D2%B9%C2%A7%C2%AE89%40oneclickvpnkeys
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7149928%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?security=tls&amp;alpn=h3&amp;insecure=1&amp;sni=130-17-10-202.sslip.io#🇷🇺|RU|@wxgqlfx|152
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%D0%B2%D2%A3%E2%80%A6%20%20%40vistav2ray%20%20%D1%80%D2%B9%E2%80%98%D2%B2%D1%80%D2%B9%E2%80%98%D2%B2%D0%AA%C2%A9%D0%A8%C2%A7
@@ -20,7 +24,7 @@ hysteria2://4c0064e3-3ad6-4c96-bf21-4eb7ea4bbcb5@38.181.76.213:8882?security=tls
 hy2://9974b6a7-9c0e-423b-a77b-87ac90465d81@38.242.215.250:11924?obfs=salamander&obfs-password=HxAZoyubMe5ADvIs&sni=con.shellcorp.ir#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?insecure=1&sni=du.wish.ml#🔒
 hy2://e169856c-7c19-4908-9bdf-448dc846163a@40.233.91.166:443?insecure=1&sni=www.bing.com#🔒
-hysteria2://57ec0f01-0c00-4a69-ad67-937b4735640b@40t2.wxgqlfx.vip:35193?insecure=1&sni=40t2.wxgqlfx.vip#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6QuadraNet%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+hysteria2://57ec0f01-0c00-4a69-ad67-937b4735640b@40t2.wxgqlfx.vip:35193?security=tls&amp;insecure=1&amp;sni=40t2.wxgqlfx.vip#🇺🇸|US|@wxgqlfx|163
 hysteria2://P6qkAwznuC076mbIR2cGPg%3D%3D@43.156.90.144:34567?insecure=1&sni=bing.com#%D1%80%D2%B9%D2%AE%D1%91%D1%80%D2%B9%D2%AE%C2%ACSG
 hy2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567/?insecure=1&sni=bing.com#EPODONIOS
 hysteria2://fJT5wNXNkYDvYKKGWUc9f2vd0LvHKSwc@43.167.198.167:443?security=tls&amp;insecure=1&amp;sni=43.167.198.167#🇯🇵|JP|@wxgqlfx|127
@@ -42,7 +46,7 @@ hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@45.118.132.243:443?mport=40001-50000&
 hy2://StormXVPN@45.129.185.4:443?obfs=salamander&obfs-password=MYGaMeOP&insecure=1&sni=fast.com#🔒
 hy2://sysadmin.sysadmin@45.130.146.21:443?insecure=1#🔒
 hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443?insecure=1&sni=google.com#🔒
-hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&amp;sni=google.com#Hysteria
+hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&sni=ELiV2RAY.ELENA.expert#fr-mci-@eliv2ray
 hysteria2://f8d473b9-5724-489e-8841-cf4565203c9e@45.140.169.231:8080?security=tls&insecure=1&sni=www.bing.com#MCI-%40V2ray_Alpha-05hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#MCI-%40V2ray_Alpha-06
 hy2://a278eadd-c35c-403f-a286-7767a74307c1@45.140.169.231:8080/?insecure=1&sni=www.eliv2ray.net#@vpnv2rayNGv
 hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@45.142.113.238:40443?sni=speedtest.realityforus.com#🔒
@@ -57,8 +61,8 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@45.155.76.197:4380?obfs=salam
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#%E9%A6%99%E6%B8%AF_082304207
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?insecure=1#
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443?obfs=salamander&obfs-password=2pU!&insecure=1&sni=Google.com#🔒
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU!&Brls!0exuP+!4so#⚡️
-hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?security=tls&sni=vps.vpsv.cc#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#⚡️
+hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?insecure=0&sni=vps.vpsv.cc#%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hy2://98c24431-e5ea-4315-8bdc-9191664cb134@45.38.42.216:11802?insecure=1#🔒
 hy2://4328e5a3-b325-4154-9e7d-508e16962e40@45.58.188.107:8443?insecure=1&sni=hy19.abyssvpn.com#🔒
 hy2://1f17cdf0578a2860@45.76.0.86:443?obfs=salamander&obfs-password=4b817757&insecure=1&sni=45.76.0.86#🔒
@@ -104,7 +108,7 @@ hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443?ins
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&sni=germany1.h2corp.local#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hy2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=HysteriaHowdy&insecure=1&sni=vkvd127.mycdn.me#🔒
 hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#🔒
-hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com#⚡️
+hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#⚡️
 hy2://dongtaiwang.com@51.159.103.141:33390?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://dongtaiwang.com@51.159.103.141:33390/?insecure=1&sni=bing.com#%E2%9A%932%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.159.213.39:22483?insecure=1&sni=62.210.103.0#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
@@ -114,8 +118,3 @@ hy2://dongtaiwang.com@51.159.77.153:33390/?insecure=1&sni=bing.com#%F0%9F%87%AB%
 hy2://sharecentrepro@51.68.169.215:4433?insecure=1&sni=#🔒
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.22:30102/?insecure=1#🎡59@oneclickvpnkeys
 hysteria2://ThisIsNotForSale-Free%24ervice@52.163.114.191:443?security=tls&insecure=1&sni=api.tg8lnk.tech#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
-hysteria2://ThisIsNotForSale-Free%24ervice@52.187.5.16:443?security=tls&insecure=1&sni=api.tg8lnk.tech#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
-hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.194.254.229:3074?insecure=1&sni=TG.%40WangCai2#🔒
-hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@52.194.254.229:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_229%20%40wangcai_8
-hy2://96cad374-7573-4463-8804-4665c2c3d932@52.197.242.96:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
-hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.199.249.206:3074?insecure=1&sni=TG.%40WangCai2#🔒
