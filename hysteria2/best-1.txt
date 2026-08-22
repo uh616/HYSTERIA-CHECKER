@@ -7,11 +7,11 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%3E%3E%40oneclickvpnkeys%3A%3ATW
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052?insecure=1&sni=hk2.xiaoliyu.us#🔒
 hy2://0e66bc71-0649-4fa4-9545-85877514b1ca@103.136.150.102:2052/?insecure=1&sni=hk2.xiaoliyu.us#hk2%40oneclickvpnkeys
-hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&amp;sni=google.com#Hysteria
+hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&sni=google.com#🔒
 hy2://sysadmin.sysadmin@103.235.18.69:444?insecure=1&sni=tototel.dogpp.com#🔒
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@103.241.65.25:443?mport=22000-22999#🔒
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8080?security=tls&amp;insecure=1&amp;sni=hopp-legend-se.roxa.org#🇺🇸|US|@wxgqlfx|119
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443?insecure=1&sni=hopp-legend-se.roxa.org#%D1%80%D2%B9%C2%A7%C2%AE41%40oneclickvpnkeys
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443?insecure=1&sni=hopp-legend-se.roxa.org#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CNF%7C0%25
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443/?insecure=1&sni=hopp-legend-se.roxa.org#%F0%9F%A7%AE41@oneclickvpnkeys
 hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
 hy2://9d765687-536c-4626-a2e2-6a403219e381@103.253.36.252:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
@@ -118,4 +118,3 @@ hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443?mport=20001-25000&
 hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443/?mport=20001-25000&sni=1.nodes.yljc.online#%E2%84%B9%EF%B8%8F2%40oneclickvpnkeys
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@132.226.0.78:30075?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@132.226.162.10:30102?insecure=1&sni=br3.wish.ml#🔒
-hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215?insecure=1&sni=shy35.zqjc.cloud#🔒
