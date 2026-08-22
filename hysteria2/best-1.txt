@@ -11,8 +11,8 @@ hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&amp;sni=googl
 hy2://sysadmin.sysadmin@103.235.18.69:444?insecure=1&sni=tototel.dogpp.com#🔒
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@103.241.65.25:443?mport=22000-22999#🔒
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8080?security=tls&amp;insecure=1&amp;sni=hopp-legend-se.roxa.org#🇺🇸|US|@wxgqlfx|119
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443?insecure=1&sni=hopp-legend-se.roxa.org#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.2MB%2Fs%7CGPT%E2%81%BA%7CNF%7C0%25
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443/?insecure=1&sni=hopp-legend-se.roxa.org#
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443?insecure=1&sni=hopp-legend-se.roxa.org#%D1%80%D2%B9%C2%A7%C2%AE41%40oneclickvpnkeys
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.226:8443/?insecure=1&sni=hopp-legend-se.roxa.org#%F0%9F%A7%AE41@oneclickvpnkeys
 hy2://a2c24b89-9a24-4bc3-bbec-c7acb3219ab9@103.252.90.231:55228?insecure=1#🔒
 hy2://9d765687-536c-4626-a2e2-6a403219e381@103.253.36.252:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
 hy2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=google.com#🔒
@@ -27,7 +27,6 @@ hy2://dongtaiwang.com@104.192.224.140:40391/?insecure=1&sni=www.bing.com#%F0%9F%
 hy2://dongtaiwang.com@104.192.224.141:40391?insecure=1&sni=www.bing.com#🔒
 hy2://dongtaiwang.com@104.192.224.141:40391/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8x4%40oneclickvpnkeys
 hysteria2://Telegram%3A%40KevinZakarian@104.36.86.57:8443?security=tls&obfs=salamander&obfs-password=Telegram%3A%40KevinZakarian&insecure=1&sni=Telegram+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN+-JOKERRVPN+%3A+%40JOKERRVPN#🆔v2rayngrit%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
-hysteria2://c85bd762dc136495ddc02b30b0b7c5c5@107-172-212-12.liao.kdns.fr:50160?sni=107-172-212-12.liao.kdns.fr#
 hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@107.172.235.75:40443?sni=speedtest.realityforus.com#🔒
 hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443?sni=dxobg4azmk.gafnode.sbs#🔒
 hy2://2ca9a9ce-618e-4c28-aca8-926ef319b6a0@107.172.235.75:47443/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner
@@ -119,3 +118,4 @@ hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443?mport=20001-25000&
 hy2://529a3d29-fcf2-4879-a580-611d9c027372@132.145.80.179:443/?mport=20001-25000&sni=1.nodes.yljc.online#%E2%84%B9%EF%B8%8F2%40oneclickvpnkeys
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@132.226.0.78:30075?insecure=1&sni=www.bing.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@132.226.162.10:30102?insecure=1&sni=br3.wish.ml#🔒
+hy2://8ea05545-2dc7-4487-8005-b7d581169945@132.226.208.232:55215?insecure=1&sni=shy35.zqjc.cloud#🔒
