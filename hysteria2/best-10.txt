@@ -1,6 +1,3 @@
-hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndge4.whit3.net:443?insecure=1&sni=ndge4.whit3.net#%E5%BE%B7%E5%9B%BD%20%233
-hy2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@ndge4.whit3.net:443/?insecure=1&sni=ndge4.whit3.net#EPODONIOS
-hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG
 hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@newos.klzvezdi.ru:9443?insecure=1&sni=newos.klzvezdi.ru#%F0%9F%87%A8%F0%9F%87%AD%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%91%9E%E5%A3%AB%2002
 hysteria2://Krab9Hyst2_Rk7pQ2xL@nl.vpn.legendaah.xyz:36723?insecure=1&sni=nl.vpn.legendaah.xyz#4FreeIran-f60ce56866
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&sni=nl01ntrhy01.tcp-reset-club.net#4Sarina-1d5664f044
@@ -119,7 +116,7 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443/?insecure=1&
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#4Kian-e61fef384e
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#4Jadi-6a8fcacb28
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#4FreeIran-356270d66b
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8US_43%7C3.5MB%2Fs%7CGPT%E2%81%BA%7CYT-US%7CNF%7CGM%7C2%25
 hysteria2://Telegram%40vpnjey@31.76.27.23:37009?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram%40vpnjey
 hysteria2://Telegram@vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#
 hysteria2://Telegram@vpnjey@31.76.27.23:37009?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey&sni=de.vpnjey.store#4Jadi-07bd1ecb92
