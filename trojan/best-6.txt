@@ -1,3 +1,4 @@
+trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4302
 trojan://RHCyMRXeOBf41ia7WrpJc00EBWZEoJNK@awex1.awexio.ir:2082?security=reality&pbk=YcE0ofDAVLs0QhEk3Yj5vy2hAqLB67tUVKSGe53prjA&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=52b8b53f2b340356#EPODONIOS
 trojan://your_password@aws-ar-buenosaires-1.f1cflinea.com:443?security=tls&sni=aws-ar-buenosaires-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ar-buenosaires-1.f1cflinea.com#4Kian-7adb8f54d3
 trojan://your_password@aws-ca-central-1.f1cflinea.com:443?security=tls&sni=aws-ca-central-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflinea.com#4Kian-57e9a87441
@@ -336,7 +337,7 @@ trojan://7b01f853-1c72-47db-8f57-151d491b3bf9@hk3.lvwf8n-hh8e-2300-nmoo-d2e9naob
 trojan://1cb996c8-e5bf-40d2-9a3c-149b3b721c5f@hk3.visaapp.top:49487#Relay_🇷🇺RU-🇷🇺RU_96
 trojan://e2e216aa-723a-427a-a4da-5da2ceb1636e@hk5.microsoft-orgwly.vip:443?type=tcp&sni=lht.microsoft-orgwly.vip&allowInsecure=1#4Kian-5fc8d05646
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&amp;security=tls&amp;sni=de.catxstar.com#香港
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C3.4MB/s
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%A6UA_2%7C2.6MB/s
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#EPODONIOS
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:14185?security=tls&sni=hn.xiaohouzi.club#
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:16012?security=tls&sni=supsig.xiaohouzi.club#⚡
@@ -417,7 +418,7 @@ trojan://AE62539071@intimate-koi.rooster465.autos:443?security=tls#%5BOpenRay%5D
 trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7%20KR-2533
 trojan://AE62539071@inviting-burro.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4125
 trojan://auto@ip.gs:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩
-trojan://humanity@ip.myip2.qzz.io:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 trojan://auto@ip.sb:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩
 trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#4FreeIran-05b8ca38c2
 trojan://auto@ipinfo.in:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩
@@ -485,7 +486,7 @@ trojan://HC04361579@key-barnacle.rooster465.autos:443?type=raw&headerType=none&s
 trojan://bpb-trojan@khank.ir:2087?security=tls&sni=PBPgEnERAL1panel.freeAirlAInES.COM&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=pbpgeneral1panel.freeairlaines.com&path=%2Ftrk5LuNQQhMU3oZ6lp%3Fed%3D2560#CPI%20127%20-%20Trojan%20-%20Clean%20IP%20%3A%202087%20%28BPB%29
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AA%20IE-46
 trojan://EQ30679154@kind-unicorn.rooster465.autos:443?type=tcp&security=tls&sni=kind-unicorn.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2705
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B3%F0%9F%87%B4NO_2%7C1.5MB/s
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B3%F0%9F%87%B4NO_2%7C3.3MB/s
 trojan://AE62539071@known-albacore.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4113
 trojan://904dd222-2514-4a68-9185-32f89113afd9@kr01.freeflyingcloud.xyz:24852?allowInsecure=1&amp;sni=kr01.freeflyingcloud.xyz#韩国-16.06MB/s
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr01.wangxd.life:3052?security=tls&sni=kr01.wangxd.life&type=tcp&headerType=none#
@@ -529,7 +530,7 @@ trojan://3ccbd6a4-bb95-4a93-bf7a-ad4a0bde9054@MAILGateWAy7-baSeSTREaM3-pORTNOdEH
 trojan://AE62539071@main-impala.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-4112
 trojan://EQ30679154@many-cricket.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-22756
 trojan://FH72359861@many-pangolin.rooster465.autos:443?sni=many-pangolin.rooster465.autos&type=tcp&fp=chrome#@V2ray_Collector
-trojan://Masir_Sefid@masir_sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651280
+trojan://Masir_Sefid@masir_sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20111721
 trojan://FH72359861@massive-ocelot.rooster465.autos:443?security=tls#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7%20KR-2683
 trojan://AE62539071@massive-terrapin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-2491
 trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev:2087?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&fp=chrome&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.cowebag581.workers.dev&path=/?ed=2560#EPODONIOS
@@ -557,4 +558,3 @@ trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki
 trojan://----------------BanV2ray---------------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:34901?mode=gun&security=reality&pbk=Ejz8wh4L9i-00CFgu_A9Ng4aW3WBcewIHeo85p95Cns&fp=chrome&type=grpc&sni=yahoo.com&sid=b2afbf#
 trojan://----------------BanV2ray---------------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:42351?mode=gun&security=reality&pbk=Ejz8wh4L9i-00CFgu_A9Ng4aW3WBcewIHeo85p95Cns&fp=chrome&type=grpc&sni=yahoo.com&sid=e5d7#
 trojan://----------------BanV2ray---------------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:43321?mode=gun&security=reality&pbk=Ejz8wh4L9i-00CFgu_A9Ng4aW3WBcewIHeo85p95Cns&fp=chrome&type=grpc&sni=yahoo.com&sid=95f1#
-trojan://--------BanV2ray---------@mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir:43596?mode=gun&security=reality&pbk=nGBHollHWJxqRwTVBgsdU0DZZLVHexdntltRKyYNax4&fp=chrome&type=grpc&sni=yahoo.com&sid=52a7aa2f4a#
