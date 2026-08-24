@@ -28,7 +28,7 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@211.72.35.158:3
 hy2://0d42717f@212.192.13.222:1995?insecure=1&sni=www.bing.com#🔒
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@212.192.13.96:2052?insecure=1&sni=hk3.xiaoliyu.us#🔒
 hy2://e48e92a9-7168-427b-9e16-4eb7d98229c1@212.192.15.239:1327?obfs=salamander&obfs-password=Y2JhZTU3ZjE4ZTI0MzRmMQ%3D%3D&insecure=1#🔒
-hysteria2://netherlands_3_hysteria2_fastlane_5gn859zch@212.34.143.45:443?insecure=0&sni=nl6.h.fastlanehosting.ru#🌐سرور
+hysteria2://netherlands_3_hysteria2_fastlane_5gn859zch@212.34.143.45:443?insecure=0&sni=nl6.h.fastlanehosting.ru#%F0%9F%87%B3%F0%9F%87%B1151008%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
 hysteria2://netherlands_3_hysteria2_fastlane_5gn859zch%3AqduEUxMExtlPKuxikB4xol3TWec5sbVd@212.34.143.45:1935?insecure=0&sni=nl6.h.fastlanehosting.ru&obfs=&obfs-password=#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C3.3MB/s
 hysteria2://netherlands_3_hysteria2_fastlane_5gn859zch:qduEUxMExtlPKuxikB4xol3TWec5sbVd@212.34.143.45:1935/?sni=nl6.h.fastlanehosting.ru&insecure=0#%F0%9F%87%B3%F0%9F%87%B1151008%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hy2://64009609-40ca-4955-82b7-45ff8daeeb2c@213.183.48.11:40443/?sni=speedtest.realityforus.com#%F0%9F%87%B7%F0%9F%87%BAMoscow%2B%40Surfboardv2ray
