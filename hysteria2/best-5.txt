@@ -29,6 +29,7 @@ hy2://0d42717f@212.192.13.222:1995?insecure=1&sni=www.bing.com#🔒
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@212.192.13.96:2052?insecure=1&sni=hk3.xiaoliyu.us#🔒
 hy2://e48e92a9-7168-427b-9e16-4eb7d98229c1@212.192.15.239:1327?obfs=salamander&obfs-password=Y2JhZTU3ZjE4ZTI0MzRmMQ%3D%3D&insecure=1#🔒
 hysteria2://netherlands_3_hysteria2_fastlane_5gn859zch@212.34.143.45:443?insecure=0&sni=nl6.h.fastlanehosting.ru#%F0%9F%87%B3%F0%9F%87%B1151008%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
+hysteria2://netherlands_3_hysteria2_fastlane_5gn859zch%3AqduEUxMExtlPKuxikB4xol3TWec5sbVd@212.34.143.45:1935?insecure=0&sni=nl6.h.fastlanehosting.ru&obfs=&obfs-password=#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C2.2MB/s
 hysteria2://netherlands_3_hysteria2_fastlane_5gn859zch:qduEUxMExtlPKuxikB4xol3TWec5sbVd@212.34.143.45:1935/?sni=nl6.h.fastlanehosting.ru&insecure=0#%F0%9F%87%B3%F0%9F%87%B1151008%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hy2://64009609-40ca-4955-82b7-45ff8daeeb2c@213.183.48.11:40443/?sni=speedtest.realityforus.com#%F0%9F%87%B7%F0%9F%87%BAMoscow%2B%40Surfboardv2ray
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.101.179:44300?insecure=1&sni=sg-02.worldfirst.eu.org#🔒
@@ -110,13 +111,12 @@ hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#4FreeIran-96aaa8529a
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Jadi-907f8e0726
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.148.164.219:443?insecure=1&sni=vpn-us-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=vpn-us-003.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443?insecure=1&sni=vpn-kr-003.fastervpn.world#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AKR
 hysteria2://e660daf2da753ca8317387342b8af384@3.71.196.174:50160?insecure=1&sni=www.bing.com#
-hysteria2://e660daf2da753ca8317387342b8af384@3.71.196.174:50160/?insecure=1&sni=www.bing.com#
+hysteria2://e660daf2da753ca8317387342b8af384@3.71.196.174:50160/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?security=tls&amp;alpn=h3&amp;insecure=1&amp;sni=130-17-10-202.sslip.io#🇷🇺|RU|@wxgqlfx|152
