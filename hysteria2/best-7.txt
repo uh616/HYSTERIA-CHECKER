@@ -1,4 +1,3 @@
-hy2://NDE0MDIwOjEwOTE1NjphMjUxNzE1ZTc2YzY4MjFh%3DTG%20WangCai2@54.250.34.221:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@54.250.34.221:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_221%20%40wangcai_8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.157.26:443?insecure=1&sni=vpn-sg-001.fastervpn.world#4Mohsen-83f1a4ab6d
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%232
@@ -36,7 +35,7 @@ hy2://dongtaiwang.com@62.210.103.0:22483?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20F
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7h2%40oneclickvpnkeys
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.147.2:43115?insecure=1&security=tls&sni=www.microsoft.com#%E6%B3%95%E5%9B%BD+ONLINE+S.A.S.%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C2.6MB%2Fs%7CGPT%E2%81%BA
 hy2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115/?insecure=1&sni=www.microsoft.com#EPODONIOS
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#4Jadi-764add0d73
 hy2://8b2693fb-8739-46bd-b184-5e7c1778c597@62.72.163.215:80?insecure=1#🔒
@@ -105,7 +104,7 @@ hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?sec
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@8.219.53.46:5552?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1#🔒
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@80.92.205.219:53041?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=jobvision.ir#🔒
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443?insecure=1&sni=iq5ny.pleiades.codes#%F0%9F%8F%9369%40oneclickvpnkeys
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443/?insecure=1&sni=iq5ny.pleiades.codes#%F0%9F%8F%9369@oneclickvpnkeys
+hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443/?insecure=1&sni=iq5ny.pleiades.codes#
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.62:8443?insecure=1&sni=iq5ny.pleiades.codes#
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.62:8443/?insecure=1&sni=iq5ny.pleiades.codes#
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@81.208.175.184:2052?insecure=1&sni=jd1.mangshe.xyz#🔒
@@ -129,3 +128,5 @@ hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.39.214.98:8080?sni=hop
 hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.39.214.98:8443?security=tls&amp;insecure=1&amp;sni=hopp-us.yyuyy.com#🇺🇸|US|@wxgqlfx|102
 hy2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.39.214.98:8080/?sni=hopp-us.yyuyy.com#EPODONIOS
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒
+hy2://03e4fe32@84.235.246.199:31452?insecure=1&sni=www.bing.com#🔒
+hy2://03e4fe32@84.235.248.145:31452?insecure=1&sni=www.bing.com#🔒
