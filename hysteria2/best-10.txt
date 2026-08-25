@@ -1,6 +1,6 @@
-hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@newos.klzvezdi.ru:9443?insecure=1&sni=newos.klzvezdi.ru#%F0%9F%87%A8%F0%9F%87%AD%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%91%9E%E5%A3%AB%2002
 hysteria2://Krab9Hyst2_Rk7pQ2xL@nl.vpn.legendaah.xyz:36723?insecure=1&sni=nl.vpn.legendaah.xyz#4FreeIran-f60ce56866
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&sni=nl01ntrhy01.tcp-reset-club.net#4Sarina-1d5664f044
+hy2://cd74c0a406664a5bc0bac098220a2468@nl1.sferavpn.pro:443/?insecure=1&sni=nl1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#美国
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443?insecure=1&sni=nl174.mechvpn.online#%E8%8D%B7%E5%85%B0
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443/?insecure=1&sni=nl174.mechvpn.online#EPODONIOS
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808?sni=nl7.unlockvpn.online#4Kian-12725ba857
@@ -17,7 +17,7 @@ hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443/?insecure=1&obfs=sala
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#%E5%BE%B7%E5%9B%BD
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@pl94.mechvpn.online:443?security=tls&amp;alpn=h3&amp;insecure=1&amp;sni=pl94.mechvpn.online#🇦🇪|AE|@wxgqlfx|77
-hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443?insecure=1&sni=player.wwwinternetvideo.click#%E7%BE%8E%E5%9B%BD_0825081196
+hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443?insecure=1&sni=player.wwwinternetvideo.click#%E7%BE%8E%E5%9B%BD_0825131227
 hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443/?insecure=1&sni=player.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#%F0%9F%87%B1%F0%9F%87%BBhysteria
 hysteria2://StableInternet@ptserv.accuratenetworkchecker.ir:36896?insecure=0&sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#%40Iran_v2ray1
