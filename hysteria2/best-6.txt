@@ -1,3 +1,6 @@
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AKR
+hysteria2://e660daf2da753ca8317387342b8af384@3.71.196.174:50160?insecure=1&sni=www.bing.com#
+hysteria2://e660daf2da753ca8317387342b8af384@3.71.196.174:50160/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?security=tls&amp;insecure=1#🇷🇺|RU|@wxgqlfx|117
 hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?insecure=1&sni=hy222.routeon.pro&obfs=&obfs-password=#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C1.8MB/s
 hy2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443/?insecure=1&sni=hy222.routeon.pro#EPODONIOS
@@ -118,6 +121,3 @@ hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#%
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA4
 hy2://4733f66a-4326-4046-b7b0-fc3f55c15283@5.39.252.182:3898?obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D&insecure=1#🔒
-hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@5.39.254.34:5128?obfs=salamander&obfs-password=ZTg1ZWVjNjAxZmRlNGI5MA%3D%3D&insecure=1#🔒
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443?insecure=1&sni=germany1.h2corp.local#
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&sni=germany1.h2corp.local#%3E%3E%40oneclickvpnkeys%3A%3ADE
