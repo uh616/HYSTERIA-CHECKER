@@ -1,3 +1,4 @@
+trojan://3723507166611775488@3.36.20.142:443/?type=tcp&security=tls&sni=super-goblin.treefrog761.one#%F0%9F%87%B0%F0%9F%87%B7KR%28AzadNet.t.me%29
 trojan://3723507166611775488@3.78.184.1:443/?type=tcp&security=tls&sni=golden-krill.treefrog761.one&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://3723507166611775488@35.155.4.93:443/?type=tcp&security=tls&sni=usable-toad.treefrog761.one&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://3723507166611775488@37.9.34.121:443/?type=tcp&security=tls&sni=tight-clam.boa152.lol&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -243,6 +244,7 @@ trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20119/?type=tcp&secu
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20120/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29%20%2838%29
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20123/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29%20%2862%29
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20126/?type=tcp&security=tls&sni=hk.catxstar.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29%20%2830%29
+trojan://7fb5f16d-4a73-42e6-b6c2-4f76f35af6f4@bestcdn2.868863.xyz:2087/?type=ws&host=17878361433987.206353.xyz&path=/agrbniuh&security=tls&sni=206353.xyz#美国
 trojan://7p52vhn9vs4naimm@104.21.24.15:443/?type=tcp&security=tls&sni=freealireza3.nscl.ir&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28114%29
 trojan://807248b3ad214e8ce1ace68cb2080851@77.110.101.210:443/?type=tcp&security=tls&sni=cdn-status.info&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%B1%F0%9F%87%A7LB%28AzadNet.t.me%29
 trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7KR%28AzadNet.t.me%29%20%286%29
@@ -542,5 +544,3 @@ trojan://blue2024@104.16.221.250:443/?type=tcp&security=tls&sni=ta.promote.icu#%
 trojan://blue2024@104.16.251.122:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.16.252.52:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.16.253.211:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.16.8.32:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2891%29
-trojan://blue2024@104.16.93.142:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
