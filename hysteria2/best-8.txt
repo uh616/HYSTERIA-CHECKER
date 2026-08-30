@@ -1,5 +1,3 @@
-hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@80.92.205.219:53041?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=jobvision.ir#🔒
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443?sni=iq5ny.pleiades.codes&insecure=1#GB
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443/?insecure=1&sni=iq5ny.pleiades.codes#@OutlineReleasedKey
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@81.208.175.184:2052?insecure=1&sni=jd1.mangshe.xyz#🔒
 hy2://f206702e@82.152.142.65:3341?insecure=1&sni=vkvd127.mycdn.me#🔒
@@ -21,7 +19,6 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.166:8443?security=
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.167:8443?security=tls&amp;insecure=1&amp;sni=grape-zet-ro-turbo.bumbleshrimp.com#🇷🇴|RO|@wxgqlfx|245
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.169:8080?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#%E5%BE%B7%E5%9B%BD%20%232
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.169:8080/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#EPODONIOS
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.170:8443?insecure=1&security=tls&sni=hopp-romania-new.roxa.org#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.171:8080?security=tls&amp;insecure=1&amp;sni=hopp-romania-new.roxa.org#🇷🇴|RO|@wxgqlfx|159
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.171:8443?security=tls&amp;insecure=1&amp;sni=hopp-romania-new.roxa.org#🇷🇴|RO|@wxgqlfx|141
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8080?security=tls&amp;insecure=1&amp;sni=hopp-romania-new.roxa.org#🇷🇴|RO|@wxgqlfx|181
@@ -29,17 +26,16 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8443?security=
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080?insecure=1&sni=hopp-romania-new.roxa.org#%E5%BE%B7%E5%9B%BD%20%233
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8443?security=tls&amp;insecure=1&amp;sni=hopp-romania-new.roxa.org#🇷🇴|RO|@wxgqlfx|206
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?insecure=1&sni=hopp-romania-new.roxa.org#EPODONIOS
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.177:8443?insecure=1&sni=hopp-romania-new.roxa.org#%F0%9F%87%B7%F0%9F%87%B4RO_14%7C2.5MB%2Fs%7CGPT%E2%81%BA%7CYT-RU%7CNF%7C13%25
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.177:8443?insecure=1&sni=hopp-romania-new.roxa.org#%F0%9F%87%B7%F0%9F%87%B4RO_1%7C1.2MB%2Fs%7CGPT%E2%81%BA%7CYT-RU%7CNF%7C13%25
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?sni=hopp-romania-new.roxa.org#%E5%BE%B7%E5%9B%BD%20%234
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?sni=hopp-romania-new.roxa.org#EPODONIOS
 hy2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🔒
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.73:8443?security=tls&amp;insecure=1&amp;sni=grape-zet-turbo-nl.yyuyy.com#🇳🇱|NL|@wxgqlfx|236
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.75:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#%E8%8D%B7%E5%85%B0%20%232
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.76:8443?security=tls&amp;insecure=1&amp;sni=hopp-netherland-new.dynuddns.net#🇳🇱|NL|@wxgqlfx|92
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.78:8443?sni=hopp-netherland-new.dynuddns.net#%E8%8D%B7%E5%85%B0%20%232
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.78:8443/?sni=hopp-netherland-new.dynuddns.net#EPODONIOS
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#🔒
-hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443?insecure=1&sni=pixelcast.wwwinternetvideo.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20843354
+hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443?sni=pixelcast.wwwinternetvideo.click&insecure=1#@OutlineReleasedKey
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052?insecure=1&sni=fr1.eyujichang.xyz#🔒
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@89.168.40.172:2052/?insecure=1&sni=fr1.eyujichang.xyz#%E1%90%AF2%E1%96%87%E1%97%A9Y_T%E1%91%8C%E1%91%8E%E1%91%8EE%E1%92%AA_%E1%91%AD%E1%92%AA%E1%91%8C%E1%94%95%F0%9F%87%B5%F0%9F%87%AD
@@ -92,7 +88,7 @@ hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2056?security=tls&insecure=1&sni=cc1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2052/?insecure=1&sni=cc1.mangshe.xyz#%F0%9F%94%B040%40oneclickvpnkeys
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc2.mangshe.xyz:2056?security=tls&insecure=1&sni=cc2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇰🇷%20KR%20down
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?insecure=1&sni=che01plrhy01.tcp-reset-club.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20715023
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?insecure=1&sni=che01plrhy01.tcp-reset-club.net#
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443/?insecure=1&sni=che01plrhy01.tcp-reset-club.net#%3E%3E%40oneclickvpnkeys%3A%3ACH
 hysteria2://ee1f7400-b7cb-4776-9e85-497965dfde00@dailyshop.pharmaweb.info:8080?peer=buildcenter.pharmaweb.info&insecure=0&sni=buildcenter.pharmaweb.info&alpn=h3#temp500-singbox_hysteria2
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#4Jadi-58cf216b7b
@@ -108,7 +104,7 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de120.mechvpn.online:443?securi
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#4FreeIran-aa16499876
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de200.mechvpn.online:443?security=tls&amp;insecure=1#🇩🇪|DE|@wxgqlfx|208
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de87.mechvpn.online:443?sni=de87.mechvpn.online&insecure=1#%E5%BE%B7%E5%9B%BD_083002003
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de87.mechvpn.online:443?sni=de87.mechvpn.online&insecure=1#%E5%BE%B7%E5%9B%BD_083006003
 hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@debiantubelinux.space:443?obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW&sni=debiantubelinux.space#SMART
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#%E5%BE%B7%E5%9B%BD%20%231
 hy2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443/?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#EPODONIOS
@@ -127,3 +123,5 @@ hysteria2://tYVaOArhcupVmnYggzlDZOuxVceGOSUgpjNhrVkFXJpxmJWFoodlWDwYuFSLgbcoREqR
 hysteria2://e442664a-ff50#🆔v2ray_raha%20🔒%20HY2-UDP-N/A%20❔%20XX%20down
 hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee2.sferavpn.pro&obfs=salamander&seq=you_are_beautiful4036#
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@157.254.158.7:33133/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY?sni=akile.nai3.cc#🇺🇲@ELiV2ray
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@els2.mangshe.xyz:2056?insecure=1&sni=els2.mangshe.xyz#%F0%9F%87%B7%F0%9F%87%BARU_1%7C1.4MB%2Fs%7CYT-RU%7C0%25
+hysteria2://55b71f97202647049ce999646de57c50@f1b.wareznet.ru:8444?peer=f1b.wareznet.ru#德国
