@@ -1,4 +1,3 @@
-hy2://03e4fe32@84.235.248.145:31452?insecure=1&sni=www.bing.com#🔒
 hy2://4328e5a3-b325-4154-9e7d-508e16962e40@84.252.75.14:8443?insecure=1&sni=hy10.abyssvpn.com#🔒
 hy2://1ea621651a6c247a@84.32.45.55:443?obfs=salamander&obfs-password=d6da8047&insecure=1#🔒
 hysteria2://STYyftThFn@85.121.122.25:12765?sni=freedom.chenlan.top#@OutlineReleasedKey
@@ -13,7 +12,7 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8443?security=
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?insecure=1&sni=hopp-romania-new.roxa.org#EPODONIOS
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080?insecure=1&sni=hopp-romania-new.roxa.org#%E5%BE%B7%E5%9B%BD%20%232
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni=hopp-romania-new.roxa.org#EPODONIOS
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?insecure=0&sni=hopp-romania-new.roxa.org#%E5%BE%B7%E5%9B%BD%20%233%202
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?sni=hopp-romania-new.roxa.org#%E5%BE%B7%E5%9B%BD%20%233
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?sni=hopp-romania-new.roxa.org#EPODONIOS
 hy2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🔒
 hysteria2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080?sni=hopp-transit.1cooldns.com#%E6%B3%95%E5%9B%BD%20%232
@@ -35,7 +34,6 @@ hy2://p6FfuI684f@91.184.242.252:443?insecure=1&sni=www.whatsapp.com&obfs=salaman
 hy2://9d765687-536c-4626-a2e2-6a403219e381@91.192.81.34:30103?insecure=1&sni=35afq4514.surfcat.store#🔒
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=germany3.h2corp.local#%F0%9F%94%9271%40oneclickvpnkeys
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://usa_2_hysteria2_fastlane_7xd97qbds%3AZO9NsnzCMk5WDLYrLMFJi8V2Dg3HRSpv@92.118.112.132:1935?insecure=1&sni=us3.h.fastlanehosting.ru#%F0%9F%87%AE%F0%9F%87%B1IL_1%7C1.9MB%2Fs%7CGPT%E2%81%BA%7CYT-RU%7CNF%7CGM%7C26%25
 hy2://04979c3cfe2a7945@92.246.139.15:443?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=205ef172277d3292#🔒
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@92.5.59.208:30000/?insecure=1&amp;sni=bing.com#📟2@oneclickvpnkeys
 hy2://StormXVPN@93.127.222.197:443?obfs=salamander&obfs-password=https://t.me/StormXVPN&insecure=1&sni=www.google.com#🔒
@@ -54,9 +52,9 @@ hysteria2://mTwkzEmNmip3wJ2ZilGwK7w2sYexYn@anymath.ir:443?sni=anymath.ir&alpn=h3
 hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#🆔appsooner%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@asb1.mangshe.xyz:2052/?insecure=1&sni=asb1.mangshe.xyz#%F0%9F%94%B06%40oneclickvpnkeys
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&amp;obfs=salamander&amp;obfs-password=t72hzzenktxmrvgu&amp;insecure=0&amp;sni=assets.gateway-stream.com#@igrsdet
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=d6pv15sghiq1onts#%E8%8A%AC%E5%85%B0_090202005
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=d6pv15sghiq1onts#%E8%8A%AC%E5%85%B0_090206005
 hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52064?security=tls&amp;obfs=salamander&amp;obfs-password=bs5yf8xwmyqafwy4&amp;insecure=0&amp;sni=assets.gateway-stream.com#@igrsdet
-hysteria2://5bcodmhjtyfyyrqh@awlix1.pcjxq.digital:36758?obfs-password=dzcb7hv6i2kx2zze&security=tls&sni=cdn77.dmtr.ru&allowInsecure=true&alpn#
+hysteria2://5bcodmhjtyfyyrqh@awlix1.pcjxq.digital:36758?sni=cdn77.dmtr.ru&obfs-password=dzcb7hv6i2kx2zze#%40awlix_ir
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@bg185.mechvpn.online:443?security=tls&amp;alpn=h3&amp;insecure=1&amp;sni=bg185.mechvpn.online#🇧🇬|BG|@wxgqlfx|132
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2056?security=tls&insecure=1&sni=bl1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇫🇷%20FR%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2052/?insecure=1&sni=bl1.mangshe.xyz#%F0%9F%94%B01%40oneclickvpnkeys
@@ -64,7 +62,7 @@ hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2056?security=t
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2052/?insecure=1&sni=bl2.mangshe.xyz#%F0%9F%94%B04%40oneclickvpnkeys
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1001?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
 hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1002?security=tls&insecure=0&sni=br.1010520.xyz#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇸🇬%20SG%20down
-hysteria2://tnnls@bwdf2fnt.xn--e1aatfr8bwa.online:443?insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81#%E7%BE%8E%E5%9B%BD_090202067
+hysteria2://tnnls@bwdf2fnt.xn--e1aatfr8bwa.online:443?insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81#%E7%BE%8E%E5%9B%BD_090206062
 hysteria2://tnnls%3Ab735eacd-3ca7-4019-b98c-3559918100e6@bwdf2fnt.xn--e1aatfr8bwa.online:30000?security=tls&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81&insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online#%40V2ray_Alpha%F0%9F%AB%91%202
 hysteria2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488?insecure=1&sni=c2.bestai.beauty#%E6%97%A5%E6%9C%AC
 hy2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488/?insecure=1&sni=c2.bestai.beauty#EPODONIOS
@@ -82,7 +80,7 @@ hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sn
 hy2://sharecentrepro@de.sharecentrepro.link:4433?downmbps=1000&sni=de.sharecentrepro.link#%F0%9F%94%92%F0%9F%87%A9%F0%9F%87%AA%20DE%2051.68.169.215%20%E2%97%88%20udp:4433%20%E2%97%88%20OVH%20/%20Regxa%20%E2%97%88%2090b98
 hy2://%73%68%61%72%65%63%65%6E%74%72%65%70%72%6F@de.sharecentrepro.link:4433/#Free_V2rng
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟5@oneclickvpnkeys
-hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#Channel%20%3A%20%40Daily_Configs
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#Channel%20%3A%20%40Daily_Configs%20%234
 hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443/?insecure=1&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de104.mechvpn.online:443?security=tls&amp;insecure=1&amp;sni=de104.mechvpn.online#🇩🇪|DE|@wxgqlfx|241
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de120.mechvpn.online:443?security=tls&amp;insecure=1&amp;sni=de120.mechvpn.online#🇩🇪|DE|@wxgqlfx|220
@@ -115,10 +113,12 @@ hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2056?security=
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@fhc1.mangshe.xyz:2052/?insecure=1&sni=fhc1.mangshe.xyz#%F0%9F%94%B020%40oneclickvpnkeys
 hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@fi-one.letsgodance.site:443?security=tls&amp;insecure=1&amp;sni=fi-one.letsgodance.site#🇸🇪|SE|@wxgqlfx|83
 hysteria2://81378ef7-89a1-43b5-9a9d-a04a8af25b7c@fin1.apexvpn.space:443?security=tls&amp;insecure=1&amp;sni=fin1.apexvpn.space#🇫🇮|FI|@wxgqlfx|185#🇫🇮|FI|@wxgqlfx|185
-hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%253D@fin14qr.wwwinternetvideo.click:443?insecure=1&sni=fin14qr.wwwinternetvideo.click#%E7%88%B1%E5%B0%94%E5%85%B0_090202001
-hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#
+hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%253D@fin14qr.wwwinternetvideo.click:443?insecure=1&sni=fin14qr.wwwinternetvideo.click#%E7%88%B1%E5%B0%94%E5%85%B0_090206001
+hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#%F0%9F%87%AB%F0%9F%87%AE158391%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@flkf1.mangshe.xyz:2052/?insecure=1&sni=flkf1.mangshe.xyz#%F0%9F%94%B03%40oneclickvpnkeys
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056?insecure=1&amp;sni=flkf3.mangshe.xyz#🇩🇪DE_1|1.8MB/s|GPT⁺|YT-CN|NF|0%
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?security=tls&amp;insecure=1&amp;sni=fr194.mechvpn.online#🇩🇪|DE|@wxgqlfx|237
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160?insecure=1&sni=138.197.44.181#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20138.197.44.181%20%E2%97%88%20udp:46160%20%E2%97%88%20DigitalOcean%20/%20DigitalOcean%20%E2%97%88%2084a50
 hy2://a40205ed-d045-4a90-90e0-276f09b36009@free_us.fylink.tech:46160/?mport=46160%2C46200&insecure=1#%E2%84%B9%EF%B8%8F9%40oneclickvpnkeys
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#EPODONIOS
+hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-catalog.aroonia.ir&obfs=salamander&obfs-password=6cmj1dymhm79hopl#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%A9%F0%9F%87%AA
