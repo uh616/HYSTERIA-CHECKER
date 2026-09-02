@@ -1,5 +1,3 @@
-trojan://3628ca8d-6371-45df-879c-2d3e5d110b51@24.199.70.112:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-trojan://3648425794742788096@13.213.225.221:443/?type=tcp&security=tls&sni=careful-giraffe.toad643.autos#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
 trojan://3648425794742788096@35.168.124.79:443/?type=tcp&security=tls&sni=humble-rodent.treefrog761.one&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://3648425794742788096@5.8.35.208:443/?type=tcp&security=tls&sni=loving-boa.treefrog761.one#%F0%9F%87%AE%F0%9F%87%B3IN%28AzadNet.t.me%29
 trojan://364d3aa0-58fc-11ed-b738-225401db9d57@54.36.191.211:443/?type=tcp&security=tls&sni=ebank.bmi.ir&allowInsecure=1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29%20%2810%29
@@ -148,7 +146,7 @@ trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&securi
 trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443/?type=tcp&security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28104%29
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443/?type=tcp&security=tls#%F0%9F%87%BB%F0%9F%87%B3VN%28AzadNet.t.me%29
 trojan://58e0f26f-67c7-4d13-a90f-d31679097bc6@us2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1#EPODONIOS
 trojan://5A%7Cqwun(Ne*!6%7CQo@172.66.47.95:443/?type=tcp&security=tls&sni=joInMahdISeRVeR-71l.PAGEs.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28228%29
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443/?type=tcp&security=tls&sni=wel-jp.optage.moe&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%288%29
 trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@jp005.421421.xyz:20230/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -164,7 +162,7 @@ trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.28:3516/?type=tcp&secu
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@jp2.twincloud.xyz:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://6518a1cf-a234-462d-9551-e02f95cc13eb@95.164.116.35:443/?type=tcp&security=tls&sni=tr1.thcvpn.ip-ddns.com#%F0%9F%87%B9%F0%9F%87%B7TR%28AzadNet.t.me%29
 trojan://654a309b-fdaa-3263-9bed-74a7e1532fd9@az05feiy.kuli888.xyz:443/?type=tcp&security=tls&sni=az05feiy.kuli888.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://662c065f-0495-4598-9a95-2e2fcb38b7b1@57.180.10.65:42423/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+trojan://662c065f-0495-4598-9a95-2e2fcb38b7b1@57.180.10.65:42423/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443/?type=tcp&security=tls&sni=de2-full.privateip.net#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.147.3:443/?type=tcp&security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28133%29
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443/?type=tcp&security=tls&sni=jobscareertoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28212%29
@@ -527,7 +525,7 @@ trojan://auto@185.146.173.158:443/?type=ws&host=esetsecuritylicense.bwnsmv.worke
 trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram@proxy#🔒
 trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram@proxy_mtm%2F%3Fed%3D2560#🔒
 trojan://auto@188.114.99.81:443/?type=ws&host=mazq100za43.962dael.workers.dev&security=tls&sni=mazq100za43.962dael.workers.dev&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🔥Join+Telegram:@Farah_VPN🟣
+trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#EPODONIOS
 trojan://azadnet-trojan@104.21.36.165:443/?type=tcp&security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28115%29
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443/?type=tcp&security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
@@ -543,3 +541,7 @@ trojan://b9f3ff1a-9c85-48e1-9809-7a6431c4329f@nl2-full.privateip.net:443/?type=t
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450/?type=tcp&security=tls&sni=hk.catxstar.com#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29%20%2825%29
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053/?type=tcp&security=tls&sni=ftp.debian.org#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
 trojan://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&type=ws&sni=cfpage-39t.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=cfpage-39t.pages.dev#%E6%9C%AA%E7%9F%A511
+trojan://bfb23be0-6c4f-11ee-8513-1239d0255272@51.210.182.170:443/?type=tcp&security=tls&sni=zula.ir#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
+trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053/?type=tcp&security=t
+trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=mydigipay.com#%F0%9F%87%AE%F0%9F%87%B7IR%28AzadNet.t.me%29%20%288%29
+trojan://blue2024@104.129.164.245:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
