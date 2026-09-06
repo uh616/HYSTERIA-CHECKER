@@ -29,7 +29,7 @@ hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@45.142.113.238:40443?sni=speedtest.re
 hysteria2://d376650d-76ee-4233-9c20-dd859f945bb4@45.142.113.238:40443/?sni=speedtest.realityforus.com&insecure=0#%F0%9F%87%A9%F0%9F%87%AAHysteria2%2B%40Surfboardv2ray
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.144.2.154:52773?insecure=1&sni=ssrsub.h04.trojan.tel#🔒
 hy2://75c2b164-42c9-4a19-bdc3-fdaea1aa8429@45.144.2.154:52773/?insecure=1&sni=ssrsub.h04.trojan.tel#%E2%9A%935%40oneclickvpnkeys
-hysteria2://990c8eb6-4c4e-4277-8602-79af8402cdd0@45.145.43.56:8443?sni=speedtestmark.com#%E5%BE%B7%E5%9B%BD_090621018
+hysteria2://990c8eb6-4c4e-4277-8602-79af8402cdd0@45.145.43.56:8443?sni=speedtestmark.com#%F0%9F%87%A9%F0%9F%87%AADE-%F0%9F%9A%80%40VPNine1
 hysteria2://990c8eb6-4c4e-4277-8602-79af8402cdd0@45.145.43.56:8443/?sni=speedtestmark.com#%E2%AD%90%EF%B8%8F12@oneclickvpnkeys
 hy2://dongtaiwang.com@45.145.72.212:23520?insecure=1&sni=bing.com#🔒
 hy2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.145.74.180:52773?insecure=1&sni=ssrsub.h06.trojan.tel#🔒
@@ -72,13 +72,13 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443?insecure=
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?insecure=1&sni=grape-turbo-fr.roxa.org#4Mohsen-307e07a3c3
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443/?sni=grape-turbo-fr.roxa.org#
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1163357%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8443?insecure=0&sni=grape-turbo-fr.roxa.org#163357%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20-%20t.me%2FS
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8443/?sni=grape-turbo-fr.roxa.org#%E2%AD%90%EF%B8%8F16@oneclickvpnkeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8080?security=tls&amp;insecure=1&amp;sni=grape-turbo-fr.roxa.org#🇳🇱|NL|@wxgqlfx|177
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443?security=tls&amp;insecure=1&amp;sni=grape-turbo-fr.roxa.org#🇳🇱|NL|@wxgqlfx|230
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.143:8080?security=tls&amp;insecure=1&amp;sni=grape-turbo-fr.roxa.org#🇳🇱|NL|@wxgqlfx|132
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.143:8443?security=tls&insecure=0&sni=grape-turbo-fr.roxa.org#Channel
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.143:8443?insecure=0&sni=grape-turbo-fr.roxa.org#Channel%20%3A%20%40Daily_Configs%20%233
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.143:8443/?sni=grape-turbo-fr.roxa.org#%E2%AD%90%EF%B8%8F23@oneclickvpnkeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.144:8443?sni=grape-turbo-fr.roxa.org#4Kian-a94ea7c46d
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.145:8443?sni=grape-turbo-fr.roxa.org#4Mohsen-c4d59565de
@@ -107,7 +107,7 @@ hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.74.42.113:6588?obfs=salamander&obf
 hy2://sysadmin.sysadmin@47.76.80.29:2023?insecure=1#🔒
 hy2://sysadmin.sysadmin@47.81.8.60:7788?insecure=1&sni=tg.sdxlgj001.top#🔒
 hy2://c9819e7a-3be8-4700-9523-8f55943b2f06@47.89.248.125:5113?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🔒
-hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_090621004
+hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#%E2%AD%90%EF%B8%8F18%40oneclickvpnkeys
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#%E2%AD%90%EF%B8%8F18@oneclickvpnkeys
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA5
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.66:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA4
