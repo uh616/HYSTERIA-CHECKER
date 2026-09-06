@@ -1,3 +1,4 @@
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Jadi-2e482d4164
 hy2://6ac9028082f11520@136.144.58.255:50288/?obfs=salamander&obfs-password=1f7caeaa&insecure=1#✅@RealMANI_IR
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%20137.175.79.36%20%E2%97%88%20udp:8620%20%E2%97%88%20PEG%20TECH%20INC%20/%20Ni%20Ruhong%20%E2%97%88%2003b00
 hy2://XvXbk2s6zvHzavka@137.175.79.36:8620/?insecure=1&sni=https%3A%2F%2Fbing.com%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -132,4 +133,3 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.136.65.4:2052?insecure=1&sni=asb1
 hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@150.230.192.191:30001?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#🔒
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@150.230.194.74:2052?insecure=1&sni=dj1.mangshe.xyz#🔒
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.205.14:30075?insecure=1&sni=www.bing.com#🔒
-hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@150.230.222.130:30075?insecure=1&sni=www.bing.com#🔒
