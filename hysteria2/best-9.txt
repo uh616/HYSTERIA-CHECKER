@@ -2,13 +2,13 @@ hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52006?insecure=0&sni=gi
 hysteria2://vpwzu6ug7tpoprsq@giftcard.gateway-stream.com:52008?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#
 hysteria2://vpwzu6ug7tpoprsq@giftcard.gateway-stream.com:52009?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#
 hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52010?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#
-hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52016?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40Daily_Configs%20%231
+hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52016?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40Daily_Configs
 hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52019?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#
 hysteria2://vpwzu6ug7tpoprsq@giftcard.gateway-stream.com:52020?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#
-hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52021?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Channel%20%3A%20%40Daily_Configs
+hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52021?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#-%F0%9F%87%A9%F0%9F%87%AA%20%40VConfing
 hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52022?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%A9%F0%9F%87%AA%40AZARBAYJAB1
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52023?security=tls&fm={
-hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52024?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40Daily_Configs%20%233
+hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52024?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40Daily_Configs%20%232
 hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52026?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE163236%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
 hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52029?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40v2ray_phoenix
 hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52030?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40v2ray_phoenix%20%231
@@ -18,14 +18,14 @@ hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?insecure=0&sni=gi
 hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52046?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52050?security=tls&fm={
 hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52057?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE163237%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S
-hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52067?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Channel%20%3A%20%40Daily_Configs%20%233
+hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52067?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#-%F0%9F%87%B9%F0%9F%87%B7%20%40VConfing
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52076?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40Cnetvpn%20%F0%9F%87%BA%F0%9F%87%B2%20%231
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52087?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40Cnetvpn%20%F0%9F%87%BA%F0%9F%87%B2
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%AB%F0%9F%87%AE
 hy2://76ivwa51ce2gauym@giftcard.gateway-stream.com:52004/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#EPODONIOS
 hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?insecure=0&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://niEGIEcu9rRmRBoA3yYiKtFRv87BMRnFEpozCmNTHyY@give.internet-card.sbs:24444?security=tls&sni=bel7bel.internet-card.sbs#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#BR_1%7C3.3MB%2Fs
+hysteria2://niEGIEcu9rRmRBoA3yYiKtFRv87BMRnFEpozCmNTHyY@give.internet-card.sbs:24444?insecure=0&sni=bel7bel.internet-card.sbs#%E8%8B%B1%E5%9B%BD%20V2CROSS.COM%202
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#%E5%B7%B4%E8%A5%BF
 hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#EPODONIOS
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go2.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#4FreeIran-552624fc11
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go2.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
@@ -46,7 +46,6 @@ hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMin
 hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000?insecure=1&sni=hk1.wukong.bond#@V2rayMiner
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443?insecure=1&sni=germany1.h2corp.local#%E5%BE%B7%E5%9B%BD%20%233
 hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443/?insecure=1&sni=germany1.h2corp.local#EPODONIOS
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443?sni=hy2-germany.unlimited-access.ru#@OutlineReleasedKey
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443?fp=chrome&sni=hy2-latvia2.unlimited-access.ru#@OutlineReleasedKey
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-netherlands.unlimited-access.ru:8443?security=tls&amp;insecure=1&amp;sni=hy2-netherlands.unlimited-access.ru#🇱🇻|LV|@wxgqlfx|46
@@ -133,3 +132,4 @@ hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&amp;
 hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mg3.mangshe.xyz:2056?security=tls&amp;insecure=1&amp;sni=mg3.mangshe.xyz#🇫🇷|FR|@wxgqlfx|93
 hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2056?security=tls&insecure=1&sni=mm1.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2052/?insecure=1&sni=mm1.mangshe.xyz#%F0%9F%94%B034%40oneclickvpnkeys
+hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm2.mangshe.xyz:2056?security=tls&insecure=1&sni=mm2.mangshe.xyz#🆔v2ray_alpha%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
