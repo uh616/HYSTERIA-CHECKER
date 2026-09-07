@@ -1,6 +1,3 @@
-trojan://3723507166611775488@37.9.34.121:443/?type=tcp&security=tls&sni=tight-clam.boa152.lol&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-trojan://3723507166611775488@5.189.203.38:443/?type=tcp&security=tls&sni=sacred-guppy.boa152.lol&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
-trojan://3723507166611775488@5.189.203.39:443/?type=tcp&security=tls&sni=lucky-grouper.boa152.lol&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
 trojan://3723507166611775488@5.189.203.50:443/?type=tcp&security=tls&sni=devoted-starfish.boa152.lol#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
 trojan://3723507166611775488@5.8.93.173:443/?type=tcp&security=tls&sni=nearby-hedgehog.boa152.lol&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://3723507166611775488@62.112.221.46:443/?type=tcp&security=tls&sni=boss-hound.boa152.lol&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
@@ -554,3 +551,8 @@ trojan://blue2024@104.17.150.255:443/?type=tcp&security=tls&sni=td.promote.icu#%
 trojan://blue2024@104.17.175.195:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.17.19.93:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.17.190.165:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.17.222.191:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.17.246.107:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.17.250.47:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.17.28.100:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.17.31.182:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
