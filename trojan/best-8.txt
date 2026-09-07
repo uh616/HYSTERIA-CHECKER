@@ -1,11 +1,3 @@
-trojan://3723507166611775488@91.206.179.73:443/?type=tcp&security=tls&sni=perfect-beagle.boa152.lol&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B1PL%28AzadNet.t.me%29
-trojan://3723507166611775488@94.177.131.199:443/?type=tcp&security=tls&sni=smiling-marmoset.boa152.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
-trojan://3723507166611775488@94.177.131.205:443/?type=tcp&security=tls&sni=unbiased-manatee.boa152.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
-trojan://3723507166611775488@94.177.131.44:443/?type=tcp&security=tls&sni=relative-monkey.boa152.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
-trojan://3723507166611775488@95.111.192.196:443/?type=tcp&security=tls&sni=major-reindeer.boa152.lol&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
-trojan://3723507166611775488@95.111.217.55:443/?type=tcp&security=tls&sni=pumped-stingray.boa152.lol&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BAAU%28AzadNet.t.me%29
-trojan://3723507166611775488@allowed-primate.boa152.lol:443/?type=tcp&security=tls&sni=allowed-primate.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://3723507166611775488@ample-cockatoo.boa152.lol:443/?type=tcp&security=tls&sni=ample-cockatoo.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@boss-hound.boa152.lol:443/?type=tcp&security=tls&sni=boss-hound.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@concrete-buzzard.boa152.lol:443/?type=tcp&security=tls&sni=concrete-buzzard.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@correct-redbird.boa152.lol:443/?type=tcp&security=tls&sni=correct-redbird.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -437,6 +429,7 @@ trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443/?type=tcp&securi
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443/?type=tcp&security=tls&sni=m2rrrty.777219.xyz#%F0%9F%8F%81RELAY-172.67.220.93-1510
 trojan://9yu6m5okr@104.21.50.5:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28158%29
 trojan://9yu6m5okr@172.67.198.177:443/?type=tcp&security=tls&sni=production.tj.ojan.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%28203%29
+trojan://@Cooonfig@@91.107.174.133:14639?Telegram=@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui,@HoosheMasnui&mode=auto&path=/&security=reality&pbk=E7nNU4kKyWD1oPuKzzXKsAhc8ZFWxBQuQf_xocrmdTk&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=2f368a9b67#4FreeIran-1f08fbc480
 trojan://@UonVPN-----@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={
 trojan://@UonVPN----@UonVPN---@UonVPN---@UonVPN@104.24.197.20:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&alpn=h2,http/1.1&fm={
 trojan://@UonVPN----@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={
@@ -555,3 +548,6 @@ trojan://blue2024@104.17.49.15:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%
 trojan://blue2024@104.17.57.75:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.17.64.70:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.17.65.98:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.17.71.31:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.17.71.89:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://blue2024@104.17.83.149:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
