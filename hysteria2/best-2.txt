@@ -1,3 +1,4 @@
+hysteria2://ed76d01a068000d9f034144d47baf1a4@134.65.60.88:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=02c4876afcc37c4298f71796b09a55da#%F0%9F%93%8054%40oneclickvpnkeys
 hysteria2://ed76d01a068000d9f034144d47baf1a4@134.65.60.88:443/?insecure=1&obfs=salamander&obfs-password=02c4876afcc37c4298f71796b09a55da&sni=www.bing.com#
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@135.125.204.154:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Jadi-2e482d4164
 hy2://6ac9028082f11520@136.144.58.255:50288/?obfs=salamander&obfs-password=1f7caeaa&insecure=1#✅@RealMANI_IR
@@ -40,6 +41,7 @@ hy2://b2deaadb-d3da-4cb9-ab65-c1b89fae5aaa@140.238.100.35:30001?insecure=1&sni=l
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@140.238.132.152:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇨🇦%20CA%20down
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@140.238.137.165:30102?insecure=1&sni=du.wish.ml#🔒
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#%F0%9F%93%8011%40oneclickvpnkeys
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#%F0%9F%93%8011@oneclickvpnkeys
 hy2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@140.238.229.214:24149?insecure=1#🔒
 hy2://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@140.238.253.128:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#$m
 hysteria2://C0DD7bgChaltqnh/T2az6ijM@140.238.31.111:20000?security=tls&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM&insecure=0&sni=rmgyvpn.rest#
@@ -100,20 +102,22 @@ hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.24.93.108:2052?insecure=1&sni=cc1
 hysteria2://08794874-93d0-4cf2-b9d6-1f2774cdffeb@144.31.1.28:2086?security=tls&amp;insecure=1&amp;sni=panel.vlessbotkey.ru#🇵🇱|PL|@wxgqlfx|1
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443?insecure=1&sni=replay.wwwinternetvideo.click#4Sarina-58f9225a80
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&sni=replay.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@144.31.221.57:443?insecure=1&sni=player.wwwinternetvideo.click#%E7%BE%8E%E5%9B%BD_0908171631
+hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@144.31.221.57:443?insecure=1&sni=player.wwwinternetvideo.click#%E7%BE%8E%E5%9B%BD_0908221638
 hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@144.31.221.57:443/?insecure=1&sni=player.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%E7%BE%8E%E5%9B%BD_090817030
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?insecure=1&sni=admin.wwwinternetvideo.click#4Nika-1c27906fc8
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443/?insecure=1&sni=admin.wwwinternetvideo.click#
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443?insecure=1&sni=admin.wwwinternetvideo.click#%F0%9F%93%8068%40oneclickvpnkeys
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443/?insecure=1&sni=admin.wwwinternetvideo.click#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20314286
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@144.31.93.173:443?insecure=1&sni=germany1.h2corp.local#%E2%AD%90%EF%B8%8F84%40oneclickvpnkeys
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@144.31.93.173:443/?insecure=1&sni=germany1.h2corp.local#
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@144.31.93.173:443/?insecure=1&sni=germany1.h2corp.local#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337794
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380/?sni=vmln53bkj6.bayworld.net&obfs=salamander&obfs-password=irvless#%E2%80%BC%EF%B8%8F2%40oneclickvpnkeys
 hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?insecure=1&sni=google.com#🔒
 hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443/?insecure=1&amp;sni=google.com#Hysteria
 hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@146.56.112.227:37894?insecure=1&sni=www.bing.com#🔒
 hy2://f0c28384-b2bd-4911-be81-0f2a3131b9ea@146.56.116.145:55228?insecure=1&sni=bing.com#🔒
+hysteria2://9da1fe49d6d788e865cb40113d2a4b9c@146.71.85.6:443?insecure=1&obfs=salamander&obfs-password=salamander&sni=www.bing.com#%E7%BE%8E%E5%9B%BD_090822036
 hysteria2://cbb5cf13f04b22883390f1a073753123@147.224.12.19:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=7a5537b116d923fe572f85f1db7fe501#US
 hy2://cbb5cf13f04b22883390f1a073753123@147.224.12.19:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=7a5537b116d923fe572f85f1db7fe501#EPODONIOS
 hy2://nRSmYP828VP1UwxlAnWEbmEtlLSH5SE7@147.45.154.150:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#🔒
@@ -131,6 +135,3 @@ hysteria2://a34f3990b69f44bfa0d32385@149.118.78.109:443?insecure=1&sni=rmgyvpn.r
 hy2://a34f3990b69f44bfa0d32385@149.118.78.109:443/?mport=20000-30000&insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#AU
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102?insecure=1&sni=us9.wish.ml#🔒
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@149.28.71.141:8080?sni=jp1.trojanws.xyz#🔒
-hysteria2://de08f485-8f8c-4316-9e80-6e7ecdf91d45@14in.prometheusnet01.xyz:24149?insecure=1&obfs=none&mport=21000-26000&fastopen=1#🆔freev2rayi%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443?insecure=1&sni=15.223.122.197#4FreeIran-4dc3115c15
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#
